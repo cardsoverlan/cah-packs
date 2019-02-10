@@ -1,0 +1,1880 @@
+{
+    "id": "cah_red_box",
+    "name": "CAH: Red Box",
+    "accent": "red",
+    "author": "Cards Against Humanity",
+    "license": "Creative Commons BY-NC-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "cards": [
+        {
+            "id": "w_politepants",
+            "content": {
+                "en-US": "Getting in her pants, politely."
+            }
+        },
+        {
+            "id": "w_gladitorial",
+            "content": {
+                "en-US": "Gladiatorial combat."
+            }
+        },
+        {
+            "id": "w_goodgrammar",
+            "content": {
+                "en-US": "Good grammar."
+            }
+        },
+        {
+            "id": "w_hipsters",
+            "content": {
+                "en-US": "Hipsters."
+            }
+        },
+        {
+            "id": "w_gandalf",
+            "content": {
+                "en-US": "Gandalf."
+            }
+        },
+        {
+            "id": "w_genengsoldiers",
+            "content": {
+                "en-US": "Genetically engineered super-soldiers."
+            }
+        },
+        {
+            "id": "w_clooneymusk",
+            "content": {
+                "en-US": "George Clooney's musk."
+            }
+        },
+        {
+            "id": "w_peterpankidnap",
+            "content": {
+                "en-US": "Getting abducted by Peter Pan."
+            }
+        },
+        {
+            "id": "w_albinoeat",
+            "content": {
+                "en-US": "Eating an albino."
+            }
+        },
+        {
+            "id": "w_bigscandwoman",
+            "content": {
+                "en-US": "Enormous Scandinavian women."
+            }
+        },
+        {
+            "id": "w_fabstats",
+            "content": {
+                "en-US": "Fabricating statistics."
+            }
+        },
+        {
+            "id": "w_skelefind",
+            "content": {
+                "en-US": "Finding a skeleton."
+            }
+        },
+        {
+            "id": "w_suicidethink",
+            "content": {
+                "en-US": "Suicidal thoughts."
+            }
+        },
+        {
+            "id": "w_broomdance",
+            "content": {
+                "en-US": "Dancing with a broom."
+            }
+        },
+        {
+            "id": "w_princessdeflower",
+            "content": {
+                "en-US": "Deflowering the princess."
+            }
+        },
+        {
+            "id": "w_doritobreath",
+            "content": {
+                "en-US": "Dorito breath."
+            }
+        },
+        {
+            "id": "w_1kslimjim",
+            "content": {
+                "en-US": "One thousand Slim Jims."
+            }
+        },
+        {
+            "id": "w_machete",
+            "content": {
+                "en-US": "My machete."
+            }
+        },
+        {
+            "id": "w_overpowfather",
+            "content": {
+                "en-US": "Overpowering your father."
+            }
+        },
+        {
+            "id": "w_omenbgmusic",
+            "content": {
+                "en-US": "Ominous background music."
+            }
+        },
+        {
+            "id": "w_mediacov",
+            "content": {
+                "en-US": "Media coverage."
+            }
+        },
+        {
+            "id": "w_peniskiss",
+            "content": {
+                "en-US": "Making the penises kiss."
+            }
+        },
+        {
+            "id": "w_moralambig",
+            "content": {
+                "en-US": "Moral ambiguity."
+            }
+        },
+        {
+            "id": "w_medievaltimes",
+            "content": {
+                "en-US": "Medieval Times&reg; Dinner &amp; Tournament."
+            }
+        },
+        {
+            "id": "w_hackyskills",
+            "content": {
+                "en-US": "Mad hacky-sack skills."
+            }
+        },
+        {
+            "id": "w_justtip",
+            "content": {
+                "en-US": "Just the tip."
+            }
+        },
+        {
+            "id": "w_litshiteat",
+            "content": {
+                "en-US": "Literally eating shit."
+            }
+        },
+        {
+            "id": "w_levelup",
+            "content": {
+                "en-US": "Leveling up."
+            }
+        },
+        {
+            "id": "w_insatbloodlust",
+            "content": {
+                "en-US": "Insatiable bloodlust."
+            }
+        },
+        {
+            "id": "w_histrevision",
+            "content": {
+                "en-US": "Historical revisionism."
+            }
+        },
+        {
+            "id": "w_vandamme",
+            "content": {
+                "en-US": "Jean-Claude Van Damme."
+            }
+        },
+        {
+            "id": "w_jafar",
+            "content": {
+                "en-US": "Jafar."
+            }
+        },
+        {
+            "id": "w_oldboners",
+            "content": {
+                "en-US": "The boners of the elderly."
+            }
+        },
+        {
+            "id": "w_economy",
+            "content": {
+                "en-US": "The economy."
+            }
+        },
+        {
+            "id": "w_statvalidstypes",
+            "content": {
+                "en-US": "Statistically validated stereotypes."
+            }
+        },
+        {
+            "id": "w_poopexpdisease",
+            "content": {
+                "en-US": "Sudden Poop Explosion Disease."
+            }
+        },
+        {
+            "id": "w_slsowmotion",
+            "content": {
+                "en-US": "Slow motion."
+            }
+        },
+        {
+            "id": "w_spacemuffins",
+            "content": {
+                "en-US": "Space muffins."
+            }
+        },
+        {
+            "id": "w_sexhumil",
+            "content": {
+                "en-US": "Sexual humiliation."
+            }
+        },
+        {
+            "id": "w_siamtwins",
+            "content": {
+                "en-US": "Sexy Siamese twins."
+            }
+        },
+        {
+            "id": "w_santa",
+            "content": {
+                "en-US": "Santa Claus."
+            }
+        },
+        {
+            "id": "w_ticklescrot",
+            "content": {
+                "en-US": "Scrotum tickling."
+            }
+        },
+        {
+            "id": "w_heartgrab",
+            "content": {
+                "en-US": "Ripping into a man's chest and pulling out his still-beating heart."
+            }
+        },
+        {
+            "id": "w_goslinghorse",
+            "content": {
+                "en-US": "Ryan Gosling riding in on a white horse."
+            }
+        },
+        {
+            "id": "w_qjowls",
+            "content": {
+                "en-US": "Quivering jowls."
+            }
+        },
+        {
+            "id": "w_revengefuck",
+            "content": {
+                "en-US": "Revenge fucking."
+            }
+        },
+        {
+            "id": "w_pwhiphostage",
+            "content": {
+                "en-US": "Pistol-whipping a hostage."
+            }
+        },
+        {
+            "id": "w_quiche",
+            "content": {
+                "en-US": "Quiche."
+            }
+        },
+        {
+            "id": "w_zeussexapp",
+            "content": {
+                "en-US": "Zeus's sexual appetites."
+            }
+        },
+        {
+            "id": "w_words3",
+            "content": {
+                "en-US": "Words, words, words."
+            }
+        },
+        {
+            "id": "w_tripballs",
+            "content": {
+                "en-US": "Tripping balls."
+            }
+        },
+        {
+            "id": "w_bebusyadult",
+            "content": {
+                "en-US": "Being a busy adult with many important things to do."
+            }
+        },
+        {
+            "id": "w_vishnuarms",
+            "content": {
+                "en-US": "The four arms of Vishnu."
+            }
+        },
+        {
+            "id": "w_larrykingcorpse",
+            "content": {
+                "en-US": "The shambling corpse of Larry King."
+            }
+        },
+        {
+            "id": "w_hiccups",
+            "content": {
+                "en-US": "The hiccups."
+            }
+        },
+        {
+            "id": "w_harshdaylight",
+            "content": {
+                "en-US": "The harsh light of day."
+            }
+        },
+        {
+            "id": "w_gulags",
+            "content": {
+                "en-US": "The Gulags."
+            }
+        },
+        {
+            "id": "w_fantagirls",
+            "content": {
+                "en-US": "The Fanta&reg; girls."
+            }
+        },
+        {
+            "id": "w_bbd",
+            "content": {
+                "en-US": "A big black dick."
+            }
+        },
+        {
+            "id": "w_beachedwhale",
+            "content": {
+                "en-US": "A beached whale."
+            }
+        },
+        {
+            "id": "w_lowlivingstd",
+            "content": {
+                "en-US": "A low standard of living."
+            }
+        },
+        {
+            "id": "w_nuancecrit",
+            "content": {
+                "en-US": "A nuanced critique."
+            }
+        },
+        {
+            "id": "w_bloodpacifier",
+            "content": {
+                "en-US": "A bloody pacifier."
+            }
+        },
+        {
+            "id": "w_craplittlehand",
+            "content": {
+                "en-US": "A crappy little hand."
+            }
+        },
+        {
+            "id": "w_shaft",
+            "content": {
+                "en-US": "Shaft."
+            }
+        },
+        {
+            "id": "w_bedino",
+            "content": {
+                "en-US": "Being a dinosaur."
+            }
+        },
+        {
+            "id": "w_beatingwives",
+            "content": {
+                "en-US": "Beating your wives."
+            }
+        },
+        {
+            "id": "w_npharris",
+            "content": {
+                "en-US": "Neil Patrick Harris."
+            }
+        },
+        {
+            "id": "w_vagcough",
+            "content": {
+                "en-US": "Coughing into a vagina."
+            }
+        },
+        {
+            "id": "w_carnies",
+            "content": {
+                "en-US": "Carnies."
+            }
+        },
+        {
+            "id": "w_nubslaveboys",
+            "content": {
+                "en-US": "Nubile slave boys."
+            }
+        },
+        {
+            "id": "w_boschicfarmers",
+            "content": {
+                "en-US": "Bosnian chicken farmers."
+            }
+        },
+        {
+            "id": "w_lieweb",
+            "content": {
+                "en-US": "A web of lies."
+            }
+        },
+        {
+            "id": "w_rivaldojo",
+            "content": {
+                "en-US": "A rival dojo."
+            }
+        },
+        {
+            "id": "w_paslatlover",
+            "content": {
+                "en-US": "A passionate Latino lover."
+            }
+        },
+        {
+            "id": "w_pantyraids",
+            "content": {
+                "en-US": "Panty raids."
+            }
+        },
+        {
+            "id": "w_happysnap",
+            "content": {
+                "en-US": "Appreciative snapping."
+            }
+        },
+        {
+            "id": "w_sorry",
+            "content": {
+                "en-US": "Apologizing."
+            }
+        },
+        {
+            "id": "w_clams",
+            "content": {
+                "en-US": "Clams."
+            }
+        },
+        {
+            "id": "w_scornedwoman",
+            "content": {
+                "en-US": "A woman scorned."
+            }
+        },
+        {
+            "id": "w_awesomesex",
+            "content": {
+                "en-US": "Being awesome at sex."
+            }
+        },
+        {
+            "id": "w_springbreak",
+            "content": {
+                "en-US": "Spring break!"
+            }
+        },
+        {
+            "id": "w_morphineshot",
+            "content": {
+                "en-US": "Another shot of morphine."
+            }
+        },
+        {
+            "id": "w_pappefriends",
+            "content": {
+                "en-US": "Dining with cardboard cutouts of the cast of \"Friends.\""
+            }
+        },
+        {
+            "id": "w_olmanriver",
+            "content": {
+                "en-US": "A soulful rendition of \"Ol' Man River.\""
+            }
+        },
+        {
+            "id": "w_makefriend",
+            "content": {
+                "en-US": "Making a friend."
+            }
+        },
+        {
+            "id": "w_leatherdaddy",
+            "content": {
+                "en-US": "A sweaty, panting leather daddy."
+            }
+        },
+        {
+            "id": "w_intimprobs",
+            "content": {
+                "en-US": "Intimacy problems."
+            }
+        },
+        {
+            "id": "w_radiohead",
+            "content": {
+                "en-US": "The new Radiohead album."
+            }
+        },
+        {
+            "id": "w_dressupgame",
+            "content": {
+                "en-US": "Pretty Pretty Princess Dress-Up Board Game&reg;."
+            }
+        },
+        {
+            "id": "w_yogaman",
+            "content": {
+                "en-US": "A man in yoga pants with a ponytail and feather earrings."
+            }
+        },
+        {
+            "id": "w_skelearmy",
+            "content": {
+                "en-US": "An army of skeletons."
+            }
+        },
+        {
+            "id": "w_aviatormoles",
+            "content": {
+                "en-US": "A squadron of moles wearing aviator goggles."
+            }
+        },
+        {
+            "id": "w_turfbeef",
+            "content": {
+                "en-US": "Beefin' over turf."
+            }
+        },
+        {
+            "id": "w_google",
+            "content": {
+                "en-US": "The Google."
+            }
+        },
+        {
+            "id": "w_bs",
+            "content": {
+                "en-US": "Bullshit."
+            }
+        },
+        {
+            "id": "w_sweetship",
+            "content": {
+                "en-US": "A sweet spaceship."
+            }
+        },
+        {
+            "id": "w_55lube",
+            "content": {
+                "en-US": "A 55-gallon drum of lube."
+            }
+        },
+        {
+            "id": "w_cher",
+            "content": {
+                "en-US": "Special musical guest, Cher."
+            }
+        },
+        {
+            "id": "w_humanbody",
+            "content": {
+                "en-US": "The human body."
+            }
+        },
+        {
+            "id": "w_mildautism",
+            "content": {
+                "en-US": "Mild autism."
+            }
+        },
+        {
+            "id": "w_ncmoves",
+            "content": {
+                "en-US": "Nunchuck moves."
+            }
+        },
+        {
+            "id": "w_slavewhip",
+            "content": {
+                "en-US": "Whipping a disobedient slave."
+            }
+        },
+        {
+            "id": "w_etherrag",
+            "content": {
+                "en-US": "An ether-soaked rag."
+            }
+        },
+        {
+            "id": "w_ontraffic",
+            "content": {
+                "en-US": "Oncoming traffic."
+            }
+        },
+        {
+            "id": "w_sourdollop",
+            "content": {
+                "en-US": "A dollop of sour cream."
+            }
+        },
+        {
+            "id": "w_shittypu",
+            "content": {
+                "en-US": "A slightly shittier parallel universe."
+            }
+        },
+        {
+            "id": "w_firstkill",
+            "content": {
+                "en-US": "My first kill."
+            }
+        },
+        {
+            "id": "w_borishammer",
+            "content": {
+                "en-US": "Boris the Soviet Love Hammer."
+            }
+        },
+        {
+            "id": "w_greybroth",
+            "content": {
+                "en-US": "The grey nutrient broth that sustains Mitt Romney."
+            }
+        },
+        {
+            "id": "w_lilnips",
+            "content": {
+                "en-US": "Tiny nipples."
+            }
+        },
+        {
+            "id": "w_power",
+            "content": {
+                "en-US": "Power."
+            }
+        },
+        {
+            "id": "w_segaldeath",
+            "content": {
+                "en-US": "Death by Steven Seagal."
+            }
+        },
+        {
+            "id": "w_tigerpit",
+            "content": {
+                "en-US": "A Burmese tiger pit."
+            }
+        },
+        {
+            "id": "w_humandecency",
+            "content": {
+                "en-US": "Basic human decency."
+            }
+        },
+        {
+            "id": "w_opash",
+            "content": {
+                "en-US": "Grandpa's ashes."
+            }
+        },
+        {
+            "id": "w_onering",
+            "content": {
+                "en-US": "One Ring to rule them all."
+            }
+        },
+        {
+            "id": "w_birdattackday",
+            "content": {
+                "en-US": "The day the birds attacked."
+            }
+        },
+        {
+            "id": "w_fetalcsyn",
+            "content": {
+                "en-US": "Fetal alcohol syndrome."
+            }
+        },
+        {
+            "id": "w_gvalsc",
+            "content": {
+                "en-US": "Graphic violence, adult language, and some sexual content."
+            }
+        },
+        {
+            "id": "w_bbd2",
+            "content": {
+                "en-US": "A bigger, blacker dick."
+            }
+        },
+        {
+            "id": "w_abconcept",
+            "content": {
+                "en-US": "The mere concept of Applebee's&reg;."
+            }
+        },
+        {
+            "id": "w_sadfatdragon",
+            "content": {
+                "en-US": "A sad fat dragon with no friends."
+            }
+        },
+        {
+            "id": "w_scorpsurprise",
+            "content": {
+                "en-US": "A pi&ntilde;ata full of scorpions."
+            }
+        },
+        {
+            "id": "w_existing",
+            "content": {
+                "en-US": "Existing."
+            }
+        },
+        {
+            "id": "w_hcdeathstare",
+            "content": {
+                "en-US": "Hillary Clinton's death stare."
+            }
+        },
+        {
+            "id": "w_urethratrauma",
+            "content": {
+                "en-US": "Catastrophic urethral trauma."
+            }
+        },
+        {
+            "id": "w_dp",
+            "content": {
+                "en-US": "Double penetration."
+            }
+        },
+        {
+            "id": "w_dadbelt",
+            "content": {
+                "en-US": "Daddy's belt."
+            }
+        },
+        {
+            "id": "w_fastorgasm",
+            "content": {
+                "en-US": "Swiftly achieving orgasm."
+            }
+        },
+        {
+            "id": "w_mooing",
+            "content": {
+                "en-US": "Mooing."
+            }
+        },
+        {
+            "id": "w_graverise",
+            "content": {
+                "en-US": "Rising from the grave."
+            }
+        },
+        {
+            "id": "w_grizzlywife",
+            "content": {
+                "en-US": "Subduing a grizzly bear and making her your wife."
+            }
+        },
+        {
+            "id": "w_realfuckedshit",
+            "content": {
+                "en-US": "Some really fucked-up shit."
+            }
+        },
+        {
+            "id": "w_plutonium",
+            "content": {
+                "en-US": "Weapons-grade plutonium."
+            }
+        },
+        {
+            "id": "w_allthisblood",
+            "content": {
+                "en-US": "All of this blood."
+            }
+        },
+        {
+            "id": "w_scrotfrostbite",
+            "content": {
+                "en-US": "Scrotal frostbite."
+            }
+        },
+        {
+            "id": "w_ballswap",
+            "content": {
+                "en-US": "Taking a man's eyes and balls out and putting his eyes where his balls go and then his balls in the eye holes."
+            }
+        },
+        {
+            "id": "w_racemixing",
+            "content": {
+                "en-US": "The mixing of the races."
+            }
+        },
+        {
+            "id": "w_babyevery9",
+            "content": {
+                "en-US": "Pumping out a baby every nine months."
+            }
+        },
+        {
+            "id": "w_tongue",
+            "content": {
+                "en-US": "Tongue."
+            }
+        },
+        {
+            "id": "w_loki",
+            "content": {
+                "en-US": "Loki, the trickster god."
+            }
+        },
+        {
+            "id": "w_bitchwhine",
+            "content": {
+                "en-US": "Whining like a little bitch."
+            }
+        },
+        {
+            "id": "w_octohat",
+            "content": {
+                "en-US": "Wearing an octopus for a hat."
+            }
+        },
+        {
+            "id": "w_seaferris",
+            "content": {
+                "en-US": "An unhinged ferris wheel rolling toward the sea."
+            }
+        },
+        {
+            "id": "w_waldofind",
+            "content": {
+                "en-US": "Finding Waldo."
+            }
+        },
+        {
+            "id": "w_homelesshotspot",
+            "content": {
+                "en-US": "Upgrading homeless people to mobile hotspots."
+            }
+        },
+        {
+            "id": "w_hippiecloud",
+            "content": {
+                "en-US": "A magic hippie love cloud."
+            }
+        },
+        {
+            "id": "w_mtfuck",
+            "content": {
+                "en-US": "Fuck Mountain."
+            }
+        },
+        {
+            "id": "w_trashhome",
+            "content": {
+                "en-US": "Living in a trashcan."
+            }
+        },
+        {
+            "id": "w_thecorps",
+            "content": {
+                "en-US": "The corporations."
+            }
+        },
+        {
+            "id": "w_bluebang",
+            "content": {
+                "en-US": "Getting hilariously gang-banged by the Blue Man Group."
+            }
+        },
+        {
+            "id": "w_goldblum",
+            "content": {
+                "en-US": "Jeff Goldblum."
+            }
+        },
+        {
+            "id": "w_surivorguilt",
+            "content": {
+                "en-US": "Survivor's guilt."
+            }
+        },
+        {
+            "id": "w_me",
+            "content": {
+                "en-US": "Me."
+            }
+        },
+        {
+            "id": "w_dyingfriends",
+            "content": {
+                "en-US": "All my friends dying."
+            }
+        },
+        {
+            "id": "w_shutup",
+            "content": {
+                "en-US": "Shutting the fuck up."
+            }
+        },
+        {
+            "id": "w_assdisaster",
+            "content": {
+                "en-US": "An ass disaster."
+            }
+        },
+        {
+            "id": "w_birdman",
+            "content": {
+                "en-US": "Some kind of bird-man."
+            }
+        },
+        {
+            "id": "w_wholeinternet",
+            "content": {
+                "en-US": "The entire Internet."
+            }
+        },
+        {
+            "id": "w_punchppl",
+            "content": {
+                "en-US": "Going around punching people."
+            }
+        },
+        {
+            "id": "w_booboo",
+            "content": {
+                "en-US": "A boo-boo."
+            }
+        },
+        {
+            "id": "w_wowlonely",
+            "content": {
+                "en-US": "Indescribable loneliness."
+            }
+        },
+        {
+            "id": "w_pizzasex",
+            "content": {
+                "en-US": "Having sex on top of a pizza."
+            }
+        },
+        {
+            "id": "w_yumlavalamp",
+            "content": {
+                "en-US": "Chugging a lava lamp."
+            }
+        },
+        {
+            "id": "w_muppetsex",
+            "content": {
+                "en-US": "Warm, velvety muppet sex."
+            }
+        },
+        {
+            "id": "w_dirtymallstreak",
+            "content": {
+                "en-US": "Running naked through a mall, pissing and shitting everywhere."
+            }
+        },
+        {
+            "id": "w_nothing",
+            "content": {
+                "en-US": "Nothing."
+            }
+        },
+        {
+            "id": "w_sljackson",
+            "content": {
+                "en-US": "Samuel L. Jackson."
+            }
+        },
+        {
+            "id": "w_selfflagell",
+            "content": {
+                "en-US": "Self-flagellation."
+            }
+        },
+        {
+            "id": "w_peopledestruct",
+            "content": {
+                "en-US": "The systematic destruction of an entire people and their way of life."
+            }
+        },
+        {
+            "id": "w_quesasalad",
+            "content": {
+                "en-US": "The Quesadilla Explosion Salad&trade; from Chili's&reg;."
+            }
+        },
+        {
+            "id": "w_revcowgirl",
+            "content": {
+                "en-US": "Reverse cowgirl."
+            }
+        },
+        {
+            "id": "w_namflashbacks",
+            "content": {
+                "en-US": "Vietnam flashbacks."
+            }
+        },
+        {
+            "id": "w_reallygetshot",
+            "content": {
+                "en-US": "Actually getting shot, for real."
+            }
+        },
+        {
+            "id": "w_nosex",
+            "content": {
+                "en-US": "Not having sex."
+            }
+        },
+        {
+            "id": "w_cock",
+            "content": {
+                "en-US": "Cock."
+            }
+        },
+        {
+            "id": "w_diealone",
+            "content": {
+                "en-US": "Dying alone and in pain."
+            }
+        },
+        {
+            "id": "w_dogcop",
+            "content": {
+                "en-US": "A cop who is also a dog."
+            }
+        },
+        {
+            "id": "w_whiteway",
+            "content": {
+                "en-US": "The way white people is."
+            }
+        },
+        {
+            "id": "w_gayliens",
+            "content": {
+                "en-US": "Gay aliens."
+            }
+        },
+        {
+            "id": "w_primalparentsex",
+            "content": {
+                "en-US": "The primal, ball-slapping sex your parents are having right now."
+            }
+        },
+        {
+            "id": "w_toocutecatvid",
+            "content": {
+                "en-US": "A cat video so cute that your eyes roll back and your spine slides out of your anus."
+            }
+        },
+        {
+            "id": "w_taintlatch",
+            "content": {
+                "en-US": "A lamprey swimming up the toilet and latching onto your taint."
+            }
+        },
+        {
+            "id": "w_racistladyslap",
+            "content": {
+                "en-US": "Slapping a racist old lady."
+            }
+        },
+        {
+            "id": "w_blackhoodiemale",
+            "content": {
+                "en-US": "A black male in his early 20s, last seen wearing a hoodie."
+            }
+        },
+        {
+            "id": "w_jumpingppl",
+            "content": {
+                "en-US": "Jumping out at people."
+            }
+        },
+        {
+            "id": "w_3mhole",
+            "content": {
+                "en-US": "Three months in the hole."
+            }
+        },
+        {
+            "id": "w_bloodfarts",
+            "content": {
+                "en-US": "Blood farts."
+            }
+        },
+        {
+            "id": "w_chocoland",
+            "content": {
+                "en-US": "The Land of Chocolate."
+            }
+        },
+        {
+            "id": "w_badcircumcize",
+            "content": {
+                "en-US": "A botched circumcision."
+            }
+        },
+        {
+            "id": "w_claude",
+            "content": {
+                "en-US": "My manservant, Claude."
+            }
+        },
+        {
+            "id": "w_blowpuke",
+            "content": {
+                "en-US": "Vomiting mid-blowjob."
+            }
+        },
+        {
+            "id": "w_letemalldown",
+            "content": {
+                "en-US": "Letting everyone down."
+            }
+        },
+        {
+            "id": "w_legguns",
+            "content": {
+                "en-US": "Having shotguns for legs."
+            }
+        },
+        {
+            "id": "w_nakedclintonsax",
+            "content": {
+                "en-US": "Bill Clinton, naked on a bearskin rug with a saxophone."
+            }
+        },
+        {
+            "id": "w_mufasadeath",
+            "content": {
+                "en-US": "Mufasa's death scene."
+            }
+        },
+        {
+            "id": "w_harlemgt",
+            "content": {
+                "en-US": "The Harlem Globetrotters."
+            }
+        },
+        {
+            "id": "w_demonpossess",
+            "content": {
+                "en-US": "Demonic possession."
+            }
+        },
+        {
+            "id": "w_fisting",
+            "content": {
+                "en-US": "Fisting."
+            }
+        },
+        {
+            "id": "w_pornveneer",
+            "content": {
+                "en-US": "The thin veneer of situational causality that underlies porn."
+            }
+        },
+        {
+            "id": "w_textingirls",
+            "content": {
+                "en-US": "Girls that always be textin'."
+            }
+        },
+        {
+            "id": "w_alleyblow",
+            "content": {
+                "en-US": "Blowing some dudes in an alley."
+            }
+        },
+        {
+            "id": "w_congaline",
+            "content": {
+                "en-US": "A spontaneous conga line."
+            }
+        },
+        {
+            "id": "w_vaginaportal",
+            "content": {
+                "en-US": "A vagina that leads to another dimension."
+            }
+        },
+        {
+            "id": "w_discofever",
+            "content": {
+                "en-US": "Disco fever."
+            }
+        },
+        {
+            "id": "w_chinesedicktrap",
+            "content": {
+                "en-US": "Getting your dick stuck in a Chinese finger trap with another dick."
+            }
+        },
+        {
+            "id": "w_50hourenergy",
+            "content": {
+                "en-US": "Drinking ten 5-hour ENERGYs&reg; to get fifty continuous hours of energy."
+            }
+        },
+        {
+            "id": "w_sneezefartcum",
+            "content": {
+                "en-US": "Sneezing, farting, and coming at the same time."
+            }
+        },
+        {
+            "id": "w_guitardouche",
+            "content": {
+                "en-US": "Some douche with an acoustic guitar."
+            }
+        },
+        {
+            "id": "w_lotsaspending",
+            "content": {
+                "en-US": "Spending lots of money."
+            }
+        },
+        {
+            "id": "w_vcrpbj",
+            "content": {
+                "en-US": "Putting an entire peanut butter and jelly sandwich into the VCR."
+            }
+        },
+        {
+            "id": "w_fireants",
+            "content": {
+                "en-US": "An unstoppable wave of fire ants."
+            }
+        },
+        {
+            "id": "w_mcconaughey",
+            "content": {
+                "en-US": "A greased-up Matthew McConaughey."
+            }
+        },
+        {
+            "id": "w_flyingrobots",
+            "content": {
+                "en-US": "Flying robots that kill people."
+            }
+        },
+        {
+            "id": "w_soupforever",
+            "content": {
+                "en-US": "Unlimited soup, salad, and breadsticks."
+            }
+        },
+        {
+            "id": "w_sylviapatch",
+            "content": {
+                "en-US": "Crying into the pages of Sylvia Plath."
+            }
+        },
+        {
+            "id": "w_moistmouth",
+            "content": {
+                "en-US": "The moist, demanding chasm of his mouth."
+            }
+        },
+        {
+            "id": "w_puddingfill",
+            "content": {
+                "en-US": "Filling every orifice with butterscotch pudding."
+            }
+        },
+        {
+            "id": "w_midgetrichard3",
+            "content": {
+                "en-US": "An all-midget production of Shakespeare's <i>Richard III<\/i>."
+            }
+        },
+        {
+            "id": "w_maniacscream",
+            "content": {
+                "en-US": "Screaming like a maniac."
+            }
+        },
+        {
+            "id": "w_nocontribute",
+            "content": {
+                "en-US": "Not contributing to society in any meaningful way."
+            }
+        },
+        {
+            "id": "w_squirmingbodies",
+            "content": {
+                "en-US": "A pile of squirming bodies."
+            }
+        },
+        {
+            "id": "w_coolpants",
+            "content": {
+                "en-US": "Buying the right pants to be cool."
+            }
+        },
+        {
+            "id": "w_rolandfarter",
+            "content": {
+                "en-US": "Roland the Farter, flatulist to the king."
+            }
+        },
+        {
+            "id": "w_thatass",
+            "content": {
+                "en-US": "That ass."
+            }
+        },
+        {
+            "id": "w_wowhair",
+            "content": {
+                "en-US": "A surprising amount of hair."
+            }
+        },
+        {
+            "id": "w_selleckstache",
+            "content": {
+                "en-US": "Eating Tom Selleck's mustache to gain his powers."
+            }
+        },
+        {
+            "id": "w_velcro",
+            "content": {
+                "en-US": "Velcro&trade;."
+            }
+        },
+        {
+            "id": "w_powerpoint",
+            "content": {
+                "en-US": "A PowerPoint presentation."
+            }
+        },
+        {
+            "id": "b_orgystopper",
+            "content": {
+                "en-US": "What brought the orgy to a grinding halt?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_notpoop",
+            "content": {
+                "en-US": "When I pooped, what came out of my butt?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_usadecline",
+            "content": {
+                "en-US": "In the distant future, historians will agree that ______ marked the beginning of America's decline."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_giftthatgives",
+            "content": {
+                "en-US": "What's the gift that keeps on giving?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_manvswild",
+            "content": {
+                "en-US": "This season on Man vs. Wild, Bear Grylls must survive in the depths of the Amazon with only ______ and his wits."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_michaelbaymovie",
+            "content": {
+                "en-US": "Michael Bay's new three-hour action epic pits ______ against ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_meddlingkids",
+            "content": {
+                "en-US": "And I would have gotten away with it, too, if it hadn't been for ______!"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_substitute",
+            "content": {
+                "en-US": "In a pinch, ______ can be a suitable substitute for ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_nudecolproblem",
+            "content": {
+                "en-US": "What has been making life difficult at the nudist colony?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_mysteryorigin",
+            "content": {
+                "en-US": "Science will never explain the origin of ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_vaticansecret",
+            "content": {
+                "en-US": "In Rome, there are whisperings that the Vatican has a secret room devoted to ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_badgriefhelp",
+            "content": {
+                "en-US": "I learned the hard way that you can't cheer up a grieving friend with ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_planbfap",
+            "content": {
+                "en-US": "When all else fails, I can always masturbate to ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_tribunalverdict",
+            "content": {
+                "en-US": "An international tribunal has found ______ guilty of ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_detroitcampaign",
+            "content": {
+                "en-US": "In its new tourism campaign, Detroit proudly proclaims that it has finally eliminated ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_kanyerapsound",
+            "content": {
+                "en-US": "In his new self-produced album, Kanye West raps over the sounds of ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_scandbasicright",
+            "content": {
+                "en-US": "The socialist governments of Scandinavia have declared that access to ______ is a basic human right."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_controlsworld",
+            "content": {
+                "en-US": "He who controls ______ controls the world."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_requestdenied",
+            "content": {
+                "en-US": "Dear Sir or Madam, We regret to inform you that the Office of ______ has denied your request for ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_ciainterrogate",
+            "content": {
+                "en-US": "The CIA now interrogates enemy agents by repeatedly subjecting them to ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_incomplete",
+            "content": {
+                "en-US": "______ would be woefully incomplete without ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_midlifecrisis",
+            "content": {
+                "en-US": "During his midlife crisis, my dad got really into ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_destroyevidence",
+            "content": {
+                "en-US": "Before I run for president, I must destroy all evidence of my involvement with ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_favpornstar",
+            "content": {
+                "en-US": "My new favorite porn star is Joey \"______\" McGee."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_davidblaine",
+            "content": {
+                "en-US": "In his newest and most difficult stunt, David Blaine must escape from ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_captainsaysprepare",
+            "content": {
+                "en-US": "This is your captain speaking. Fasten your seatbelts and prepare for ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_browserhistory",
+            "content": {
+                "en-US": "My mom freaked out when she looked at my browser history and found ______.com\/______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_griefstages",
+            "content": {
+                "en-US": "The Five Stages of Grief: denial, anger, bargaining, ______, acceptance."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_newyorkelite",
+            "content": {
+                "en-US": "Members of New York's social elite are paying thousands of dollars just to experience ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_allthanksto",
+            "content": {
+                "en-US": "I went from ______ to ______, all thanks to ______."
+            },
+            "blanks": 3
+        },
+        {
+            "id": "b_missmuffet",
+            "content": {
+                "en-US": "Little Miss Muffet Sat on a tuffet, Eating her curds and ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_cosmo",
+            "content": {
+                "en-US": "This month's Cosmo: \"Spice up your sex life by bringing ______ into the bedroom.\""
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_godgaveus",
+            "content": {
+                "en-US": "If God didn't want us to enjoy ______, he wouldn't have given us ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_tisofthee",
+            "content": {
+                "en-US": "My country, 'tis of thee, sweet land of ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_occupy",
+            "content": {
+                "en-US": "After months of debate, the Occupy Wall Street General Assembly could only agree on \"More ______!\""
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_liferuined",
+            "content": {
+                "en-US": "I spent my whole life working toward ______, only to have it ruined by ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_drphil",
+            "content": {
+                "en-US": "Next time on Dr. Phil: How to talk to your child about ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_twocertainthings",
+            "content": {
+                "en-US": "Only two things in life are certain: death and ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_downonground",
+            "content": {
+                "en-US": "Everyone down on the ground! We don't want to hurt anyone. We're just here for ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_healingprocess",
+            "content": {
+                "en-US": "The healing process began when I joined a support group for victims of ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_hsmascot",
+            "content": {
+                "en-US": "The votes are in, and the new high school mascot is ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_badcharades",
+            "content": {
+                "en-US": "Charades was ruined for me forever when my mom had to act out ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_allwehad",
+            "content": {
+                "en-US": "Before ______, all we had was ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_2020",
+            "content": {
+                "en-US": "Tonight on 20\/20: What you don't know about ______ could kill you."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_trulylived",
+            "content": {
+                "en-US": "You haven't truly lived until you've experienced ______ and ______ at the same time."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_heybaby",
+            "content": {
+                "en-US": "Hey baby, come back to my place and I'll show you ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_badgymteacher",
+            "content": {
+                "en-US": "My gym teacher got fired for adding ______ to the obstacle course."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_newdeliveryservice",
+            "content": {
+                "en-US": "Finally! A service that delivers ______ right to your door."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_ddlmethodact",
+            "content": {
+                "en-US": "To prepare for his upcoming role, Daniel Day-Lewis immersed himself in the world of ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_viciouscycle",
+            "content": {
+                "en-US": "My life is ruled by a vicious cycle of ______ and ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_foundclub",
+            "content": {
+                "en-US": "During high school, I never really fit in until I found ______ club."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_cantbuylove",
+            "content": {
+                "en-US": "Money can't buy me love, but it can buy me ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_steerclearson",
+            "content": {
+                "en-US": "Listen, son. If you want to get involved with ______, I won't stop you. Just steer clear of ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_goodinterview",
+            "content": {
+                "en-US": "A successful job interview begins with a firm handshake and ends with ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_goldstein",
+            "content": {
+                "en-US": "Call the law offices of Goldstein &amp; Goldstein, because no one should have to tolerate ______ in the workplace."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_lovinyou",
+            "content": {
+                "en-US": "Lovin' you is easy 'cause you're ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_blinddatesave",
+            "content": {
+                "en-US": "The blind date was going horribly until we discovered our shared interest in ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_couchstain",
+            "content": {
+                "en-US": "What left this stain on my couch?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_heronotneeded",
+            "content": {
+                "en-US": "Turns out that ______-Man was neither the hero we needed nor wanted."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_finallyready",
+            "content": {
+                "en-US": "After months of practice with ______, I think I'm finally ready for ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_seventhcicle",
+            "content": {
+                "en-US": "In the seventh circle of Hell, sinners must endure ______ for all eternity."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_acooperregimen",
+            "content": {
+                "en-US": "As part of his daily regimen, Anderson Cooper sets aside 15 minutes for ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_getrightdown",
+            "content": {
+                "en-US": "When you get right down to it, ______ is just ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_havingproblems",
+            "content": {
+                "en-US": "Having problems with ______? Try ______!"
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_showandtell",
+            "content": {
+                "en-US": "And what did <i>you<\/i> bring for show and tell?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_toorichandbusy",
+            "content": {
+                "en-US": "I'm not like the rest of you. I'm too rich and busy for ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_timeandpressure",
+            "content": {
+                "en-US": "With enough time and pressure, ______ will turn into ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_hoursoffun",
+            "content": {
+                "en-US": "______: Hours of fun. Easy to use. Perfect for ______!"
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_messinpractice",
+            "content": {
+                "en-US": "______. Awesome in theory, kind of a mess in practice."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_princedressingroom",
+            "content": {
+                "en-US": "As part of his contract, Prince won't perform without ______ in his dressing room."
+            },
+            "blanks": 1
+        }
+    ]
+}

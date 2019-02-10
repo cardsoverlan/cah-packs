@@ -1,0 +1,3751 @@
+{
+    "id": "cah_main",
+    "name": "CAH: Main Deck",
+    "accent": "black",
+    "author": "Cards Against Humanity",
+    "license": "Creative Commons BY-NC-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "trophies": [
+        {
+            "id": "trophy_balls",
+            "name": {
+                "en-US": "Found It!",
+                "de-DE": "Gefunden!"
+            },
+            "desc": {
+                "en-US": "Find Lance Armstrong's missing testicle.",
+                "de-DE": "Den vermissten Hode von Lance Armstrong finden."
+            },
+            "requirements": [
+                {
+                    "type": "cards_played",
+                    "cards": ["w_armstrongtesticle"],
+                    "winning": false
+                }
+            ]
+        },
+        {
+            "id": "trophy_thecard",
+            "name": {
+                "en-US": "That's Just Cheating",
+                "de-DE": "Unfairer Vorteil"
+            },
+            "desc": {
+                "en-US": "Use \"The Card\" to win a round.",
+                "de-DE": "Eine Runde mit \"Der Karte\" gewinnen."
+            },
+            "requirements": [
+                {
+                    "type": "cards_played",
+                    "cards": ["w_radcliffeasshole"],
+                    "winning": true
+                }
+            ]
+        }
+    ],
+    "cards": [
+        {
+            "id": "b_addition",
+            "content": {
+                "en-US": "______ + ______ = ______."
+            },
+            "blanks": 3
+        },
+        {
+            "id": "b_slipperyslope",
+            "content": {
+                "en-US": "______ is a slippery slope that leads to ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_kidtestedmotherapproved",
+            "content": {
+                "en-US": "______: kid-tested, mother-approved."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_canthavejustone",
+            "content": {
+                "en-US": "______. Betcha can't have just one!"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_highfivebro",
+            "content": {
+                "en-US": "______. High five, bro."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_itsatrap",
+            "content": {
+                "en-US": "______. It's a trap!"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_thatwassometal",
+            "content": {
+                "en-US": "______. That was so metal."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_onestarchicken",
+            "content": {
+                "en-US": "&#x2605;&#x2730;&#x2730;&#x2730;&#x2730; Do NOT go here! Found _____ in my Kung Pao chicken! "
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_halfmarriagesendin",
+            "content": {
+                "en-US": "50% of all marriages end in ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_labstudyhalfsex",
+            "content": {
+                "en-US": "A recent laboratory study shows that undergraduates have 50% less sex after being exposed to ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_incompleteromanticdinner",
+            "content": {
+                "en-US": "A romantic, candlelit dinner would be incomplete without ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_obamaletloose",
+            "content": {
+                "en-US": "After eight years in the White House, how is Obama finally letting loose?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_4plat3grammy",
+            "content": {
+                "en-US": "After four platinum albums and three Grammys, it's time to get back to my roots, to what inspired me to make music in the first place: ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_curativepowers",
+            "content": {
+                "en-US": "Alternative medicine is now embracing the curative powers of ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_academyaward",
+            "content": {
+                "en-US": "And the Academy Award for ______ goes to ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_arbys",
+            "content": {
+                "en-US": "Arby's: We Have ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_momoffiveboys",
+            "content": {
+                "en-US": "As the mom of five rambunctious boys, I'm no stranger to ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_bravorealityshow",
+            "content": {
+                "en-US": "Bravo's new reality show features eight washed-up celebrities living with ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_budlightofficialbeer",
+            "content": {
+                "en-US": "Brought to you by Bud Light®, the Official Beer of ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_beforeikillbond",
+            "content": {
+                "en-US": "But before I kill you, Mr. Bond, I must show you ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_checkoutdancemove",
+            "content": {
+                "en-US": "Check me out, yo! I call this dance move \"______.\""
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_clickhere",
+            "content": {
+                "en-US": "Click Here for ______!!!"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_broadwaymusical",
+            "content": {
+                "en-US": "Coming to Broadway this season, ______: The Musical."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_whymommycry",
+            "content": {
+                "en-US": "Daddy, why is mommy crying?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_dearabby",
+            "content": {
+                "en-US": "Dear Abby, I'm having some trouble with ______ and would like your advice."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_dontgoinbathroom",
+            "content": {
+                "en-US": "Dude, do not go in that bathroom. There's ______ in there."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_duringsexthought",
+            "content": {
+                "en-US": "During sex, I like to think about ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_mynexttrick",
+            "content": {
+                "en-US": "For my next trick, I will pull ______ out of ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_mangodownsurprise",
+            "content": {
+                "en-US": "Fun tip! When your man asks you to go down on him, try surprising him with ______ instead."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_hereisthechurch",
+            "content": {
+                "en-US": "Here is the church\nHere is the steeple\nOpen the doors\nAnd there is ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_welcomechilis",
+            "content": {
+                "en-US": "Hey guys, welcome to Chili's! Would you like to start the night off right with ______?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_redditama",
+            "content": {
+                "en-US": "Hey Reddit! I'm ______. Ask me anything."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_howlosevirginity",
+            "content": {
+                "en-US": "How did I lose my virginity?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_drinktoforget",
+            "content": {
+                "en-US": "I drink to forget ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_littlehelpfrom",
+            "content": {
+                "en-US": "I get by with a little help from ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_99problems",
+            "content": {
+                "en-US": "I got 99 problems but ______ ain't one."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_neverunderstooduntil",
+            "content": {
+                "en-US": "I never truly understood ______ until I encountered ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_kalecleanseweek",
+            "content": {
+                "en-US": "I'm going on a cleanse this week. Nothing but kale juice and ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_lebronjameshobby",
+            "content": {
+                "en-US": "I'm Lebron James, and when I'm not slamming dunks, I love ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_imnodoctorbut",
+            "content": {
+                "en-US": "I'm no doctor, but I'm pretty sure what you're suffering from is called \"______.\""
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_profhomeworkexcuse",
+            "content": {
+                "en-US": "I'm sorry, Professor, but I couldn't complete my homework because of ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_cantbewithoneyoulove",
+            "content": {
+                "en-US": "If you can't be with the one you love, love ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_mightbearedneck",
+            "content": {
+                "en-US": "IF you like ______, YOU MIGHT BE A REDNECK."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_shyamalanmovie",
+            "content": {
+                "en-US": "In M. Night Shyamalan's new movie, Bruce Willis discovers that ______ had really been ______ all along."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_disneyoriginalmovie",
+            "content": {
+                "en-US": "In the new Disney Channel Original Movie, Hannah Montana struggles with ______ for the first time."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_santaaltcoal",
+            "content": {
+                "en-US": "Instead of coal, Santa now gives the bad children ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_herosidekickduo",
+            "content": {
+                "en-US": "Introducing the amazing superhero/sidekick duo! It's ______ and ______!"
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_xtremebaseball",
+            "content": {
+                "en-US": "Introducing X-Treme Baseball! It's like baseball, but with ______!"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_kidsthesedaysinvolvedwith",
+            "content": {
+                "en-US": "It’s a pity that kids these days are all getting involved with ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_justoncethanksmom",
+            "content": {
+                "en-US": "Just once, I'd like to hear you say \"Thanks, Mom. Thanks for ______.\""
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_justsawupsettingvideo",
+            "content": {
+                "en-US": "Just saw this upsetting video! Please retweet!! #stop______"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_dontneeddrugskids",
+            "content": {
+                "en-US": "Kids, I don't need drugs to get high. I'm high on ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_indianlifechanged4ever",
+            "content": {
+                "en-US": "Life for American Indians was forever changed when the White Man introduced them to ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_lifetimepresents",
+            "content": {
+                "en-US": "Lifetime® presents \"______: the Story of ______.\""
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_haiku",
+            "content": {
+                "en-US": "Make a haiku."
+            },
+            "blanks": 3
+        },
+        {
+            "id": "b_maybeshebornwithit",
+            "content": {
+                "en-US": "Maybe she's born with it. Maybe it's ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_menswearhouse",
+            "content": {
+                "en-US": "Men's Wearhouse: You're gonna like ______. I guarantee it."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_rememberalexthegreat",
+            "content": {
+                "en-US": "Military historians remember Alexander the Great for his brilliant use of ______ against the Persians."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_cynthiadiaz",
+            "content": {
+                "en-US": "Mr. and Mrs. Diaz, we called you in because we're concerned about Cynthia. Are you aware that your daughter is ______?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_haveitonthemoon",
+            "content": {
+                "en-US": "My fellow Americans: Before this decade is out, we will have ______ on the moon!"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_jkrowlingbook",
+            "content": {
+                "en-US": "Next from J.K. Rowling: Harry Potter and the Chamber of ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_espn2",
+            "content": {
+                "en-US": "Next on ESPN2: The World Series of ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_oldmacdonald",
+            "content": {
+                "en-US": "Old MacDonald had ______. E-I-E-I-O."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_3stepprofit",
+            "content": {
+                "en-US": "Step 1: ______.\nStep 2: ______.\nStep 3: Profit."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_thatsrightikilled",
+            "content": {
+                "en-US": "That's right, I killed ______. How, you ask? ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_ruinedfieltrip",
+            "content": {
+                "en-US": "The class field trip was completely ruined by ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_chevytahoe",
+            "content": {
+                "en-US": "The new Chevy Tahoe. With the power and space to take ______ everywhere you go."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_theysaidwecrazy",
+            "content": {
+                "en-US": "They said we were crazy. They said we couldn't put ______ inside of ______. They were wrong."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_waytheworldends",
+            "content": {
+                "en-US": "This is the way the world ends\nThis is the way the world ends\nNot with a bang but with ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_steppenwolf",
+            "content": {
+                "en-US": "This season at Steppenwolf, Samuel Beckett's classic existential play: Waitng for ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_maury",
+            "content": {
+                "en-US": "Today on Maury: \"Help! My son is ______!\""
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_tsaguidelines",
+            "content": {
+                "en-US": "TSA guidelines now prohibit ______ on airplanes."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_seriousdoubts",
+            "content": {
+                "en-US": "Uh, hey guys, I know this was my idea, but I'm having serious doubts about ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_whatiswargoodfor",
+            "content": {
+                "en-US": "War! What is it good for?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_ihaveadatewith",
+            "content": {
+                "en-US": "Well if you'll excuse me, gentlemen, I have a date with ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_parentshidingfromme",
+            "content": {
+                "en-US": "What are my parents hiding from me?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_lastrelationshipend",
+            "content": {
+                "en-US": "What ended my last relationship?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_uncontrollablegas",
+            "content": {
+                "en-US": "What gives me uncontrollable gas?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_batmanguiltypleasure",
+            "content": {
+                "en-US": "What is Batman's guilty pleasure?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_gwbushthinking",
+            "content": {
+                "en-US": "What is George W. Bush thinking about right now?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_awkwardfirstkiss",
+            "content": {
+                "en-US": "What made my first kiss so awkward?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_makeslifeworthliving",
+            "content": {
+                "en-US": "What makes life worth living?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_liveupparty",
+            "content": {
+                "en-US": "What never fails to liven up the party?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_alwaysgetyoulaid",
+            "content": {
+                "en-US": "What will always get you laid?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_disturbungandcharming",
+            "content": {
+                "en-US": "What would grandma find disturbing, yet oddly charming?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_girlsbestfriend",
+            "content": {
+                "en-US": "What's a girl's best friend?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_secretpower",
+            "content": {
+                "en-US": "What's my secret power?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_teachforamerica",
+            "content": {
+                "en-US": "What's Teach for America using to inspire inner city students to succeed?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_smell",
+            "content": {
+                "en-US": "What's that smell?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_sound",
+            "content": {
+                "en-US": "What's that sound?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_toninheaven",
+            "content": {
+                "en-US": "What's there a ton of in heaven?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_50footstatue",
+            "content": {
+                "en-US": "When I am a billionare, I shall erect a 50-foot statue to commemorate ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_presidentdepartment",
+            "content": {
+                "en-US": "When I am President, I will create the Department of ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_acidtripturninto",
+            "content": {
+                "en-US": "When I was tripping on acid, ______ turned into ______."
+            },
+            "blanks": 2
+        },
+        {
+            "id": "b_mosesplague",
+            "content": {
+                "en-US": "When Pharaoh remained unmoved, Moses called down a Plague of ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_mexicospacerace",
+            "content": {
+                "en-US": "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_whitepeoplelike",
+            "content": {
+                "en-US": "White people like ______."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_whysticky",
+            "content": {
+                "en-US": "Why am I sticky?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_whynosleep",
+            "content": {
+                "en-US": "Why can't I sleep at night?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_whyhurtallover",
+            "content": {
+                "en-US": "Why do I hurt all over?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "w_10ksyrianrefugees",
+            "content": {
+                "en-US": "10,000 Syrian refugees."
+            }
+        },
+        {
+            "id": "w_50mgzoloft",
+            "content": {
+                "en-US": "50 mg of Zoloft daily."
+            }
+        },
+        {
+            "id": "w_50knipplevolts",
+            "content": {
+                "en-US": "50,000 volts straight to the nipples."
+            }
+        },
+        {
+            "id": "w_72virgins",
+            "content": {
+                "en-US": "72 virgins."
+            }
+        },
+        {
+            "id": "w_80zblacktarheroin",
+            "content": {
+                "en-US": "8 oz. of sweet Mexican black-tar heroin."
+            }
+        },
+        {
+            "id": "w_magicbeanbag",
+            "content": {
+                "en-US": "A bag of magic beans."
+            }
+        },
+        {
+            "id": "w_balancedbreakfast",
+            "content": {
+                "en-US": "A balanced breakfast."
+            }
+        },
+        {
+            "id": "w_earwaxsementoenailball",
+            "content": {
+                "en-US": "A ball of earwax, semen, and toenail clippings."
+            }
+        },
+        {
+            "id": "w_humanturdbird",
+            "content": {
+                "en-US": "A bird that shits human turds."
+            }
+        },
+        {
+            "id": "w_bitchslap",
+            "content": {
+                "en-US": "A bitch slap."
+            }
+        },
+        {
+            "id": "w_bleachedasshole",
+            "content": {
+                "en-US": "A bleached asshole."
+            }
+        },
+        {
+            "id": "w_bopit",
+            "content": {
+                "en-US": "A Bop It™."
+            }
+        },
+        {
+            "id": "w_mayoteeth",
+            "content": {
+                "en-US": "A bowl of mayonnaise and human teeth."
+            }
+        },
+        {
+            "id": "w_braintumor",
+            "content": {
+                "en-US": "A brain tumor."
+            }
+        },
+        {
+            "id": "w_crucifixion",
+            "content": {
+                "en-US": "A crucifixion."
+            }
+        },
+        {
+            "id": "w_sadbdayparty",
+            "content": {
+                "en-US": "A disappointing birthday party."
+            }
+        },
+        {
+            "id": "w_falconwithcap",
+            "content": {
+                "en-US": "A falcon with a cap on its head."
+            }
+        },
+        {
+            "id": "w_powerfartgiantwake",
+            "content": {
+                "en-US": "A fart so powerful that it wakes the giants from their thousand-year slumber."
+            }
+        },
+        {
+            "id": "w_fetus",
+            "content": {
+                "en-US": "A fetus."
+            }
+        },
+        {
+            "id": "w_fleshlight",
+            "content": {
+                "en-US": "A Fleshlight."
+            }
+        },
+        {
+            "id": "w_almondfuckton",
+            "content": {
+                "en-US": "A fuck-ton of almonds."
+            }
+        },
+        {
+            "id": "w_goodsniff",
+            "content": {
+                "en-US": "A good sniff."
+            }
+        },
+        {
+            "id": "w_goodstronggorilla",
+            "content": {
+                "en-US": "A good, strong gorilla."
+            }
+        },
+        {
+            "id": "w_gossamerjizz",
+            "content": {
+                "en-US": "A gossamer stream of jizz that catches the light as it arcs through the morning air."
+            }
+        },
+        {
+            "id": "w_homovolleyball",
+            "content": {
+                "en-US": "A homoerotic volleyball montage."
+            }
+        },
+        {
+            "id": "w_vikinghorde",
+            "content": {
+                "en-US": "A horde of Vikings."
+            }
+        },
+        {
+            "id": "w_lifetimeofsadness",
+            "content": {
+                "en-US": "A lifetime of sadness."
+            }
+        },
+        {
+            "id": "w_dinosaurboy",
+            "content": {
+                "en-US": "A little boy who won't shut the fuck up about dinosaurs."
+            }
+        },
+        {
+            "id": "w_livestudioaudience",
+            "content": {
+                "en-US": "A live studio audience."
+            }
+        },
+        {
+            "id": "w_orgasmbrinkman",
+            "content": {
+                "en-US": "A man on the brink of orgasm."
+            }
+        },
+        {
+            "id": "w_matingdisplay",
+            "content": {
+                "en-US": "A mating display."
+            }
+        },
+        {
+            "id": "w_mexican",
+            "content": {
+                "en-US": "A Mexican."
+            }
+        },
+        {
+            "id": "w_micropenis",
+            "content": {
+                "en-US": "A micropenis."
+            }
+        },
+        {
+            "id": "w_micropig",
+            "content": {
+                "en-US": "A micropig wearing a tiny raincoat and booties."
+            }
+        },
+        {
+            "id": "w_oldrollerskateman",
+            "content": {
+                "en-US": "A middle-aged man on roller skates."
+            }
+        },
+        {
+            "id": "w_mopeyzoolion",
+            "content": {
+                "en-US": "A mopey zoo lion."
+            }
+        },
+        {
+            "id": "w_muchyoungerwoman",
+            "content": {
+                "en-US": "A much younger woman."
+            }
+        },
+        {
+            "id": "w_pangenderoctopus",
+            "content": {
+                "en-US": "A pangender octopus who roams the cosmos in search of love."
+            }
+        },
+        {
+            "id": "w_headpyramid",
+            "content": {
+                "en-US": "A pyramid of severed heads."
+            }
+        },
+        {
+            "id": "w_reallycoolhat",
+            "content": {
+                "en-US": "A really cool hat."
+            }
+        },
+        {
+            "id": "w_sadhandjob",
+            "content": {
+                "en-US": "A sad handjob."
+            }
+        },
+        {
+            "id": "w_metalmansalad",
+            "content": {
+                "en-US": "A salad for men that's made of metal."
+            }
+        },
+        {
+            "id": "w_saltysurprise",
+            "content": {
+                "en-US": "A salty surprise."
+            }
+        },
+        {
+            "id": "w_sassyblackwoman",
+            "content": {
+                "en-US": "A sassy black woman."
+            }
+        },
+        {
+            "id": "w_saxsolo",
+            "content": {
+                "en-US": "A saxophone solo."
+            }
+        },
+        {
+            "id": "w_seaoftroubles",
+            "content": {
+                "en-US": "A sea of troubles."
+            }
+        },
+        {
+            "id": "w_snapturtledickbite",
+            "content": {
+                "en-US": "A snapping turtle biting the tip of your penis."
+            }
+        },
+        {
+            "id": "w_straypube",
+            "content": {
+                "en-US": "A stray pube."
+            }
+        },
+        {
+            "id": "w_catpeesupersoaker",
+            "content": {
+                "en-US": "A Super Soaker™ full of cat pee."
+            }
+        },
+        {
+            "id": "w_shaqthreesome",
+            "content": {
+                "en-US": "A three-way with my wife and Shaquille O'Neal."
+            }
+        },
+        {
+            "id": "w_timetravelparadox",
+            "content": {
+                "en-US": "A time travel paradox."
+            }
+        },
+        {
+            "id": "w_tinyhorse",
+            "content": {
+                "en-US": "A tiny horse."
+            }
+        },
+        {
+            "id": "w_tinygayguitar",
+            "content": {
+                "en-US": "A tiny, gay guitar called a ukulele."
+            }
+        },
+        {
+            "id": "w_wholethingofbutter",
+            "content": {
+                "en-US": "A whole thing of butter."
+            }
+        },
+        {
+            "id": "w_corpsewindmill",
+            "content": {
+                "en-US": "A windmill full of corpses."
+            }
+        },
+        {
+            "id": "w_aaronburr",
+            "content": {
+                "en-US": "Aaron Burr."
+            }
+        },
+        {
+            "id": "w_merylstreep",
+            "content": {
+                "en-US": "Academy Award winner Meryl Streep."
+            }
+        },
+        {
+            "id": "w_acceptwaythingsare",
+            "content": {
+                "en-US": "Accepting the way things are."
+            }
+        },
+        {
+            "id": "w_activelisten",
+            "content": {
+                "en-US": "Active listening."
+            }
+        },
+        {
+            "id": "w_adderall",
+            "content": {
+                "en-US": "Adderall™."
+            }
+        },
+        {
+            "id": "w_africankids",
+            "content": {
+                "en-US": "African children."
+            }
+        },
+        {
+            "id": "w_agriculture",
+            "content": {
+                "en-US": "Agriculture."
+            }
+        },
+        {
+            "id": "w_aids",
+            "content": {
+                "en-US": "AIDS."
+            }
+        },
+        {
+            "id": "w_alcoholism",
+            "content": {
+                "en-US": "Alcoholism."
+            }
+        },
+        {
+            "id": "w_alldudesifucked",
+            "content": {
+                "en-US": "All the dudes I've fucked."
+            }
+        },
+        {
+            "id": "w_allyoucaneatshrimp",
+            "content": {
+                "en-US": "All-you-can-eat shrimp for $8.99."
+            }
+        },
+        {
+            "id": "w_ar15",
+            "content": {
+                "en-US": "An AR-15 assault rifle."
+            }
+        },
+        {
+            "id": "w_endlessdiarrheastream",
+            "content": {
+                "en-US": "An endless stream of diarrhea."
+            }
+        },
+        {
+            "id": "w_4hourerection",
+            "content": {
+                "en-US": "An erection that lasts longer than four hours."
+            }
+        },
+        {
+            "id": "w_shyamalanplottwist",
+            "content": {
+                "en-US": "An M. Night Shyamalan plot twist."
+            }
+        },
+        {
+            "id": "w_7hjoctopus",
+            "content": {
+                "en-US": "An octopus giving seven handjobs and smoking a cigarette."
+            }
+        },
+        {
+            "id": "w_oedipuscomplex",
+            "content": {
+                "en-US": "An Oedipus complex."
+            }
+        },
+        {
+            "id": "w_almostdeadoldguy",
+            "content": {
+                "en-US": "An old guy who's almost dead."
+            }
+        },
+        {
+            "id": "w_olderwomanknowspenis",
+            "content": {
+                "en-US": "An older woman who knows her way around the penis."
+            }
+        },
+        {
+            "id": "w_oversizeslollipop",
+            "content": {
+                "en-US": "An oversized lollipop."
+            }
+        },
+        {
+            "id": "w_unwantedpregnancy",
+            "content": {
+                "en-US": "An unwanted pregnancy."
+            }
+        },
+        {
+            "id": "w_analbeads",
+            "content": {
+                "en-US": "Anal beads."
+            }
+        },
+        {
+            "id": "w_cumannouncement",
+            "content": {
+                "en-US": "Announcing that I am about to cum."
+            }
+        },
+        {
+            "id": "w_schwarzenegger",
+            "content": {
+                "en-US": "Arnold Schwarzenegger."
+            }
+        },
+        {
+            "id": "w_asslesschaps",
+            "content": {
+                "en-US": "Assless chaps."
+            }
+        },
+        {
+            "id": "w_auschwitz",
+            "content": {
+                "en-US": "Auschwitz."
+            }
+        },
+        {
+            "id": "w_authenticmexicanfood",
+            "content": {
+                "en-US": "Authentic Mexican cuisine."
+            }
+        },
+        {
+            "id": "w_autocannibalism",
+            "content": {
+                "en-US": "Autocannibalism."
+            }
+        },
+        {
+            "id": "w_axedeo",
+            "content": {
+                "en-US": "AXE Body Spray."
+            }
+        },
+        {
+            "id": "w_balls",
+            "content": {
+                "en-US": "Balls."
+            }
+        },
+        {
+            "id": "w_bananas",
+            "content": {
+                "en-US": "Bananas."
+            }
+        },
+        {
+            "id": "w_obama",
+            "content": {
+                "en-US": "Barack Obama."
+            }
+        },
+        {
+            "id": "w_batman",
+            "content": {
+                "en-US": "BATMAN!"
+            }
+        },
+        {
+            "id": "w_battlefieldamputations",
+            "content": {
+                "en-US": "Battlefield amputations."
+            }
+        },
+        {
+            "id": "w_becomeblueberry",
+            "content": {
+                "en-US": "Becoming a blueberry."
+            }
+        },
+        {
+            "id": "w_bees",
+            "content": {
+                "en-US": "Bees?"
+            }
+        },
+        {
+            "id": "w_bedicktokids",
+            "content": {
+                "en-US": "Being a dick to children."
+            }
+        },
+        {
+            "id": "w_motherfuckingsorcerer",
+            "content": {
+                "en-US": "Being a motherfucking sorcerer."
+            }
+        },
+        {
+            "id": "w_beingwoman",
+            "content": {
+                "en-US": "Being a woman."
+            }
+        },
+        {
+            "id": "w_talktoelephants",
+            "content": {
+                "en-US": "Being able to talk to elephants."
+            }
+        },
+        {
+            "id": "w_befatandstupid",
+            "content": {
+                "en-US": "Being fat and stupid."
+            }
+        },
+        {
+            "id": "w_bemarginalized",
+            "content": {
+                "en-US": "Being marginalized."
+            }
+        },
+        {
+            "id": "w_beonfire",
+            "content": {
+                "en-US": "Being on fire."
+            }
+        },
+        {
+            "id": "w_berich",
+            "content": {
+                "en-US": "Being rich."
+            }
+        },
+        {
+            "id": "w_billnye",
+            "content": {
+                "en-US": "Bill Nye the Science Guy."
+            }
+        },
+        {
+            "id": "w_bingepurge",
+            "content": {
+                "en-US": "Bingeing and purging."
+            }
+        },
+        {
+            "id": "w_bisexuality",
+            "content": {
+                "en-US": "Bisexuality."
+            }
+        },
+        {
+            "id": "w_bitches",
+            "content": {
+                "en-US": "Bitches."
+            }
+        },
+        {
+            "id": "w_blackpeople",
+            "content": {
+                "en-US": "Black people."
+            }
+        },
+        {
+            "id": "w_blowsohardheshits",
+            "content": {
+                "en-US": "Blowing my boyfriend so hard he shits."
+            }
+        },
+        {
+            "id": "w_boogers",
+            "content": {
+                "en-US": "Boogers."
+            }
+        },
+        {
+            "id": "w_penistwizzler",
+            "content": {
+                "en-US": "Braiding three penises into a Twizzler."
+            }
+        },
+        {
+            "id": "w_breakoutinsongdance",
+            "content": {
+                "en-US": "Breaking out into song and dance."
+            }
+        },
+        {
+            "id": "w_brownpeople",
+            "content": {
+                "en-US": "Brown people."
+            }
+        },
+        {
+            "id": "w_bubblebutt",
+            "content": {
+                "en-US": "Bubble butt bottom boys."
+            }
+        },
+        {
+            "id": "w_cah",
+            "content": {
+                "en-US": "Cards Against Humanity."
+            }
+        },
+        {
+            "id": "w_threesomesuggestion",
+            "content": {
+                "en-US": "Casually suggesting a threesome."
+            }
+        },
+        {
+            "id": "w_catapults",
+            "content": {
+                "en-US": "Catapults."
+            }
+        },
+        {
+            "id": "w_centaurs",
+            "content": {
+                "en-US": "Centaurs."
+            }
+        },
+        {
+            "id": "w_chainsawhands",
+            "content": {
+                "en-US": "Chainsaws for hands."
+            }
+        },
+        {
+            "id": "w_chemweapons",
+            "content": {
+                "en-US": "Chemical weapons."
+            }
+        },
+        {
+            "id": "w_childabuse",
+            "content": {
+                "en-US": "Child abuse."
+            }
+        },
+        {
+            "id": "w_childpageants",
+            "content": {
+                "en-US": "Child beauty pageants."
+            }
+        },
+        {
+            "id": "w_deadhitchhikerparts",
+            "content": {
+                "en-US": "Chunks of dead hitchhiker."
+            }
+        },
+        {
+            "id": "w_coathangerabort",
+            "content": {
+                "en-US": "Coat hanger abortions."
+            }
+        },
+        {
+            "id": "w_commitsuicide",
+            "content": {
+                "en-US": "Committing suicide."
+            }
+        },
+        {
+            "id": "w_unwarrantedconfidence",
+            "content": {
+                "en-US": "Completely unwarranted confidence."
+            }
+        },
+        {
+            "id": "w_bonerconeal",
+            "content": {
+                "en-US": "Concealing a boner."
+            }
+        },
+        {
+            "id": "w_consensualsex",
+            "content": {
+                "en-US": "Consensual sex."
+            }
+        },
+        {
+            "id": "w_chocula",
+            "content": {
+                "en-US": "Count Chocula."
+            }
+        },
+        {
+            "id": "w_iamapizza",
+            "content": {
+                "en-US": "Covering myself with Parmesan cheese and chili flakes because I am pizza."
+            }
+        },
+        {
+            "id": "w_cripplingdebt",
+            "content": {
+                "en-US": "Crippling debt."
+            }
+        },
+        {
+            "id": "w_crumbsallovercarpet",
+            "content": {
+                "en-US": "Crumbs all over the god damn carpet."
+            }
+        },
+        {
+            "id": "w_cuddling",
+            "content": {
+                "en-US": "Cuddling."
+            }
+        },
+        {
+            "id": "w_daddyissues",
+            "content": {
+                "en-US": "Daddy issues."
+            }
+        },
+        {
+            "id": "w_radcliffeasshole",
+            "content": {
+                "en-US": "Daniel Radcliffe's delicious asshole."
+            }
+        },
+        {
+            "id": "w_dannydevito",
+            "content": {
+                "en-US": "Danny DeVito."
+            }
+        },
+        {
+            "id": "w_darkmysteryforces",
+            "content": {
+                "en-US": "Dark and mysterious forces beyond our control."
+            }
+        },
+        {
+            "id": "w_darthvader",
+            "content": {
+                "en-US": "Darth Vader."
+            }
+        },
+        {
+            "id": "w_davidbowietiger",
+            "content": {
+                "en-US": "David Bowie flying in on a tiger made of lightning."
+            }
+        },
+        {
+            "id": "w_deadbabies",
+            "content": {
+                "en-US": "Dead babies."
+            }
+        },
+        {
+            "id": "w_deadbirdsallover",
+            "content": {
+                "en-US": "Dead birds everywhere."
+            }
+        },
+        {
+            "id": "w_deadparents",
+            "content": {
+                "en-US": "Dead parents."
+            }
+        },
+        {
+            "id": "w_dickfingers",
+            "content": {
+                "en-US": "Dick fingers."
+            }
+        },
+        {
+            "id": "w_dickpics",
+            "content": {
+                "en-US": "Dick pics."
+            }
+        },
+        {
+            "id": "w_diversity",
+            "content": {
+                "en-US": "Diversity."
+            }
+        },
+        {
+            "id": "w_doitinbutt",
+            "content": {
+                "en-US": "Doin' it in the butt."
+            }
+        },
+        {
+            "id": "w_doingcrimes",
+            "content": {
+                "en-US": "Doing crimes."
+            }
+        },
+        {
+            "id": "w_dorightthing",
+            "content": {
+                "en-US": "Doing the right thing."
+            }
+        },
+        {
+            "id": "w_donaldjtrump",
+            "content": {
+                "en-US": "Donald J. Trump."
+            }
+        },
+        {
+            "id": "w_drinkalone",
+            "content": {
+                "en-US": "Drinking alone."
+            }
+        },
+        {
+            "id": "w_drinktoiletgarbageeat",
+            "content": {
+                "en-US": "Drinking out of the toilet and eating garbage."
+            }
+        },
+        {
+            "id": "w_bathtubkiddrowning",
+            "content": {
+                "en-US": "Drowning the kids in the bathtub."
+            }
+        },
+        {
+            "id": "w_dryheaving",
+            "content": {
+                "en-US": "Dry heaving."
+            }
+        },
+        {
+            "id": "w_dwaynetherockjohnson",
+            "content": {
+                "en-US": "Dwayne \"The Rock\" Johnson."
+            }
+        },
+        {
+            "id": "w_dying",
+            "content": {
+                "en-US": "Dying."
+            }
+        },
+        {
+            "id": "w_husbandasseggeat",
+            "content": {
+                "en-US": "Eating a hard boiled egg out of my husband's asshole."
+            }
+        },
+        {
+            "id": "w_eatlastbison",
+            "content": {
+                "en-US": "Eating the last known bison."
+            }
+        },
+        {
+            "id": "w_elderlyjapanman",
+            "content": {
+                "en-US": "Elderly Japanese men."
+            }
+        },
+        {
+            "id": "w_tokyorampage",
+            "content": {
+                "en-US": "Emerging from the sea and rampaging through Tokyo."
+            }
+        },
+        {
+            "id": "w_emmawatson",
+            "content": {
+                "en-US": "Emma Watson."
+            }
+        },
+        {
+            "id": "w_emotions",
+            "content": {
+                "en-US": "Emotions."
+            }
+        },
+        {
+            "id": "w_erectiledysfunction",
+            "content": {
+                "en-US": "Erectile dysfunction."
+            }
+        },
+        {
+            "id": "w_establishdominance",
+            "content": {
+                "en-US": "Establishing dominance."
+            }
+        },
+        {
+            "id": "w_estrogen",
+            "content": {
+                "en-US": "Estrogen."
+            }
+        },
+        {
+            "id": "w_ethniccleansing",
+            "content": {
+                "en-US": "Ethnic cleansing."
+            }
+        },
+        {
+            "id": "w_exactlywhatyouexpect",
+            "content": {
+                "en-US": "Exactly what you'd expect."
+            }
+        },
+        {
+            "id": "w_hostageeveryhour",
+            "content": {
+                "en-US": "Executing a hostage every hour."
+            }
+        },
+        {
+            "id": "w_surprisevomitburp",
+            "content": {
+                "en-US": "Expecting a burp and vomiting on the floor."
+            }
+        },
+        {
+            "id": "w_howvaginaswork",
+            "content": {
+                "en-US": "Explaining how vaginas work."
+            }
+        },
+        {
+            "id": "w_explosions",
+            "content": {
+                "en-US": "Explosions."
+            }
+        },
+        {
+            "id": "w_extremetightpants",
+            "content": {
+                "en-US": "Extremely tight pants."
+            }
+        },
+        {
+            "id": "w_facebook",
+            "content": {
+                "en-US": "Facebook."
+            }
+        },
+        {
+            "id": "w_fadetonothing",
+            "content": {
+                "en-US": "Fading away into nothingness."
+            }
+        },
+        {
+            "id": "w_faketits",
+            "content": {
+                "en-US": "Fake tits."
+            }
+        },
+        {
+            "id": "w_famine",
+            "content": {
+                "en-US": "Famine."
+            }
+        },
+        {
+            "id": "w_fancyfeast",
+            "content": {
+                "en-US": "Fancy Feast®."
+            }
+        },
+        {
+            "id": "w_fartandwalkaway",
+            "content": {
+                "en-US": "Farting and walking away."
+            }
+        },
+        {
+            "id": "w_fearitself",
+            "content": {
+                "en-US": "Fear itself."
+            }
+        },
+        {
+            "id": "w_christfellowship",
+            "content": {
+                "en-US": "Fellowship in Christ."
+            }
+        },
+        {
+            "id": "w_fierypoops",
+            "content": {
+                "en-US": "Fiery poops."
+            }
+        },
+        {
+            "id": "w_businessbriefcase",
+            "content": {
+                "en-US": "Filling my briefcase with business stuff."
+            }
+        },
+        {
+            "id": "w_fingerpainting",
+            "content": {
+                "en-US": "Finger painting."
+            }
+        },
+        {
+            "id": "w_hogfuckriflefire",
+            "content": {
+                "en-US": "Firing a rifle into the air while balls deep in a squealing hog."
+            }
+        },
+        {
+            "id": "w_flesheatbacteria",
+            "content": {
+                "en-US": "Flesh-eating bacteria."
+            }
+        },
+        {
+            "id": "w_flightlessbirds",
+            "content": {
+                "en-US": "Flightless birds."
+            }
+        },
+        {
+            "id": "w_flyingsexsnakes",
+            "content": {
+                "en-US": "Flying sex snakes."
+            }
+        },
+        {
+            "id": "w_forcedsterilize",
+            "content": {
+                "en-US": "Forced sterilization."
+            }
+        },
+        {
+            "id": "w_foreskin",
+            "content": {
+                "en-US": "Foreskin."
+            }
+        },
+        {
+            "id": "w_formerpresgwbush",
+            "content": {
+                "en-US": "Former President George W. Bush."
+            }
+        },
+        {
+            "id": "w_foxnews",
+            "content": {
+                "en-US": "Fox News."
+            }
+        },
+        {
+            "id": "w_fragilemasc",
+            "content": {
+                "en-US": "Fragile masculinity."
+            }
+        },
+        {
+            "id": "w_freesamples",
+            "content": {
+                "en-US": "Free samples."
+            }
+        },
+        {
+            "id": "w_friction",
+            "content": {
+                "en-US": "Friction."
+            }
+        },
+        {
+            "id": "w_sisterfuck",
+            "content": {
+                "en-US": "Fucking my sister."
+            }
+        },
+        {
+            "id": "w_fuckweathermanontv",
+            "content": {
+                "en-US": "Fucking the weatherman on live television."
+            }
+        },
+        {
+            "id": "w_fullfrontal",
+            "content": {
+                "en-US": "Full frontal nudity."
+            }
+        },
+        {
+            "id": "w_funkyfreshrhymes",
+            "content": {
+                "en-US": "Funky fresh rhymes."
+            }
+        },
+        {
+            "id": "w_gandhi",
+            "content": {
+                "en-US": "Gandhi."
+            }
+        },
+        {
+            "id": "w_gayconversion",
+            "content": {
+                "en-US": "Gay conversion therapy."
+            }
+        },
+        {
+            "id": "w_geese",
+            "content": {
+                "en-US": "Geese."
+            }
+        },
+        {
+            "id": "w_genuinehumanconnect",
+            "content": {
+                "en-US": "Genuine human connection."
+            }
+        },
+        {
+            "id": "w_angelamerkel",
+            "content": {
+                "en-US": "German Chancellor Angela Merkel."
+            }
+        },
+        {
+            "id": "w_germandungeonporn",
+            "content": {
+                "en-US": "German dungeon porn."
+            }
+        },
+        {
+            "id": "w_vendmachinecrush",
+            "content": {
+                "en-US": "Getting crushed by a vending machine."
+            }
+        },
+        {
+            "id": "w_getcummedon",
+            "content": {
+                "en-US": "Getting cummed on."
+            }
+        },
+        {
+            "id": "w_drugsfromstreettobody",
+            "content": {
+                "en-US": "Getting drugs off the street and into my body."
+            }
+        },
+        {
+            "id": "w_getfingered",
+            "content": {
+                "en-US": "Getting fingered."
+            }
+        },
+        {
+            "id": "w_floridaretirement",
+            "content": {
+                "en-US": "Getting married, having a few kids, buying some stuff, retiring to Florida, and dying."
+            }
+        },
+        {
+            "id": "w_nakednickelodeon",
+            "content": {
+                "en-US": "Getting naked and watching Nickelodeon."
+            }
+        },
+        {
+            "id": "w_getrealhigh",
+            "content": {
+                "en-US": "Getting really high."
+            }
+        },
+        {
+            "id": "w_angrybonerpop",
+            "content": {
+                "en-US": "Getting so angry that you pop a boner."
+            }
+        },
+        {
+            "id": "w_ghosts",
+            "content": {
+                "en-US": "Ghosts."
+            }
+        },
+        {
+            "id": "w_girls",
+            "content": {
+                "en-US": "Girls."
+            }
+        },
+        {
+            "id": "w_give110",
+            "content": {
+                "en-US": "Giving 110%."
+            }
+        },
+        {
+            "id": "w_antichristbirth",
+            "content": {
+                "en-US": "Giving birth to the Antichrist."
+            }
+        },
+        {
+            "id": "w_gloryholes",
+            "content": {
+                "en-US": "Gloryholes."
+            }
+        },
+        {
+            "id": "w_goblins",
+            "content": {
+                "en-US": "Goblins."
+            }
+        },
+        {
+            "id": "w_god",
+            "content": {
+                "en-US": "God."
+            }
+        },
+        {
+            "id": "w_gogurt",
+            "content": {
+                "en-US": "GoGurt®."
+            }
+        },
+        {
+            "id": "w_wholedaynofap",
+            "content": {
+                "en-US": "Going an entire day without masturbating."
+            }
+        },
+        {
+            "id": "w_grandma",
+            "content": {
+                "en-US": "Grandma."
+            }
+        },
+        {
+            "id": "w_halfassforeplay",
+            "content": {
+                "en-US": "Half-assed foreplay."
+            }
+        },
+        {
+            "id": "w_hperotica",
+            "content": {
+                "en-US": "Harry Potter erotica."
+            }
+        },
+        {
+            "id": "w_anuseyes",
+            "content": {
+                "en-US": "Having anuses for eyes."
+            }
+        },
+        {
+            "id": "w_unrealisticdreams",
+            "content": {
+                "en-US": "Having big dreams but no realistic way to achieve them."
+            }
+        },
+        {
+            "id": "w_firsttimesex",
+            "content": {
+                "en-US": "Having sex for the first time."
+            }
+        },
+        {
+            "id": "w_heartwarmorphans",
+            "content": {
+                "en-US": "Heartwarming orphans."
+            }
+        },
+        {
+            "id": "w_hermajestyqe2",
+            "content": {
+                "en-US": "Her Majesty, Queen Elizabeth II."
+            }
+        },
+        {
+            "id": "w_heteronorm",
+            "content": {
+                "en-US": "Heteronormativity."
+            }
+        },
+        {
+            "id": "w_clintonemails",
+            "content": {
+                "en-US": "Hillary Clinton's emails."
+            }
+        },
+        {
+            "id": "w_hobos",
+            "content": {
+                "en-US": "Hobos."
+            }
+        },
+        {
+            "id": "w_fartalloverchild",
+            "content": {
+                "en-US": "Holding down a child and farting all over him."
+            }
+        },
+        {
+            "id": "w_hope",
+            "content": {
+                "en-US": "Hope."
+            }
+        },
+        {
+            "id": "w_horsemeat",
+            "content": {
+                "en-US": "Horse meat."
+            }
+        },
+        {
+            "id": "w_hospicecare",
+            "content": {
+                "en-US": "Hospice care."
+            }
+        },
+        {
+            "id": "w_hotcheese",
+            "content": {
+                "en-US": "Hot cheese."
+            }
+        },
+        {
+            "id": "w_hotpeople",
+            "content": {
+                "en-US": "Hot people."
+            }
+        },
+        {
+            "id": "w_amazingonshrooms",
+            "content": {
+                "en-US": "How amazing it is to be on mushrooms."
+            }
+        },
+        {
+            "id": "w_baddancerecital",
+            "content": {
+                "en-US": "How bad my daughter fucked up her dance recital."
+            }
+        },
+        {
+            "id": "w_penisupownbutt",
+            "content": {
+                "en-US": "How far I can get my own penis up my butt."
+            }
+        },
+        {
+            "id": "w_weedfor20",
+            "content": {
+                "en-US": "However much weed $20 can buy."
+            }
+        },
+        {
+            "id": "w_huffspraypaint",
+            "content": {
+                "en-US": "Huffing spray paint."
+            }
+        },
+        {
+            "id": "w_hugebiceps",
+            "content": {
+                "en-US": "Huge biceps."
+            }
+        },
+        {
+            "id": "w_illegalimmigrants",
+            "content": {
+                "en-US": "Illegal immigrants."
+            }
+        },
+        {
+            "id": "w_inappropyodel",
+            "content": {
+                "en-US": "Inappropriate yodeling."
+            }
+        },
+        {
+            "id": "w_incest",
+            "content": {
+                "en-US": "Incest."
+            }
+        },
+        {
+            "id": "w_masonjaranus",
+            "content": {
+                "en-US": "Inserting a Mason jar into my anus."
+            }
+        },
+        {
+            "id": "w_invadepoland",
+            "content": {
+                "en-US": "Invading Poland."
+            }
+        },
+        {
+            "id": "w_italians",
+            "content": {
+                "en-US": "Italians."
+            }
+        },
+        {
+            "id": "w_itchypussy",
+            "content": {
+                "en-US": "Itchy pussy."
+            }
+        },
+        {
+            "id": "w_jdpowerassoc",
+            "content": {
+                "en-US": "J.D. Power and his associates."
+            }
+        },
+        {
+            "id": "w_jlaw",
+            "content": {
+                "en-US": "Jennifer Lawrence."
+            }
+        },
+        {
+            "id": "w_jerkoffinkidtears",
+            "content": {
+                "en-US": "Jerking off into a pool of children's tears."
+            }
+        },
+        {
+            "id": "w_jewsgypsieshomos",
+            "content": {
+                "en-US": "Jews, gypsies, and homosexuals."
+            }
+        },
+        {
+            "id": "w_jobs",
+            "content": {
+                "en-US": "Jobs."
+            }
+        },
+        {
+            "id": "w_judgejudy",
+            "content": {
+                "en-US": "Judge Judy."
+            }
+        },
+        {
+            "id": "w_judgeeveryone",
+            "content": {
+                "en-US": "Judging everyone."
+            }
+        },
+        {
+            "id": "w_justinbieber",
+            "content": {
+                "en-US": "Justin Bieber."
+            }
+        },
+        {
+            "id": "w_kamikazepilots",
+            "content": {
+                "en-US": "Kamikaze pilots."
+            }
+        },
+        {
+            "id": "w_kanyewest",
+            "content": {
+                "en-US": "Kanye West."
+            }
+        },
+        {
+            "id": "w_kisskillgrandma",
+            "content": {
+                "en-US": "Kissing grandma on the forehead and turning off her life support."
+            }
+        },
+        {
+            "id": "w_kkkkk",
+            "content": {
+                "en-US": "Kourtney, Kim, Khloe, Kendall, and Kylie."
+            }
+        },
+        {
+            "id": "w_lactation",
+            "content": {
+                "en-US": "Lactation."
+            }
+        },
+        {
+            "id": "w_armstrongtesticle",
+            "content": {
+                "en-US": "Lance Armstrong's missing testicle."
+            }
+        },
+        {
+            "id": "w_landmines",
+            "content": {
+                "en-US": "Land mines."
+            }
+        },
+        {
+            "id": "w_layegg",
+            "content": {
+                "en-US": "Laying an egg."
+            }
+        },
+        {
+            "id": "w_lenadunham",
+            "content": {
+                "en-US": "Lena Dunham."
+            }
+        },
+        {
+            "id": "w_leprosy",
+            "content": {
+                "en-US": "Leprosy."
+            }
+        },
+        {
+            "id": "w_liberals",
+            "content": {
+                "en-US": "Liberals."
+            }
+        },
+        {
+            "id": "w_licktoclaim",
+            "content": {
+                "en-US": "Licking things to claim them as your own."
+            }
+        },
+        {
+            "id": "w_listennosolveproblems",
+            "content": {
+                "en-US": "Listening to her problems without trying to solve them."
+            }
+        },
+        {
+            "id": "w_littleboydicks",
+            "content": {
+                "en-US": "Little boy penises."
+            }
+        },
+        {
+            "id": "w_lockjaw",
+            "content": {
+                "en-US": "Lockjaw."
+            }
+        },
+        {
+            "id": "w_tomcruisesexintent",
+            "content": {
+                "en-US": "Looking in the mirror, applying lipstick, and whispering \"tonight, you will have sex with Tom Cruise.\""
+            }
+        },
+        {
+            "id": "w_lumberjackfantasy",
+            "content": {
+                "en-US": "Lumberjack fantasies."
+            }
+        },
+        {
+            "id": "w_lunchables",
+            "content": {
+                "en-US": "Lunchables™."
+            }
+        },
+        {
+            "id": "w_magnets",
+            "content": {
+                "en-US": "Magnets."
+            }
+        },
+        {
+            "id": "w_makepoutyface",
+            "content": {
+                "en-US": "Making a pouty face."
+            }
+        },
+        {
+            "id": "w_manmeat",
+            "content": {
+                "en-US": "Man meat."
+            }
+        },
+        {
+            "id": "w_mansplain",
+            "content": {
+                "en-US": "Mansplaining."
+            }
+        },
+        {
+            "id": "w_manybats",
+            "content": {
+                "en-US": "Many bats."
+            }
+        },
+        {
+            "id": "w_masturbate",
+            "content": {
+                "en-US": "Masturbating."
+            }
+        },
+        {
+            "id": "w_metime",
+            "content": {
+                "en-US": "Me time."
+            }
+        },
+        {
+            "id": "w_mechahitler",
+            "content": {
+                "en-US": "MechaHitler."
+            }
+        },
+        {
+            "id": "w_memes",
+            "content": {
+                "en-US": "Memes."
+            }
+        },
+        {
+            "id": "w_manlyemotiontalk",
+            "content": {
+                "en-US": "Men discussing their feelings in an emotionally healthy way."
+            }
+        },
+        {
+            "id": "w_men",
+            "content": {
+                "en-US": "Men."
+            }
+        },
+        {
+            "id": "w_menstrualrage",
+            "content": {
+                "en-US": "Menstrual rage."
+            }
+        },
+        {
+            "id": "w_meth",
+            "content": {
+                "en-US": "Meth."
+            }
+        },
+        {
+            "id": "w_mikepence",
+            "content": {
+                "en-US": "Mike Pence."
+            }
+        },
+        {
+            "id": "w_moreelephantcock",
+            "content": {
+                "en-US": "More elephant cock than I bargained for."
+            }
+        },
+        {
+            "id": "w_morgenfreemanvoice",
+            "content": {
+                "en-US": "Morgan Freeman's voice.",
+                "de-DE": "Die Stimme von Morgan Freeman."
+            }
+        },
+        {
+            "id": "w_mouthherpes",
+            "content": {
+                "en-US": "Mouth herpes."
+            }
+        },
+        {
+            "id": "w_muhammad",
+            "content": {
+                "en-US": "Muhammad (Peace Be Upon Him)."
+            }
+        },
+        {
+            "id": "w_multiplestabwounds",
+            "content": {
+                "en-US": "Multiple stab wounds.",
+                "de-DE": "Mehrere Stichwunde."
+            }
+        },
+        {
+            "id": "w_murder",
+            "content": {
+                "en-US": "Murder.",
+                "de-DE": "Mord."
+            }
+        },
+        {
+            "id": "w_mutualassuredestruct",
+            "content": {
+                "en-US": "Mutually assured destruction."
+            }
+        },
+        {
+            "id": "w_notsobadabusebf",
+            "content": {
+                "en-US": "My abusive boyfriend who really isn't so bad once you get to know him."
+            }
+        },
+        {
+            "id": "w_myballsonface",
+            "content": {
+                "en-US": "My balls on your face."
+            }
+        },
+        {
+            "id": "w_myblackass",
+            "content": {
+                "en-US": "My black ass."
+            }
+        },
+        {
+            "id": "w_brightpinkfuckhole",
+            "content": {
+                "en-US": "My bright pink fuckhole."
+            }
+        },
+        {
+            "id": "w_cheatsonofbitchhusband",
+            "content": {
+                "en-US": "My cheating son-of-a-bitch husband."
+            }
+        },
+        {
+            "id": "w_japansextoycollection",
+            "content": {
+                "en-US": "My collection of Japanese sex toys."
+            }
+        },
+        {
+            "id": "w_myexwife",
+            "content": {
+                "en-US": "My ex-wife."
+            }
+        },
+        {
+            "id": "w_myfatdaughter",
+            "content": {
+                "en-US": "My fat daughter."
+            }
+        },
+        {
+            "id": "w_mygenitals",
+            "content": {
+                "en-US": "My genitals."
+            }
+        },
+        {
+            "id": "w_mygoodbra",
+            "content": {
+                "en-US": "My good bra."
+            }
+        },
+        {
+            "id": "w_innerdemons",
+            "content": {
+                "en-US": "My inner demons."
+            }
+        },
+        {
+            "id": "w_myneckmyback",
+            "content": {
+                "en-US": "My neck, my back, my pussy, and my crack."
+            }
+        },
+        {
+            "id": "w_myrelatstatus",
+            "content": {
+                "en-US": "My relationship status."
+            }
+        },
+        {
+            "id": "w_mysexlife",
+            "content": {
+                "en-US": "My sex life."
+            }
+        },
+        {
+            "id": "w_mysoul",
+            "content": {
+                "en-US": "My soul."
+            }
+        },
+        {
+            "id": "w_paveluberdriver",
+            "content": {
+                "en-US": "My Uber driver, Pavel."
+            }
+        },
+        {
+            "id": "w_uglyfacepersonality",
+            "content": {
+                "en-US": "My ugly face and bad personality."
+            }
+        },
+        {
+            "id": "w_myvagina",
+            "content": {
+                "en-US": "My vagina."
+            }
+        },
+        {
+            "id": "w_naturalmaleenhance",
+            "content": {
+                "en-US": "Natural male enhancement."
+            }
+        },
+        {
+            "id": "w_naturalselect",
+            "content": {
+                "en-US": "Natural selection."
+            }
+        },
+        {
+            "id": "w_nazis",
+            "content": {
+                "en-US": "Nazis."
+            }
+        },
+        {
+            "id": "w_nbasuperlebron",
+            "content": {
+                "en-US": "NBA superstar LeBron James."
+            }
+        },
+        {
+            "id": "w_necrophilia",
+            "content": {
+                "en-US": "Necrophilia."
+            }
+        },
+        {
+            "id": "w_nickelback",
+            "content": {
+                "en-US": "Nickelback."
+            }
+        },
+        {
+            "id": "w_nicolascage",
+            "content": {
+                "en-US": "Nicolas Cage."
+            }
+        },
+        {
+            "id": "w_nippleblades",
+            "content": {
+                "en-US": "Nipple blades."
+            }
+        },
+        {
+            "id": "w_nothirdworldshitgive",
+            "content": {
+                "en-US": "Not giving a shit about the Third World."
+            }
+        },
+        {
+            "id": "w_noreturnhead",
+            "content": {
+                "en-US": "Not reciprocating oral sex."
+            }
+        },
+        {
+            "id": "w_novaccinebecausestupid",
+            "content": {
+                "en-US": "Not vaccinating my children because I am stupid."
+            }
+        },
+        {
+            "id": "w_nowearpants",
+            "content": {
+                "en-US": "Not wearing pants."
+            }
+        },
+        {
+            "id": "w_objectperm",
+            "content": {
+                "en-US": "Object permanence."
+            }
+        },
+        {
+            "id": "w_oldpplsmell",
+            "content": {
+                "en-US": "Old-people smell."
+            }
+        },
+        {
+            "id": "w_onetittyhang",
+            "content": {
+                "en-US": "One titty hanging out."
+            }
+        },
+        {
+            "id": "w_onetrillion",
+            "content": {
+                "en-US": "One trillion dollars."
+            }
+        },
+        {
+            "id": "w_onlydateasianwomen",
+            "content": {
+                "en-US": "Only dating Asian women."
+            }
+        },
+        {
+            "id": "w_oompaloompas",
+            "content": {
+                "en-US": "Oompa-Loompas."
+            }
+        },
+        {
+            "id": "w_opposthumbs",
+            "content": {
+                "en-US": "Opposable thumbs."
+            }
+        },
+        {
+            "id": "w_oprah",
+            "content": {
+                "en-US": "Oprah."
+            }
+        },
+        {
+            "id": "w_pacmancumguzzle",
+            "content": {
+                "en-US": "Pac-Man uncontrollably guzzling cum."
+            }
+        },
+        {
+            "id": "w_passaggresspostits",
+            "content": {
+                "en-US": "Passive-aggressive Post-it notes."
+            }
+        },
+        {
+            "id": "w_pedos",
+            "content": {
+                "en-US": "Pedophiles."
+            }
+        },
+        {
+            "id": "w_peeingabit",
+            "content": {
+                "en-US": "Peeing a little bit."
+            }
+        },
+        {
+            "id": "w_penisbreath",
+            "content": {
+                "en-US": "Penis breath."
+            }
+        },
+        {
+            "id": "w_penisenvy",
+            "content": {
+                "en-US": "Penis envy."
+            }
+        },
+        {
+            "id": "w_permorgasmface",
+            "content": {
+                "en-US": "Permanent Orgasm-Face Disorder."
+            }
+        },
+        {
+            "id": "w_boobpics",
+            "content": {
+                "en-US": "Pictures of boobs."
+            }
+        },
+        {
+            "id": "w_pixelbukkake",
+            "content": {
+                "en-US": "Pixelated bukkake."
+            }
+        },
+        {
+            "id": "w_policebrutality",
+            "content": {
+                "en-US": "Police brutality."
+            }
+        },
+        {
+            "id": "w_poopbackforthforever",
+            "content": {
+                "en-US": "Pooping back and forth. Forever."
+            }
+        },
+        {
+            "id": "w_poopinlaptop",
+            "content": {
+                "en-US": "Pooping in a laptop and closing it."
+            }
+        },
+        {
+            "id": "w_poopdiapers",
+            "content": {
+                "en-US": "Poopy diapers."
+            }
+        },
+        {
+            "id": "w_poorlifechoices",
+            "content": {
+                "en-US": "Poor life choices."
+            }
+        },
+        {
+            "id": "w_poorppl",
+            "content": {
+                "en-US": "Poor people."
+            }
+        },
+        {
+            "id": "w_poortimedholocaustjokes",
+            "content": {
+                "en-US": "Poorly-timed Holocaust jokes."
+            }
+        },
+        {
+            "id": "w_poverty",
+            "content": {
+                "en-US": "Poverty."
+            }
+        },
+        {
+            "id": "w_powerthighs",
+            "content": {
+                "en-US": "Powerful thighs."
+            }
+        },
+        {
+            "id": "w_rxpainkillers",
+            "content": {
+                "en-US": "Prescription pain killers."
+            }
+        },
+        {
+            "id": "w_preteens",
+            "content": {
+                "en-US": "Preteens."
+            }
+        },
+        {
+            "id": "w_pretendtocare",
+            "content": {
+                "en-US": "Pretending to care."
+            }
+        },
+        {
+            "id": "w_ptsd",
+            "content": {
+                "en-US": "PTSD."
+            }
+        },
+        {
+            "id": "w_puberty",
+            "content": {
+                "en-US": "Puberty."
+            }
+        },
+        {
+            "id": "w_pullout",
+            "content": {
+                "en-US": "Pulling out."
+            }
+        },
+        {
+            "id": "w_punchcongressface",
+            "content": {
+                "en-US": "Punching a congressman in the face."
+            }
+        },
+        {
+            "id": "w_puppies",
+            "content": {
+                "en-US": "Puppies!"
+            }
+        },
+        {
+            "id": "w_queef",
+            "content": {
+                "en-US": "Queefing."
+            }
+        },
+        {
+            "id": "w_racialsatq",
+            "content": {
+                "en-US": "Racially-biased SAT questions."
+            }
+        },
+        {
+            "id": "w_racism",
+            "content": {
+                "en-US": "Racism."
+            }
+        },
+        {
+            "id": "w_radislamterror",
+            "content": {
+                "en-US": "Radical Islamic terrorism."
+            }
+        },
+        {
+            "id": "w_rapmusic",
+            "content": {
+                "en-US": "Rap music."
+            }
+        },
+        {
+            "id": "w_raptorattacks",
+            "content": {
+                "en-US": "Raptor attacks."
+            }
+        },
+        {
+            "id": "w_repression",
+            "content": {
+                "en-US": "Repression."
+            }
+        },
+        {
+            "id": "w_republicans",
+            "content": {
+                "en-US": "Republicans."
+            }
+        },
+        {
+            "id": "w_robocop",
+            "content": {
+                "en-US": "RoboCop."
+            }
+        },
+        {
+            "id": "w_ronreagan",
+            "content": {
+                "en-US": "Ronald Reagan."
+            }
+        },
+        {
+            "id": "w_runoutofcum",
+            "content": {
+                "en-US": "Running out of semen."
+            }
+        },
+        {
+            "id": "w_baderpenisgavel",
+            "content": {
+                "en-US": "Ruth Bader Ginsburg brutally gaveling your penis."
+            }
+        },
+        {
+            "id": "w_sayily",
+            "content": {
+                "en-US": "Saying \"I love you.\""
+            }
+        },
+        {
+            "id": "w_science",
+            "content": {
+                "en-US": "Science."
+            }
+        },
+        {
+            "id": "w_scientology",
+            "content": {
+                "en-US": "Scientology."
+            }
+        },
+        {
+            "id": "w_seeomanaked",
+            "content": {
+                "en-US": "Seeing Grandma naked."
+            }
+        },
+        {
+            "id": "w_seedadcry",
+            "content": {
+                "en-US": "Seeing my father cry."
+            }
+        },
+        {
+            "id": "w_seagullroomlock",
+            "content": {
+                "en-US": "Seeing what happens when you lock people in a room with hungry seagulls."
+            }
+        },
+        {
+            "id": "w_quietseeth",
+            "content": {
+                "en-US": "Seething with quiet resentment."
+            }
+        },
+        {
+            "id": "w_selfloath",
+            "content": {
+                "en-US": "Self-loathing."
+            }
+        },
+        {
+            "id": "w_sellcracktokids",
+            "content": {
+                "en-US": "Selling crack to children."
+            }
+        },
+        {
+            "id": "w_seppuku",
+            "content": {
+                "en-US": "Seppuku."
+            }
+        },
+        {
+            "id": "w_serfdom",
+            "content": {
+                "en-US": "Serfdom."
+            }
+        },
+        {
+            "id": "w_7dead3critical",
+            "content": {
+                "en-US": "Seven dead and three in critical condition."
+            }
+        },
+        {
+            "id": "w_sexwithanimals",
+            "content": {
+                "en-US": "Sex with animals."
+            }
+        },
+        {
+            "id": "w_sexwithpatstewart",
+            "content": {
+                "en-US": "Sex with Patrick Stewart."
+            }
+        },
+        {
+            "id": "w_sexpeeing",
+            "content": {
+                "en-US": "Sexual peeing."
+            }
+        },
+        {
+            "id": "w_sextension",
+            "content": {
+                "en-US": "Sexual tension."
+            }
+        },
+        {
+            "id": "w_shakebabystopcry",
+            "content": {
+                "en-US": "Shaking a baby until it stops crying."
+            }
+        },
+        {
+            "id": "w_shapeshifters",
+            "content": {
+                "en-US": "Shapeshifters."
+            }
+        },
+        {
+            "id": "w_shinythings",
+            "content": {
+                "en-US": "Shiny objects."
+            }
+        },
+        {
+            "id": "w_shutupwatchgame",
+            "content": {
+                "en-US": "Shutting up so I can watch the game."
+            }
+        },
+        {
+            "id": "w_sideboob",
+            "content": {
+                "en-US": "Sideboob."
+            }
+        },
+        {
+            "id": "w_silence",
+            "content": {
+                "en-US": "Silence."
+            }
+        },
+        {
+            "id": "w_shitfacecallmegarbage",
+            "content": {
+                "en-US": "Sitting on my face and telling me I'm garbage."
+            }
+        },
+        {
+            "id": "w_slaughtercivs",
+            "content": {
+                "en-US": "Slaughtering innocent civilians."
+            }
+        },
+        {
+            "id": "w_smallpoxblankets",
+            "content": {
+                "en-US": "Smallpox blankets."
+            }
+        },
+        {
+            "id": "w_smegma",
+            "content": {
+                "en-US": "Smegma."
+            }
+        },
+        {
+            "id": "w_softmissionary",
+            "content": {
+                "en-US": "Soft, kissy missionary sex."
+            }
+        },
+        {
+            "id": "w_violenceproblemsolve",
+            "content": {
+                "en-US": "Solving problems with violence."
+            }
+        },
+        {
+            "id": "w_goddamnpeacequiet",
+            "content": {
+                "en-US": "Some god damn peace and quiet."
+            }
+        },
+        {
+            "id": "w_someguy",
+            "content": {
+                "en-US": "Some guy."
+            }
+        },
+        {
+            "id": "w_somebestrappers",
+            "content": {
+                "en-US": "Some of the best rappers in the game."
+            }
+        },
+        {
+            "id": "w_punkkidsandwichthief",
+            "content": {
+                "en-US": "Some punk kid who stole my turkey sandwich."
+            }
+        },
+        {
+            "id": "w_toohotsoup",
+            "content": {
+                "en-US": "Soup that is too hot."
+            }
+        },
+        {
+            "id": "w_spaghettiagain",
+            "content": {
+                "en-US": "Spaghetti? Again?"
+            }
+        },
+        {
+            "id": "w_spectacabs",
+            "content": {
+                "en-US": "Spectacular abs."
+            }
+        },
+        {
+            "id": "w_spermwhales",
+            "content": {
+                "en-US": "Sperm whales."
+            }
+        },
+        {
+            "id": "w_spontanhumancombust",
+            "content": {
+                "en-US": "Spontaneous human combustion."
+            }
+        },
+        {
+            "id": "w_stalin",
+            "content": {
+                "en-US": "Stalin."
+            }
+        },
+        {
+            "id": "w_dirtyhawkingtalk",
+            "content": {
+                "en-US": "Stephen Hawking talking dirty."
+            }
+        },
+        {
+            "id": "w_stevebannon",
+            "content": {
+                "en-US": "Steve Bannon."
+            }
+        },
+        {
+            "id": "w_stillbevirgin",
+            "content": {
+                "en-US": "Still being a virgin."
+            }
+        },
+        {
+            "id": "w_strongfemchars",
+            "content": {
+                "en-US": "Strong female characters."
+            }
+        },
+        {
+            "id": "w_sunshinerainbows",
+            "content": {
+                "en-US": "Sunshine and rainbows."
+            }
+        },
+        {
+            "id": "w_sweetrevenge",
+            "content": {
+                "en-US": "Sweet, sweet vengeance."
+            }
+        },
+        {
+            "id": "w_geicoswitch",
+            "content": {
+                "en-US": "Switching to Geico®."
+            }
+        },
+        {
+            "id": "w_swooping",
+            "content": {
+                "en-US": "Swooping."
+            }
+        },
+        {
+            "id": "w_synergymgmtsolutions",
+            "content": {
+                "en-US": "Synergistic management solutions."
+            }
+        },
+        {
+            "id": "w_notomorrowtapdance",
+            "content": {
+                "en-US": "Tap dancing like there's no tomorrow."
+            }
+        },
+        {
+            "id": "w_teachrobotlove",
+            "content": {
+                "en-US": "Teaching a robot to love."
+            }
+        },
+        {
+            "id": "w_wrappingpaperasstear",
+            "content": {
+                "en-US": "Tearing that ass up like wrapping paper on Christmas morning."
+            }
+        },
+        {
+            "id": "w_teenpreg",
+            "content": {
+                "en-US": "Teenage pregnancy."
+            }
+        },
+        {
+            "id": "w_shitstorygonowhere",
+            "content": {
+                "en-US": "Telling a shitty story that goes nowhere."
+            }
+        },
+        {
+            "id": "w_tentacleporn",
+            "content": {
+                "en-US": "Tentacle porn."
+            }
+        },
+        {
+            "id": "w_usadream",
+            "content": {
+                "en-US": "The American Dream."
+            }
+        },
+        {
+            "id": "w_amish",
+            "content": {
+                "en-US": "The Amish."
+            }
+        },
+        {
+            "id": "w_pizzahere",
+            "content": {
+                "en-US": "The arrival of the pizza."
+            }
+        },
+        {
+            "id": "w_bachelorettefinale",
+            "content": {
+                "en-US": "The Bachelorette season finale."
+            }
+        },
+        {
+            "id": "w_bigbang",
+            "content": {
+                "en-US": "The Big Bang."
+            }
+        },
+        {
+            "id": "w_christblood",
+            "content": {
+                "en-US": "The Blood of Christ."
+            }
+        },
+        {
+            "id": "w_nagasakibombing",
+            "content": {
+                "en-US": "The bombing of Nagasaki."
+            }
+        },
+        {
+            "id": "w_bsa",
+            "content": {
+                "en-US": "The Boy Scouts of America."
+            }
+        },
+        {
+            "id": "w_theclit",
+            "content": {
+                "en-US": "The clitoris."
+            }
+        },
+        {
+            "id": "w_refreshingpepsi",
+            "content": {
+                "en-US": "The cool, refreshing taste of Pepsi®."
+            }
+        },
+        {
+            "id": "w_devilhimself",
+            "content": {
+                "en-US": "The Devil Himself."
+            }
+        },
+        {
+            "id": "w_mormonchoir",
+            "content": {
+                "en-US": "The entire Mormon Tabernacle Choir."
+            }
+        },
+        {
+            "id": "w_femaleorgasm",
+            "content": {
+                "en-US": "The female orgasm."
+            }
+        },
+        {
+            "id": "w_theforce",
+            "content": {
+                "en-US": "The Force."
+            }
+        },
+        {
+            "id": "w_thegays",
+            "content": {
+                "en-US": "The gays."
+            }
+        },
+        {
+            "id": "w_glassceil",
+            "content": {
+                "en-US": "The glass ceiling."
+            }
+        },
+        {
+            "id": "w_greatdepression",
+            "content": {
+                "en-US": "The Great Depression."
+            }
+        },
+        {
+            "id": "w_hamburglar",
+            "content": {
+                "en-US": "The Hamburglar."
+            }
+        },
+        {
+            "id": "w_childheart",
+            "content": {
+                "en-US": "The heart of a child."
+            }
+        },
+        {
+            "id": "w_holybible",
+            "content": {
+                "en-US": "The Holy Bible."
+            }
+        },
+        {
+            "id": "w_homoagenda",
+            "content": {
+                "en-US": "The homosexual agenda."
+            }
+        },
+        {
+            "id": "w_hustle",
+            "content": {
+                "en-US": "The Hustle."
+            }
+        },
+        {
+            "id": "w_universeheatdeath",
+            "content": {
+                "en-US": "The inevitable heat death of the universe."
+            }
+        },
+        {
+            "id": "w_thejews",
+            "content": {
+                "en-US": "The Jews."
+            }
+        },
+        {
+            "id": "w_kkk",
+            "content": {
+                "en-US": "The KKK."
+            }
+        },
+        {
+            "id": "w_koolaidman",
+            "content": {
+                "en-US": "The Kool-Aid Man."
+            }
+        },
+        {
+            "id": "w_livetheatremagic",
+            "content": {
+                "en-US": "The magic of live theatre."
+            }
+        },
+        {
+            "id": "w_milkman",
+            "content": {
+                "en-US": "The milkman."
+            }
+        },
+        {
+            "id": "w_childbirthmiracle",
+            "content": {
+                "en-US": "The miracle of childbirth."
+            }
+        },
+        {
+            "id": "w_100milegay",
+            "content": {
+                "en-US": "The only gay person in a hundred miles."
+            }
+        },
+        {
+            "id": "w_past",
+            "content": {
+                "en-US": "The past."
+            }
+        },
+        {
+            "id": "w_patriarchy",
+            "content": {
+                "en-US": "The Patriarchy."
+            }
+        },
+        {
+            "id": "w_heartgoonwhistle",
+            "content": {
+                "en-US": "The penny whistle solo from \"My Heart Will Go On.\""
+            }
+        },
+        {
+            "id": "w_placenta",
+            "content": {
+                "en-US": "The placenta."
+            }
+        },
+        {
+            "id": "w_pope",
+            "content": {
+                "en-US": "The Pope."
+            }
+        },
+        {
+            "id": "w_rapture",
+            "content": {
+                "en-US": "The Rapture."
+            }
+        },
+        {
+            "id": "w_rhcp",
+            "content": {
+                "en-US": "The Red Hot Chili Peppers."
+            }
+        },
+        {
+            "id": "w_africarhythms",
+            "content": {
+                "en-US": "The rhythms of Africa."
+            }
+        },
+        {
+            "id": "w_therussians",
+            "content": {
+                "en-US": "The Russians."
+            }
+        },
+        {
+            "id": "w_terriblescreams",
+            "content": {
+                "en-US": "The screams...the terrible screams."
+            }
+        },
+        {
+            "id": "w_south",
+            "content": {
+                "en-US": "The South."
+            }
+        },
+        {
+            "id": "w_threefifthscomp",
+            "content": {
+                "en-US": "The Three-Fifths compromise."
+            }
+        },
+        {
+            "id": "w_trailoftears",
+            "content": {
+                "en-US": "The Trail of Tears."
+            }
+        },
+        {
+            "id": "w_xmastruemeaning",
+            "content": {
+                "en-US": "The true meaning of Christmas."
+            }
+        },
+        {
+            "id": "w_undergroundrr",
+            "content": {
+                "en-US": "The Underground Railroad."
+            }
+        },
+        {
+            "id": "w_islamtide",
+            "content": {
+                "en-US": "The unstoppable tide of Islam."
+            }
+        },
+        {
+            "id": "w_violatebasichumanrights",
+            "content": {
+                "en-US": "The violation of our most basic human rights."
+            }
+        },
+        {
+            "id": "w_wifipassword",
+            "content": {
+                "en-US": "The wifi password."
+            }
+        },
+        {
+            "id": "w_orientwonders",
+            "content": {
+                "en-US": "The wonders of the Orient."
+            }
+        },
+        {
+            "id": "w_thosehoes",
+            "content": {
+                "en-US": "These hoes."
+            }
+        },
+        {
+            "id": "w_monthmassshooting",
+            "content": {
+                "en-US": "This month's mass shooting."
+            }
+        },
+        {
+            "id": "w_threedickssametime",
+            "content": {
+                "en-US": "Three dicks at the same time."
+            }
+        },
+        {
+            "id": "w_volcanovirgin",
+            "content": {
+                "en-US": "Throwing a virgin into a volcano."
+            }
+        },
+        {
+            "id": "w_grapethrowinsanity",
+            "content": {
+                "en-US": "Throwing grapes at a man until he loses touch with reality."
+            }
+        },
+        {
+            "id": "w_pugpenistouch",
+            "content": {
+                "en-US": "Touching a pug right on his penis."
+            }
+        },
+        {
+            "id": "w_unfathomstupidity",
+            "content": {
+                "en-US": "Unfathomable stupidity."
+            }
+        },
+        {
+            "id": "w_usedpanties",
+            "content": {
+                "en-US": "Used panties."
+            }
+        },
+        {
+            "id": "w_vehiclemanslaughter",
+            "content": {
+                "en-US": "Vehicular manslaughter."
+            }
+        },
+        {
+            "id": "w_viagra",
+            "content": {
+                "en-US": "Viagra®."
+            }
+        },
+        {
+            "id": "w_vigjazzhands",
+            "content": {
+                "en-US": "Vigorous jazz hands."
+            }
+        },
+        {
+            "id": "w_vladputin",
+            "content": {
+                "en-US": "Vladimir Putin."
+            }
+        },
+        {
+            "id": "w_vomitseafoodanusbleed",
+            "content": {
+                "en-US": "Vomiting seafood and bleeding anally."
+            }
+        },
+        {
+            "id": "w_waittillmarriage",
+            "content": {
+                "en-US": "Waiting till marriage."
+            }
+        },
+        {
+            "id": "w_dennyswakeup",
+            "content": {
+                "en-US": "Waking up half-naked in a Denny's parking lot."
+            }
+        },
+        {
+            "id": "w_wetdreams",
+            "content": {
+                "en-US": "Wet dreams."
+            }
+        },
+        {
+            "id": "w_whipitout",
+            "content": {
+                "en-US": "Whipping it out."
+            }
+        },
+        {
+            "id": "w_whiteppl",
+            "content": {
+                "en-US": "White people."
+            }
+        },
+        {
+            "id": "w_whiteprivilege",
+            "content": {
+                "en-US": "White privilege."
+            }
+        },
+        {
+            "id": "w_willshatner",
+            "content": {
+                "en-US": "William Shatner."
+            }
+        },
+        {
+            "id": "w_wizardmusic",
+            "content": {
+                "en-US": "Wizard music."
+            }
+        },
+        {
+            "id": "w_yogurtadwomen",
+            "content": {
+                "en-US": "Women in yogurt commercials."
+            }
+        },
+        {
+            "id": "w_womenofcolor",
+            "content": {
+                "en-US": "Women of color."
+            }
+        },
+        {
+            "id": "w_womensuffrage",
+            "content": {
+                "en-US": "Women's suffrage."
+            }
+        },
+        {
+            "id": "w_maybesalsatogo",
+            "content": {
+                "en-US": "Wondering if it's possible to get some of that salsa to go."
+            }
+        },
+        {
+            "id": "w_worldpeace",
+            "content": {
+                "en-US": "World peace."
+            }
+        },
+        {
+            "id": "w_pussyworship",
+            "content": {
+                "en-US": "Worshipping that pussy."
+            }
+        },
+        {
+            "id": "w_yeast",
+            "content": {
+                "en-US": "Yeast."
+            }
+        },
+        {
+            "id": "w_yourweirdbrother",
+            "content": {
+                "en-US": "Your weird brother."
+            }
+        }
+    ]
+}

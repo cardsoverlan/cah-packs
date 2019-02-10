@@ -1,0 +1,195 @@
+{
+    "id": "cah_pride",
+    "name": "CAH: Pride Pack",
+    "accent": "rainbow",
+    "author": "Cards Against Humanity",
+    "license": "Creative Commons BY-NC-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "cards": [
+        {
+            "id": "b_notforstraightman",
+            "content": {
+                "en-US": "Excuse me, straight man, but ______ isn't for you, STRAIGHT MAN."
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_gothateswhat",
+            "content": {
+                "en-US": "GOD HATES ______!"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_ifyoucantloveyourself",
+            "content": {
+                "en-US": "If you can't love yourself, how the hell you gonna love ______?"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_weareheregetusedtoit",
+            "content": {
+                "en-US": "We're here! We're ______! Get used to it!"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "b_yaasrealness",
+            "content": {
+                "en-US": "YAAAAAAS! You are serving me ______ realness!"
+            },
+            "blanks": 1
+        },
+        {
+            "id": "w_shirtlessbears",
+            "content": {
+                "en-US": "30 shirtless bears emerging from the fog."
+            }
+        },
+        {
+            "id": "w_queerconvo",
+            "content": {
+                "en-US": "A 6-hour conversation on gender and queer theory."
+            }
+        },
+        {
+            "id": "w_blackdickwhitebody",
+            "content": {
+                "en-US": "A big black dick strapped to a frail white body."
+            }
+        },
+        {
+            "id": "w_genderlesshole",
+            "content": {
+                "en-US": "A genderless hole."
+            }
+        },
+        {
+            "id": "w_messydramabitch",
+            "content": {
+                "en-US": "A messy bitch who lives for drama."
+            }
+        },
+        {
+            "id": "w_subaru",
+            "content": {
+                "en-US": "A Subaru."
+            }
+        },
+        {
+            "id": "w_bouncehousetwink",
+            "content": {
+                "en-US": "A twink in a bounce house."
+            }
+        },
+        {
+            "id": "w_lesbiankinds",
+            "content": {
+                "en-US": "All the different kinds of lesbians."
+            }
+        },
+        {
+            "id": "w_bwpuertoricanchineseboys",
+            "content": {
+                "en-US": "Black, white, Puerto Rican, and Chinese boys."
+            }
+        },
+        {
+            "id": "w_britneybitch",
+            "content": {
+                "en-US": "Britney, bitch!"
+            }
+        },
+        {
+            "id": "w_getassate",
+            "content": {
+                "en-US": "Getting your ass ate."
+            }
+        },
+        {
+            "id": "w_mutualtitsuck",
+            "content": {
+                "en-US": "Having your titties sucked while sucking on titties."
+            }
+        },
+        {
+            "id": "w_lickpussyright",
+            "content": {
+                "en-US": "Licking that pussy right."
+            }
+        },
+        {
+            "id": "w_marshajohnson",
+            "content": {
+                "en-US": "Marsha P. Johnson, the trans woman of color who may have thrown the first brick at Stonewall."
+            }
+        },
+        {
+            "id": "w_olderfitnessgays",
+            "content": {
+                "en-US": "Older fitness gays."
+            }
+        },
+        {
+            "id": "w_peeinbathroom",
+            "content": {
+                "en-US": "Peeing in a bathroom."
+            }
+        },
+        {
+            "id": "w_popperslube",
+            "content": {
+                "en-US": "Poppers and lube."
+            }
+        },
+        {
+            "id": "w_prep",
+            "content": {
+                "en-US": "PrEP."
+            }
+        },
+        {
+            "id": "w_repeatbicomeout",
+            "content": {
+                "en-US": "Repeatedly coming out as bisexual."
+            }
+        },
+        {
+            "id": "w_talklaughlovebreathetc",
+            "content": {
+                "en-US": "Talking, laughing, loving, breathing, fighting, fucking, crying, drinking, riding, winning, losing, cheating, kissing, thinking, dreaming."
+            }
+        },
+        {
+            "id": "w_heatherwrongtop",
+            "content": {
+                "en-US": "Telling Heather she can't pull off that top."
+            }
+        },
+        {
+            "id": "w_credenzawaterring",
+            "content": {
+                "en-US": "The careless cunt who left a water ring on my credenza."
+            }
+        },
+        {
+            "id": "w_genderfluidfuturekids",
+            "content": {
+                "en-US": "The pan-ethnic, gender-fluid children of the future."
+            }
+        },
+        {
+            "id": "w_cheekboneshoney",
+            "content": {
+                "en-US": "Those cheekbones, honey."
+            }
+        },
+        {
+            "id": "w_straightpeoplefun",
+            "content": {
+                "en-US": "Whatever straight people do for fun."
+            }
+        }
+    ]
+}
