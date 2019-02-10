@@ -1,6 +1,4 @@
-# CAH for LAH
-
-The original Cards Against Humanity packs, converted to pack files for the CAH clone _Cards Over LAN_.
+This repository provides the original Cards Against Humanity packs as pack files for the CAH clone _Cards Over LAN_.
 
 To use, just drop the .json files in your `packs` folder before starting your server.
 
