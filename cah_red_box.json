@@ -136,7 +136,8 @@
             "id": "w_peniskiss",
             "content": {
                 "en": "Making the penises kiss."
-            }
+            },
+            "flags": "gn gnm xf nh s"
         },
         {
             "id": "w_moralambig",
@@ -358,7 +359,8 @@
             "id": "w_bbd",
             "content": {
                 "en": "A big black dick."
-            }
+            },
+            "flags": "gn gnm"
         },
         {
             "id": "w_beachedwhale",
@@ -730,7 +732,8 @@
             "id": "w_bbd2",
             "content": {
                 "en": "A bigger, blacker dick."
-            }
+            },
+            "flags": "gn gnm"
         },
         {
             "id": "w_abconcept",
@@ -1246,7 +1249,8 @@
             "id": "w_chinesedicktrap",
             "content": {
                 "en": "Getting your dick stuck in a Chinese finger trap with another dick."
-            }
+            },
+            "flags": "w gn gnm nh"
         },
         {
             "id": "w_50hourenergy",
@@ -1594,6 +1598,7 @@
             "content": {
                 "en": "I went from ______ to ______, all thanks to ______."
             },
+            "draw": 2,
             "pick": 3
         },
         {

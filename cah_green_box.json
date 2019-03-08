@@ -58,7 +58,8 @@
             "id": "w_peniscreature",
             "content": {
                 "en": "A creature made of penises that must constantly arouse itself to survive."
-            }
+            },
+            "flags": "w gn gnm"
         },
         {
             "id": "w_nurserhymekid",
@@ -934,7 +935,8 @@
             "id": "w_penisandfortune",
             "content": {
                 "en": "My huge penis and substantial fortune."
-            }
+            },
+            "flags": "gn gnm"
         },
         {
             "id": "w_objectwomen",
@@ -964,7 +966,8 @@
             "id": "w_mouthpenisflop",
             "content": {
                 "en": "Opening your mouth to talk and a big penis flops out."
-            }
+            },
+            "flags": "w gn gnm"
         },
         {
             "id": "w_ourbaby",
@@ -1150,7 +1153,8 @@
             "id": "w_somegooddick",
             "content": {
                 "en": "Some of that good dick."
-            }
+            },
+            "flags": "gn gnm"
         },
         {
             "id": "w_spicyshrimps",
@@ -1174,7 +1178,8 @@
             "id": "w_hoursduodicksuck",
             "content": {
                 "en": "Sucking each other's penises for hours on end."
-            }
+            },
+            "flags": "nh gn gnm s"
         },
         {
             "id": "w_suddenslampoet",
@@ -1324,7 +1329,8 @@
             "id": "w_popcornpenis",
             "content": {
                 "en": "The ol' penis-in-the-popcorn surprise."
-            }
+            },
+            "flags": "w gn gnm"
         },
         {
             "id": "w_rwandangenocide",
@@ -1396,13 +1402,15 @@
             "id": "w_20cheerdicklaugh",
             "content": {
                 "en": "Twenty cheerleaders laughing at your tiny penis."
-            }
+            },
+            "flags": "gn gnm dg"
         },
         {
             "id": "w_cockpoodletwist",
             "content": {
                 "en": "Twisting my cock and balls into a balloon poodle."
-            }
+            },
+            "flags": "w gn gnm"
         },
         {
             "id": "w_pigsisters",

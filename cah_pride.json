@@ -16,7 +16,8 @@
         {
             "id": "b_gothateswhat",
             "content": {
-                "en": "GOD HATES ______!"
+                "en": "GOD HATES ______!",
+                "de": "GOTT HASST ______!"
             },
             "pick": 1
         },
@@ -30,7 +31,8 @@
         {
             "id": "b_weareheregetusedtoit",
             "content": {
-                "en": "We're here! We're ______! Get used to it!"
+                "en": "We're here! We're ______! Get used to it!",
+                "de": "Wir sind hier! Wir sind ______! Gewöhnt euch daran!"
             },
             "pick": 1
         },
@@ -62,7 +64,8 @@
         {
             "id": "w_genderlesshole",
             "content": {
-                "en": "A genderless hole."
+                "en": "A genderless hole.",
+                "de": "Ein geschlechtloses Loch."
             }
         },
         {
@@ -128,13 +131,15 @@
         {
             "id": "w_olderfitnessgays",
             "content": {
-                "en": "Older fitness gays."
+                "en": "Older fitness gays.",
+                "de": "Ältere Fitnessschwule."
             }
         },
         {
             "id": "w_peeinbathroom",
             "content": {
-                "en": "Peeing in a bathroom."
+                "en": "Peeing in a bathroom.",
+                "de": "In einem Badezimmer pinkeln."
             }
         },
         {
@@ -158,7 +163,8 @@
         {
             "id": "w_talklaughlovebreathetc",
             "content": {
-                "en": "Talking, laughing, loving, breathing, fighting, fucking, crying, drinking, riding, winning, losing, cheating, kissing, thinking, dreaming."
+                "en": "Talking, laughing, loving, breathing, fighting, fucking, crying, drinking, riding, winning, losing, cheating, kissing, thinking, dreaming.",
+                "de": "Reden, Lachen, Lieben, Atmen, Streiten, Ficken, Weinen, Trinken, Reiten, Gewinnen, Verlieren, Betrügen, Küssen, Denken, Träumen."
             }
         },
         {

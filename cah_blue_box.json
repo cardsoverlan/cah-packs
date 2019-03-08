@@ -109,7 +109,8 @@
             "content": {
                 "en": "How am I compensating for my tiny penis?"
             },
-            "pick": 1
+            "pick": 1,
+            "flags": "gn gnm"
         },
         {
             "id": "b_countryclubnono",
@@ -650,7 +651,8 @@
             "content": {
                 "en": "No clothes on, penis in vagina.",
                 "de": "Keine Kleidung anhaben, Penis in Vagina."
-            }
+            },
+            "flags": "s gn gnm gnf"
         },
         {
             "id": "w_allsingleladies",
@@ -702,7 +704,8 @@
             "content": {
                 "en": "The size of my penis.",
                 "de": "Meine Penisgröße."
-            }
+            },
+            "flags": "gn gnm"
         },
         {
             "id": "w_someasian",
@@ -969,7 +972,8 @@
             "id": "w_sexgoblin",
             "content": {
                 "en": "A sex goblin with a carnival penis."
-            }
+            },
+            "flags": "w an gn gnm s"
         },
         {
             "id": "w_cardgameidiots",
@@ -1244,7 +1248,8 @@
             "id": "w_bfdumbdick",
             "content": {
                 "en": "My boyfriend's stupid penis."
-            }
+            },
+            "flags": "gn gnm dg"
         },
         {
             "id": "w_fatherkillingtiger",
@@ -1512,7 +1517,8 @@
             "content": {
                 "en": "Sudden penis loss.",
                 "de": "Plötzlicher Penisverlust."
-            }
+            },
+            "flags": "i gn gnm"
         },
         {
             "id": "w_alloffended",
@@ -1726,7 +1732,8 @@
             "id": "w_hjthepenis",
             "content": {
                 "en": "Teaching a girl how to handjob the penis."
-            }
+            },
+            "flags": "s gn gnm"
         },
         {
             "id": "w_turd",

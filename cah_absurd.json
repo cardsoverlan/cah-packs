@@ -23,7 +23,8 @@
         {
             "id": "b_countdown",
             "content": {
-                "en": "Five,\nfour,\nthree,\ntwo,\none...\n________!"
+                "en": "Five,\nfour,\nthree,\ntwo,\none...\n________!",
+                "de": "Fünf,\nvier,\ndrei,\nzwei,\neins...\n________!"
             },
             "pick": 1
         },
@@ -51,7 +52,8 @@
         {
             "id": "b_goodbyehello",
             "content": {
-                "en": "Goodbye, ________, hello, ________!"
+                "en": "Goodbye, ________, hello, ________!",
+                "de": "Auf Wiedersehen, ________, hallo, ________!"
             },
             "pick": 2
         },
@@ -163,7 +165,8 @@
         {
             "id": "b_ohhgodhereitcomes",
             "content": {
-                "en": "Oh no!\nHere it comes!\nOhhhhh god!\nIt's ________."
+                "en": "Oh no!\nHere it comes!\nOhhhhh god!\nIt's ________.",
+                "de": "Oh nein!\nJetzt kommt es!\nOhhhh Gott!\nEs ist ________."
             },
             "pick": 1
         },
@@ -267,7 +270,8 @@
         {
             "id": "b_hotsmellyalmostdead",
             "content": {
-                "en": "What's hot, smelly, and about to die?"
+                "en": "What's hot, smelly, and about to die?",
+                "de": "Was ist heiß, stinkend, und kurz vor dem Tod?"
             },
             "pick": 1
         },
@@ -288,14 +292,16 @@
         {
             "id": "b_chickencrosstheroad",
             "content": {
-                "en": "Why did the chicken cross the road?"
+                "en": "Why did the chicken cross the road?",
+                "de": "Warum hat das Huhn die Straße überquert?"
             },
             "pick": 1
         },
         {
             "id": "b_smellymustache",
             "content": {
-                "en": "Why my mustache smell so bad?"
+                "en": "Why my mustache smell so bad?",
+                "de": "Warum stinkt mein Schnurrbart so?"
             },
             "pick": 1
         },
@@ -335,25 +341,29 @@
         {
             "id": "w_bear",
             "content": {
-                "en": "A bear."
+                "en": "A bear.",
+                "de": "Ein Bär."
             }
         },
         {
             "id": "w_bighole",
             "content": {
-                "en": "A big hole."
+                "en": "A big hole.",
+                "de": "Ein großes Loch."
             }
         },
         {
             "id": "w_bighotfire",
             "content": {
-                "en": "A big hot fire that's burning everybody."
+                "en": "A big hot fire that's burning everybody.",
+                "de": "Ein große, heiße Feuer, das jeden brennt."
             }
         },
         {
             "id": "w_bigbigbigbigbig",
             "content": {
-                "en": "A big, big, big, and I mean BIG big."
+                "en": "A big, big, big, and I mean BIG big.",
+                "de": "Ein großer, großer, großer und zwar GROẞER Großer."
             }
         },
         {
@@ -365,7 +375,8 @@
         {
             "id": "w_birdthatdies",
             "content": {
-                "en": "A bird that dies."
+                "en": "A bird that dies.",
+                "de": "Ein Vogel, der stirbt."
             }
         },
         {
@@ -389,7 +400,8 @@
         {
             "id": "w_handcat",
             "content": {
-                "en": "A cat with… hands."
+                "en": "A cat with… hands.",
+                "de": "Eine Katze mit… Händen."
             }
         },
         {
@@ -467,8 +479,10 @@
         {
             "id": "w_littlepenistaste",
             "content": {
-                "en": "A little taste of penis."
-            }
+                "en": "A little taste of penis.",
+                "de": "Eine kleine Kostprobe des Penis."
+            },
+            "flags": "gn gnm s"
         },
         {
             "id": "w_badmagician",
@@ -479,8 +493,10 @@
         {
             "id": "w_explodingdick",
             "content": {
-                "en": "A penis that gets too hard and explodes blood."
-            }
+                "en": "A penis that gets too hard and explodes blood.",
+                "de": "Ein Penis, der zu hart wird und blutig explodiert."
+            },
+            "flags": "gn gnm i w"
         },
         {
             "id": "w_beanhaircasserole",
@@ -491,7 +507,8 @@
         {
             "id": "w_poopemergency",
             "content": {
-                "en": "A poop emergency."
+                "en": "A poop emergency.",
+                "de": "Ein Kacknotfall."
             }
         },
         {
@@ -593,7 +610,8 @@
         {
             "id": "w_alldeadsisters",
             "content": {
-                "en": "All my dead sisters."
+                "en": "All my dead sisters.",
+                "de": "Alle meine toten Schwestern."
             }
         },
         {
@@ -623,7 +641,8 @@
         {
             "id": "w_anythingasian",
             "content": {
-                "en": "Anything Asian."
+                "en": "Anything Asian.",
+                "de": "Irgendetwas Asiatisches."
             }
         },
         {
@@ -641,7 +660,8 @@
         {
             "id": "w_beef",
             "content": {
-                "en": "Beef."
+                "en": "Beef.",
+                "de": "Rindfleisch."
             }
         },
         {
@@ -689,19 +709,22 @@
         {
             "id": "w_bipolar",
             "content": {
-                "en": "Bipolar Disorder."
+                "en": "Bipolar Disorder.",
+                "de": "Bipolare Störung."
             }
         },
         {
             "id": "w_inflateballs",
             "content": {
                 "en": "Blowing into the penis so that the balls inflate."
-            }
+            },
+            "flags": "s w gn gnm"
         },
         {
             "id": "w_blueanussmoke",
             "content": {
-                "en": "Blue smoke coming out of my anus."
+                "en": "Blue smoke coming out of my anus.",
+                "de": "Blauer Rauch aus meinem Anus."
             }
         },
         {
@@ -713,7 +736,8 @@
         {
             "id": "w_carbs",
             "content": {
-                "en": "Carbs."
+                "en": "Carbs.",
+                "de": "Kohlehydrate."
             }
         },
         {
@@ -731,13 +755,15 @@
         {
             "id": "w_chinesepeople",
             "content": {
-                "en": "Chinese people."
+                "en": "Chinese people.",
+                "de": "Chinesische Leute."
             }
         },
         {
             "id": "w_chowder",
             "content": {
-                "en": "Chowder."
+                "en": "Chowder.",
+                "de": "Fischsuppe."
             }
         },
         {
@@ -749,19 +775,22 @@
         {
             "id": "w_clippy",
             "content": {
-                "en": "Clippy from Microsoft Office."
+                "en": "Clippy from Microsoft Office.",
+                "de": "Clippy von Microsoft Office."
             }
         },
         {
             "id": "w_russiacollusion",
             "content": {
-                "en": "Colluding with Russia."
+                "en": "Colluding with Russia.",
+                "de": "Mit Russland kospirieren."
             }
         },
         {
             "id": "w_corn",
             "content": {
-                "en": "Corn."
+                "en": "Corn.",
+                "de": "Mais."
             }
         },
         {
@@ -779,25 +808,29 @@
         {
             "id": "w_culturalapprop",
             "content": {
-                "en": "Cultural appropriation."
+                "en": "Cultural appropriation.",
+                "de": "Kulturelle Aneignung."
             }
         },
         {
             "id": "w_antiisiscurlyfries",
             "content": {
-                "en": "Curly fries so good you quit ISIS."
+                "en": "Curly fries so good you quit ISIS.",
+                "de": "Spiralpommes, die so gut sind, dass du ISIS verlässt."
             }
         },
         {
             "id": "w_datingrepublican",
             "content": {
-                "en": "Dating a Republican."
+                "en": "Dating a Republican.",
+                "de": "Mit einem Republikaner ausgehen."
             }
         },
         {
             "id": "w_death",
             "content": {
-                "en": "Death."
+                "en": "Death.",
+                "de": "Tod."
             }
         },
         {
@@ -821,7 +854,8 @@
         {
             "id": "w_hoshit",
             "content": {
-                "en": "Doing ho shit."
+                "en": "Doing ho shit.",
+                "de": "Hurenscheiße tun."
             }
         },
         {
@@ -839,7 +873,8 @@
         {
             "id": "w_drake",
             "content": {
-                "en": "Drake."
+                "en": "Drake.",
+                "de": "Drake."
             }
         },
         {
@@ -863,7 +898,8 @@
         {
             "id": "w_elonmusk",
             "content": {
-                "en": "Elon Musk."
+                "en": "Elon Musk.",
+                "de": "Elon Musk."
             }
         },
         {
@@ -875,13 +911,15 @@
         {
             "id": "w_fascism",
             "content": {
-                "en": "Fascism."
+                "en": "Fascism.",
+                "de": "Faschismus."
             }
         },
         {
             "id": "w_fat",
             "content": {
-                "en": "Fat."
+                "en": "Fat.",
+                "de": "Fett."
             }
         },
         {
@@ -935,7 +973,8 @@
         {
             "id": "w_nofingerfist",
             "content": {
-                "en": "Getting fisted by a man with no fingers."
+                "en": "Getting fisted by a man with no fingers.",
+                "de": "Von einem Mann ohne Finger faustgefickt werden."
             }
         },
         {
@@ -953,7 +992,8 @@
         {
             "id": "w_mommybeer",
             "content": {
-                "en": "Getting Mommy another beer."
+                "en": "Getting Mommy another beer.",
+                "de": "Mama noch ein Bier holen."
             }
         },
         {
@@ -971,7 +1011,8 @@
         {
             "id": "w_christiancomedy",
             "content": {
-                "en": "Good, clean Christian comedy."
+                "en": "Good, clean Christian comedy.",
+                "de": "Gute, saubere christliche Komödie."
             }
         },
         {
@@ -995,13 +1036,15 @@
         {
             "id": "w_nolegsjusttoes",
             "content": {
-                "en": "Having no legs, just toes."
+                "en": "Having no legs, just toes.",
+                "de": "Keine Beine, nur Zehen, haben."
             }
         },
         {
             "id": "w_30chadsons",
             "content": {
-                "en": "Having thirty sons named Chad."
+                "en": "Having thirty sons named Chad.",
+                "de": "30 Söhne namens Chad haben."
             }
         },
         {
@@ -1032,12 +1075,14 @@
             "id": "w_penisbagels",
             "content": {
                 "en": "How many bagels I can fit on my penis."
-            }
+            },
+            "flags": "w gn gnm"
         },
         {
             "id": "w_quietforest",
             "content": {
-                "en": "How quiet the forest is."
+                "en": "How quiet the forest is.",
+                "de": "Wie leise der Wald ist."
             }
         },
         {
@@ -1055,13 +1100,15 @@
         {
             "id": "w_hishmoney",
             "content": {
-                "en": "Hush money."
+                "en": "Hush money.",
+                "de": "Schweigegeld."
             }
         },
         {
             "id": "w_interruptwomen",
             "content": {
-                "en": "Interrupting women."
+                "en": "Interrupting women.",
+                "de": "Frauen unterbrechen."
             }
         },
         {
@@ -1115,7 +1162,8 @@
         {
             "id": "w_breathepussy",
             "content": {
-                "en": "Letting that pussy breathe."
+                "en": "Letting that pussy breathe.",
+                "de": "Die Muschi atmen lassen."
             }
         },
         {
@@ -1133,7 +1181,8 @@
         {
             "id": "w_life",
             "content": {
-                "en": "Life."
+                "en": "Life.",
+                "de": "Leben."
             }
         },
         {
@@ -1145,13 +1194,15 @@
         {
             "id": "w_lotion",
             "content": {
-                "en": "Lotion."
+                "en": "Lotion.",
+                "de": "Lotion."
             }
         },
         {
             "id": "w_loveusa",
             "content": {
-                "en": "Loving America."
+                "en": "Loving America.",
+                "de": "Die USA lieben."
             }
         },
         {
@@ -1169,7 +1220,8 @@
         {
             "id": "w_thezucc",
             "content": {
-                "en": "Mark Zuckerberg."
+                "en": "Mark Zuckerberg.",
+                "de": "Mark Zuckerberg."
             }
         },
         {
@@ -1181,7 +1233,8 @@
         {
             "id": "w_melaniatrump",
             "content": {
-                "en": "Melania Trump."
+                "en": "Melania Trump.",
+                "de": "Melania Trump."
             }
         },
         {
@@ -1199,7 +1252,8 @@
         {
             "id": "w_daughterfuckmybf",
             "content": {
-                "en": "My daughter fucking my boyfriend."
+                "en": "My daughter fucking my boyfriend.",
+                "de": "Meine Tochter beim Ficken meines Freundes."
             }
         },
         {
@@ -1211,13 +1265,15 @@
         {
             "id": "w_myrealdad",
             "content": {
-                "en": "My real dad."
+                "en": "My real dad.",
+                "de": "Mein wahrer Vater."
             }
         },
         {
             "id": "w_secretbutt",
             "content": {
-                "en": "My secret butt."
+                "en": "My secret butt.",
+                "de": "Mein geheimer Po."
             }
         },
         {
@@ -1229,7 +1285,8 @@
         {
             "id": "w_sonhusbandcock",
             "content": {
-                "en": "My son's husband's huge cock."
+                "en": "My son's husband's huge cock.",
+                "de": "Der riesige Schwanz des Mannes meines Sohnes."
             }
         },
         {
@@ -1241,13 +1298,15 @@
         {
             "id": "w_nakeddad",
             "content": {
-                "en": "Naked Dad."
+                "en": "Naked Dad.",
+                "de": "Nakter Vati."
             }
         },
         {
             "id": "w_netflix",
             "content": {
-                "en": "Netflix."
+                "en": "Netflix.",
+                "de": "Netflix."
             }
         },
         {
@@ -1271,7 +1330,7 @@
         {
             "id": "w_nonsexualrollerskate",
             "content": {
-                "en": "Nonsexual activiities, such as roller skating."
+                "en": "Nonsexual activities, such as roller skating."
             }
         },
         {
@@ -1283,7 +1342,8 @@
         {
             "id": "w_oral",
             "content": {
-                "en": "Oral."
+                "en": "Oral.",
+                "de": "Oralsex."
             }
         },
         {
@@ -1319,7 +1379,8 @@
         {
             "id": "w_politics",
             "content": {
-                "en": "Politics."
+                "en": "Politics.",
+                "de": "Politik."
             }
         },
         {
@@ -1427,7 +1488,8 @@
         {
             "id": "w_shit",
             "content": {
-                "en": "Shit."
+                "en": "Shit.",
+                "de": "Scheiße."
             }
         },
         {
@@ -1440,7 +1502,8 @@
         {
             "id": "w_slaves",
             "content": {
-                "en": "Slaves."
+                "en": "Slaves.",
+                "de": "Sklaven."
             }
         },
         {
@@ -1482,7 +1545,8 @@
         {
             "id": "w_butterflycowstaple",
             "content": {
-                "en": "Stapling a butterfly to a cow."
+                "en": "Stapling a butterfly to a cow.",
+                "de": "Einen Schmetterling an einer Kuh antackern."
             }
         },
         {
@@ -1531,13 +1595,15 @@
         {
             "id": "w_tar",
             "content": {
-                "en": "Tar."
+                "en": "Tar.",
+                "de": "Teer."
             }
         },
         {
             "id": "w_assdestroyer3k",
             "content": {
-                "en": "The Asshole Destroyer 3000."
+                "en": "The Asshole Destroyer 3000.",
+                "de": "Der Arschloch-Zerstörer-3000."
             }
         },
         {
@@ -1574,13 +1640,15 @@
         {
             "id": "w_politicalclimate",
             "content": {
-                "en": "The current political climate."
+                "en": "The current political climate.",
+                "de": "Das politische Klima."
             }
         },
         {
             "id": "w_cutestfuckingshoes",
             "content": {
-                "en": "The cutest fucking shoes I've ever seen."
+                "en": "The cutest fucking shoes I've ever seen.",
+                "de": "Die süßesten verdammten Schuhe, die ich je gesehen habe."
             }
         },
         {
@@ -1622,7 +1690,8 @@
         {
             "id": "w_jewking",
             "content": {
-                "en": "The King of Jews."
+                "en": "The King of Jews.",
+                "de": "Der König der Juden."
             }
         },
         {
@@ -1634,7 +1703,8 @@
         {
             "id": "w_basementman",
             "content": {
-                "en": "The man in the basement."
+                "en": "The man in the basement.",
+                "de": "Der Mann im Keller."
             }
         },
         {
@@ -1646,7 +1716,8 @@
         {
             "id": "w_moon",
             "content": {
-                "en": "The Moon."
+                "en": "The Moon.",
+                "de": "Der Mond."
             }
         },
         {
@@ -1701,12 +1772,14 @@
             "id": "w_peniswormpenis",
             "content": {
                 "en": "The worm that ate my penis and is now my penis."
-            }
+            },
+            "flags": "w i gn gnm"
         },
         {
             "id": "w_thesebreasts",
             "content": {
-                "en": "These breasts of mine."
+                "en": "These breasts of mine.",
+                "de": "Diese Brüste von mir."
             }
         },
         {
@@ -1718,7 +1791,8 @@
         {
             "id": "w_foundkid",
             "content": {
-                "en": "This kid I found."
+                "en": "This kid I found.",
+                "de": "Dieses Kind, das ich gefunden habe."
             }
         },
         {
@@ -1737,7 +1811,8 @@
             "id": "w_bigpenisthrow",
             "content": {
                 "en": "Throwing a man by his big penis."
-            }
+            },
+            "flags": "w v gn gnm"
         },
         {
             "id": "w_thrustgrunt",
@@ -1748,7 +1823,8 @@
         {
             "id": "w_fingerking",
             "content": {
-                "en": "Thumb, the King of the Fingers."
+                "en": "Thumb, the King of the Fingers.",
+                "de": "Daume, der König der Finger."
             }
         },
         {
@@ -1766,7 +1842,8 @@
         {
             "id": "w_humanskintrees",
             "content": {
-                "en": "Trees with human skin."
+                "en": "Trees with human skin.",
+                "de": "Bäume mit menschlicher Haut."
             }
         },
         {
@@ -1784,7 +1861,8 @@
         {
             "id": "w_uncles",
             "content": {
-                "en": "Uncles."
+                "en": "Uncles.",
+                "de": "Onkel."
             }
         },
         {
@@ -1844,7 +1922,8 @@
         {
             "id": "w_yourmouth",
             "content": {
-                "en": "Your mouth."
+                "en": "Your mouth.",
+                "de": "Dein Mund."
             }
         },
         {

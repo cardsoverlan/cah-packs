@@ -96,7 +96,7 @@
         {
             "id": "b_onestarchicken",
             "content": {
-                "en": "&#x2605;&#x2730;&#x2730;&#x2730;&#x2730; Do NOT go here! Found _____ in my Kung Pao chicken! "
+                "en": "&#x2605;&#x2730;&#x2730;&#x2730;&#x2730;\nDo NOT go here! Found _____ in my Kung Pao chicken! "
             },
             "pick": 1
         },
@@ -754,25 +754,29 @@
             "id": "w_50mgzoloft",
             "content": {
                 "en": "50 mg of Zoloft daily."
-            }
+            },
+            "flags": "dr"
         },
         {
             "id": "w_50knipplevolts",
             "content": {
                 "en": "50,000 volts straight to the nipples."
-            }
+            },
+            "flags": "xf i"
         },
         {
             "id": "w_72virgins",
             "content": {
                 "en": "72 virgins."
-            }
+            },
+            "flags": "s"
         },
         {
             "id": "w_80zblacktarheroin",
             "content": {
                 "en": "8 oz. of sweet Mexican black-tar heroin."
-            }
+            },
+            "flags": "dr"
         },
         {
             "id": "w_magicbeanbag",
@@ -790,13 +794,15 @@
             "id": "w_earwaxsementoenailball",
             "content": {
                 "en": "A ball of earwax, semen, and toenail clippings."
-            }
+            },
+            "flags": "g"
         },
         {
             "id": "w_humanturdbird",
             "content": {
                 "en": "A bird that shits human turds."
-            }
+            },
+            "flags": "w g fe an"
         },
         {
             "id": "w_bitchslap",
@@ -808,7 +814,8 @@
             "id": "w_bleachedasshole",
             "content": {
                 "en": "A bleached asshole."
-            }
+            },
+            "flags": "g l"
         },
         {
             "id": "w_bopit",
@@ -820,19 +827,22 @@
             "id": "w_mayoteeth",
             "content": {
                 "en": "A bowl of mayonnaise and human teeth."
-            }
+            },
+            "flags": "g"
         },
         {
             "id": "w_braintumor",
             "content": {
                 "en": "A brain tumor."
-            }
+            },
+            "flags": "di"
         },
         {
             "id": "w_crucifixion",
             "content": {
                 "en": "A crucifixion."
-            }
+            },
+            "flags": "mu to"
         },
         {
             "id": "w_sadbdayparty",
@@ -844,31 +854,36 @@
             "id": "w_falconwithcap",
             "content": {
                 "en": "A falcon with a cap on its head."
-            }
+            },
+            "flags": "w an"
         },
         {
             "id": "w_powerfartgiantwake",
             "content": {
                 "en": "A fart so powerful that it wakes the giants from their thousand-year slumber."
-            }
+            },
+            "flags": "w g"
         },
         {
             "id": "w_fetus",
             "content": {
                 "en": "A fetus."
-            }
+            },
+            "flags": "ch"
         },
         {
             "id": "w_fleshlight",
             "content": {
                 "en": "A Fleshlight."
-            }
+            },
+            "flags": "s"
         },
         {
             "id": "w_almondfuckton",
             "content": {
                 "en": "A fuck-ton of almonds."
-            }
+            },
+            "flags": "l"
         },
         {
             "id": "w_goodsniff",
@@ -880,19 +895,22 @@
             "id": "w_goodstronggorilla",
             "content": {
                 "en": "A good, strong gorilla."
-            }
+            },
+            "flags": "an"
         },
         {
             "id": "w_gossamerjizz",
             "content": {
                 "en": "A gossamer stream of jizz that catches the light as it arcs through the morning air."
-            }
+            },
+            "flags": "s g"
         },
         {
             "id": "w_homovolleyball",
             "content": {
                 "en": "A homoerotic volleyball montage."
-            }
+            },
+            "flags": "s"
         },
         {
             "id": "w_vikinghorde",
@@ -910,7 +928,8 @@
             "id": "w_dinosaurboy",
             "content": {
                 "en": "A little boy who won't shut the fuck up about dinosaurs."
-            }
+            },
+            "flags": "ch l"
         },
         {
             "id": "w_livestudioaudience",
@@ -922,7 +941,8 @@
             "id": "w_orgasmbrinkman",
             "content": {
                 "en": "A man on the brink of orgasm."
-            }
+            },
+            "flags": "s"
         },
         {
             "id": "w_matingdisplay",
@@ -940,13 +960,15 @@
             "id": "w_micropenis",
             "content": {
                 "en": "A micropenis."
-            }
+            },
+            "flags": "gn gnm"
         },
         {
             "id": "w_micropig",
             "content": {
                 "en": "A micropig wearing a tiny raincoat and booties."
-            }
+            },
+            "flags": "an"
         },
         {
             "id": "w_oldrollerskateman",
@@ -958,7 +980,8 @@
             "id": "w_mopeyzoolion",
             "content": {
                 "en": "A mopey zoo lion."
-            }
+            },
+            "flags": "an"
         },
         {
             "id": "w_muchyoungerwoman",
@@ -970,13 +993,15 @@
             "id": "w_pangenderoctopus",
             "content": {
                 "en": "A pangender octopus who roams the cosmos in search of love."
-            }
+            },
+            "flags": "an"
         },
         {
             "id": "w_headpyramid",
             "content": {
                 "en": "A pyramid of severed heads."
-            }
+            },
+            "flags": "d w"
         },
         {
             "id": "w_reallycoolhat",
@@ -988,19 +1013,22 @@
             "id": "w_sadhandjob",
             "content": {
                 "en": "A sad handjob."
-            }
+            },
+            "flags": "g s"
         },
         {
             "id": "w_metalmansalad",
             "content": {
                 "en": "A salad for men that's made of metal."
-            }
+            },
+            "flags": "w"
         },
         {
             "id": "w_saltysurprise",
             "content": {
                 "en": "A salty surprise."
-            }
+            },
+            "flags": "s w g"
         },
         {
             "id": "w_sassyblackwoman",
@@ -1024,7 +1052,8 @@
             "id": "w_snapturtledickbite",
             "content": {
                 "en": "A snapping turtle biting the tip of your penis."
-            }
+            },
+            "flags": "s i gn gnm"
         },
         {
             "id": "w_straypube",
@@ -1036,7 +1065,8 @@
             "id": "w_catpeesupersoaker",
             "content": {
                 "en": "A Super Soaker™ full of cat pee."
-            }
+            },
+            "flags": "w g"
         },
         {
             "id": "w_shaqthreesome",
@@ -1054,7 +1084,8 @@
             "id": "w_tinyhorse",
             "content": {
                 "en": "A tiny horse."
-            }
+            },
+            "flags": "an"
         },
         {
             "id": "w_tinygayguitar",
@@ -1072,7 +1103,8 @@
             "id": "w_corpsewindmill",
             "content": {
                 "en": "A windmill full of corpses."
-            }
+            },
+            "flags": "d"
         },
         {
             "id": "w_aaronburr",
@@ -1102,7 +1134,8 @@
             "id": "w_adderall",
             "content": {
                 "en": "Adderall™."
-            }
+            },
+            "flags": "dr"
         },
         {
             "id": "w_africankids",
@@ -1120,19 +1153,22 @@
             "id": "w_aids",
             "content": {
                 "en": "AIDS."
-            }
+            },
+            "flags": "di"
         },
         {
             "id": "w_alcoholism",
             "content": {
                 "en": "Alcoholism."
-            }
+            },
+            "flags": "di"
         },
         {
             "id": "w_alldudesifucked",
             "content": {
                 "en": "All the dudes I've fucked."
-            }
+            },
+            "flags": "s l"
         },
         {
             "id": "w_allyoucaneatshrimp",
@@ -1150,13 +1186,15 @@
             "id": "w_endlessdiarrheastream",
             "content": {
                 "en": "An endless stream of diarrhea."
-            }
+            },
+            "flags": "g fe"
         },
         {
             "id": "w_4hourerection",
             "content": {
                 "en": "An erection that lasts longer than four hours."
-            }
+            },
+            "flags": "gn gnm"
         },
         {
             "id": "w_shyamalanplottwist",
@@ -1174,7 +1212,8 @@
             "id": "w_oedipuscomplex",
             "content": {
                 "en": "An Oedipus complex."
-            }
+            },
+            "flags": "s ic"
         },
         {
             "id": "w_almostdeadoldguy",
@@ -1186,7 +1225,8 @@
             "id": "w_olderwomanknowspenis",
             "content": {
                 "en": "An older woman who knows her way around the penis."
-            }
+            },
+            "flags": "s gn gnm"
         },
         {
             "id": "w_oversizeslollipop",
@@ -1210,13 +1250,15 @@
             "id": "w_cumannouncement",
             "content": {
                 "en": "Announcing that I am about to cum."
-            }
+            },
+            "flags": "s"
         },
         {
             "id": "w_schwarzenegger",
             "content": {
                 "en": "Arnold Schwarzenegger."
-            }
+            },
+            "flags": "ce"
         },
         {
             "id": "w_asslesschaps",
@@ -1252,7 +1294,8 @@
             "id": "w_balls",
             "content": {
                 "en": "Balls."
-            }
+            },
+            "flags": "gn gnm"
         },
         {
             "id": "w_bananas",
@@ -1300,7 +1343,8 @@
             "id": "w_motherfuckingsorcerer",
             "content": {
                 "en": "Being a motherfucking sorcerer."
-            }
+            },
+            "flags": "l"
         },
         {
             "id": "w_beingwoman",
@@ -1384,7 +1428,8 @@
             "id": "w_penistwizzler",
             "content": {
                 "en": "Braiding three penises into a Twizzler."
-            }
+            },
+            "flags": "s g w gn gnm"
         },
         {
             "id": "w_breakoutinsongdance",
@@ -1456,7 +1501,8 @@
             "id": "w_deadhitchhikerparts",
             "content": {
                 "en": "Chunks of dead hitchhiker."
-            }
+            },
+            "flags": "mu g d"
         },
         {
             "id": "w_coathangerabort",
@@ -1498,7 +1544,8 @@
             "id": "w_iamapizza",
             "content": {
                 "en": "Covering myself with Parmesan cheese and chili flakes because I am pizza."
-            }
+            },
+            "flags": "w g"
         },
         {
             "id": "w_cripplingdebt",
@@ -1528,7 +1575,8 @@
             "id": "w_radcliffeasshole",
             "content": {
                 "en": "Daniel Radcliffe's delicious asshole."
-            }
+            },
+            "flags": "ce w g s"
         },
         {
             "id": "w_dannydevito",
@@ -1576,13 +1624,15 @@
             "id": "w_dickfingers",
             "content": {
                 "en": "Dick fingers."
-            }
+            },
+            "flags": "w gn gnm"
         },
         {
             "id": "w_dickpics",
             "content": {
                 "en": "Dick pics."
-            }
+            },
+            "flags": "gn gnm"
         },
         {
             "id": "w_diversity",
@@ -1624,7 +1674,8 @@
             "id": "w_drinktoiletgarbageeat",
             "content": {
                 "en": "Drinking out of the toilet and eating garbage."
-            }
+            },
+            "flags": "w g"
         },
         {
             "id": "w_bathtubkiddrowning",
@@ -2158,7 +2209,8 @@
             "id": "w_penisupownbutt",
             "content": {
                 "en": "How far I can get my own penis up my butt."
-            }
+            },
+            "flags": "gn gnm s"
         },
         {
             "id": "w_weedfor20",
@@ -2350,7 +2402,8 @@
             "id": "w_littleboydicks",
             "content": {
                 "en": "Little boy penises."
-            }
+            },
+            "flags": "gn gnm pd"
         },
         {
             "id": "w_lockjaw",
@@ -2464,13 +2517,14 @@
             "id": "w_moreelephantcock",
             "content": {
                 "en": "More elephant cock than I bargained for."
-            }
+            },
+            "flags": "gn gnm an"
         },
         {
             "id": "w_morgenfreemanvoice",
             "content": {
                 "en": "Morgan Freeman's voice.",
-                "de": "Die Stimme von Morgan Freeman."
+                "de-DE": "Die Stimme von Morgan Freeman."
             }
         },
         {
@@ -2489,14 +2543,14 @@
             "id": "w_multiplestabwounds",
             "content": {
                 "en": "Multiple stab wounds.",
-                "de": "Mehrere Stichwunde."
+                "de-DE": "Mehrere Stichwunden."
             }
         },
         {
             "id": "w_murder",
             "content": {
                 "en": "Murder.",
-                "de": "Mord."
+                "de-DE": "Mord."
             }
         },
         {
@@ -2527,7 +2581,8 @@
             "id": "w_brightpinkfuckhole",
             "content": {
                 "en": "My bright pink fuckhole."
-            }
+            },
+            "flags": "w g s"
         },
         {
             "id": "w_cheatsonofbitchhusband",
@@ -2737,7 +2792,8 @@
             "id": "w_pacmancumguzzle",
             "content": {
                 "en": "Pac-Man uncontrollably guzzling cum."
-            }
+            },
+            "flags": "fc s w g"
         },
         {
             "id": "w_passaggresspostits",
@@ -2767,7 +2823,8 @@
             "id": "w_penisenvy",
             "content": {
                 "en": "Penis envy."
-            }
+            },
+            "flags": "gn gnm"
         },
         {
             "id": "w_permorgasmface",
@@ -2797,13 +2854,15 @@
             "id": "w_poopbackforthforever",
             "content": {
                 "en": "Pooping back and forth. Forever."
-            }
+            },
+            "flags": "w g fe"
         },
         {
             "id": "w_poopinlaptop",
             "content": {
                 "en": "Pooping in a laptop and closing it."
-            }
+            },
+            "flags": "w g fe"
         },
         {
             "id": "w_poopdiapers",
@@ -2827,7 +2886,8 @@
             "id": "w_poortimedholocaustjokes",
             "content": {
                 "en": "Poorly-timed Holocaust jokes."
-            }
+            },
+            "flags": "as"
         },
         {
             "id": "w_poverty",
@@ -2911,7 +2971,8 @@
             "id": "w_radislamterror",
             "content": {
                 "en": "Radical Islamic terrorism."
-            }
+            },
+            "flags": "te"
         },
         {
             "id": "w_rapmusic",
@@ -2959,7 +3020,8 @@
             "id": "w_baderpenisgavel",
             "content": {
                 "en": "Ruth Bader Ginsburg brutally gaveling your penis."
-            }
+            },
+            "flags": "w xf g gnm s"
         },
         {
             "id": "w_sayily",
@@ -3061,7 +3123,8 @@
             "id": "w_shakebabystopcry",
             "content": {
                 "en": "Shaking a baby until it stops crying."
-            }
+            },
+            "flags": "ch ch_cr ab i"
         },
         {
             "id": "w_shapeshifters",
@@ -3103,7 +3166,8 @@
             "id": "w_slaughtercivs",
             "content": {
                 "en": "Slaughtering innocent civilians."
-            }
+            },
+            "flags": "ch ch_cr ab mu"
         },
         {
             "id": "w_smallpoxblankets",
@@ -3115,7 +3179,8 @@
             "id": "w_smegma",
             "content": {
                 "en": "Smegma."
-            }
+            },
+            "flags": "w s g"
         },
         {
             "id": "w_softmissionary",
@@ -3589,7 +3654,8 @@
             "id": "w_threedickssametime",
             "content": {
                 "en": "Three dicks at the same time."
-            }
+            },
+            "flags": "xf s gn gnm"
         },
         {
             "id": "w_volcanovirgin",
@@ -3607,7 +3673,8 @@
             "id": "w_pugpenistouch",
             "content": {
                 "en": "Touching a pug right on his penis."
-            }
+            },
+            "flags": "w g s an"
         },
         {
             "id": "w_unfathomstupidity",
@@ -3649,7 +3716,8 @@
             "id": "w_vomitseafoodanusbleed",
             "content": {
                 "en": "Vomiting seafood and bleeding anally."
-            }
+            },
+            "flags": "di g w"
         },
         {
             "id": "w_waittillmarriage",
