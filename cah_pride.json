@@ -1,7 +1,8 @@
 {
     "id": "cah_pride",
     "name": "CAH: Pride Pack",
-    "accent": "rainbow",
+    "accent_background": "linear-gradient(to right, #f00, #f90, #ff0, #0f0, #0df, #00f, #f0f)",
+    "accent_color": "black",
     "author": "Cards Against Humanity",
     "license": "Creative Commons BY-NC-SA 2.0",
     "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",

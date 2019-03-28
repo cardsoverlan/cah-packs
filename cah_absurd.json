@@ -1,7 +1,8 @@
 {
     "id": "cah_absurd",
     "name": "CAH: Absurd Box",
-    "accent": "headache",
+    "accent_color": "white",
+    "accent_background": "repeating-linear-gradient(115deg, #000, #000 4px, #0f0 4px, #f0f 6px)",
     "author": "Cards Against Humanity",
     "license": "Creative Commons BY-NC-SA 2.0",
     "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",

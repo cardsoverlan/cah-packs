@@ -959,7 +959,8 @@
         {
             "id": "w_micropenis",
             "content": {
-                "en": "A micropenis."
+                "en": "A micropenis.",
+                "de": "Ein Mikropenis."
             },
             "flags": "gn gnm"
         },
@@ -1026,7 +1027,8 @@
         {
             "id": "w_saltysurprise",
             "content": {
-                "en": "A salty surprise."
+                "en": "A salty surprise.",
+                "de": "Eine salzige Überraschung."
             },
             "flags": "s w g"
         },
@@ -1064,7 +1066,8 @@
         {
             "id": "w_catpeesupersoaker",
             "content": {
-                "en": "A Super Soaker™ full of cat pee."
+                "en": "A Super Soaker™ full of cat pee.",
+                "de": "Eine Super Soaker™ voller Katzenpisse."
             },
             "flags": "w g"
         },
@@ -1287,20 +1290,23 @@
         {
             "id": "w_axedeo",
             "content": {
-                "en": "AXE Body Spray."
+                "en": "AXE Body Spray.",
+                "de": "AXE-Deo."
             }
         },
         {
             "id": "w_balls",
             "content": {
-                "en": "Balls."
+                "en": "Balls.",
+                "de": "Eier."
             },
             "flags": "gn gnm"
         },
         {
             "id": "w_bananas",
             "content": {
-                "en": "Bananas."
+                "en": "Bananas.",
+                "de": "Bananen."
             }
         },
         {
@@ -1330,7 +1336,8 @@
         {
             "id": "w_bees",
             "content": {
-                "en": "Bees?"
+                "en": "Bees?",
+                "de": "Bienen?"
             }
         },
         {
@@ -1349,7 +1356,8 @@
         {
             "id": "w_beingwoman",
             "content": {
-                "en": "Being a woman."
+                "en": "Being a woman.",
+                "de": "Eine Frau sein."
             }
         },
         {
@@ -1373,13 +1381,15 @@
         {
             "id": "w_beonfire",
             "content": {
-                "en": "Being on fire."
+                "en": "Being on fire.",
+                "de": "Brennen."
             }
         },
         {
             "id": "w_berich",
             "content": {
-                "en": "Being rich."
+                "en": "Being rich.",
+                "de": "Reich sein."
             }
         },
         {
@@ -1397,7 +1407,8 @@
         {
             "id": "w_bisexuality",
             "content": {
-                "en": "Bisexuality."
+                "en": "Bisexuality.",
+                "de": "Bisexualität."
             }
         },
         {
@@ -1488,8 +1499,10 @@
         {
             "id": "w_childabuse",
             "content": {
-                "en": "Child abuse."
-            }
+                "en": "Child abuse.",
+                "de": "Kindermissbrauch."
+            },
+            "flags": "ch_ab ch ab"
         },
         {
             "id": "w_childpageants",
@@ -1605,32 +1618,37 @@
         {
             "id": "w_deadbabies",
             "content": {
-                "en": "Dead babies."
+                "en": "Dead babies.",
+                "de": "Tote Babys."
             }
         },
         {
             "id": "w_deadbirdsallover",
             "content": {
-                "en": "Dead birds everywhere."
+                "en": "Dead birds everywhere.",
+                "de": "Überall tote Vögel."
             }
         },
         {
             "id": "w_deadparents",
             "content": {
-                "en": "Dead parents."
+                "en": "Dead parents.",
+                "de": "Tote Eltern."
             }
         },
         {
             "id": "w_dickfingers",
             "content": {
-                "en": "Dick fingers."
+                "en": "Dick fingers.",
+                "de": "Penisfinger."
             },
             "flags": "w gn gnm"
         },
         {
             "id": "w_dickpics",
             "content": {
-                "en": "Dick pics."
+                "en": "Dick pics.",
+                "de": "Penisbilder."
             },
             "flags": "gn gnm"
         },
@@ -1649,7 +1667,8 @@
         {
             "id": "w_doingcrimes",
             "content": {
-                "en": "Doing crimes."
+                "en": "Doing crimes.",
+                "de": "Verbrechen machen."
             }
         },
         {
@@ -1667,7 +1686,8 @@
         {
             "id": "w_drinkalone",
             "content": {
-                "en": "Drinking alone."
+                "en": "Drinking alone.",
+                "de": "Allein trinken."
             }
         },
         {
@@ -1698,8 +1718,10 @@
         {
             "id": "w_dying",
             "content": {
-                "en": "Dying."
-            }
+                "en": "Dying.",
+                "de": "Sterben."
+            },
+            "flags": "d"
         },
         {
             "id": "w_husbandasseggeat",
@@ -1716,7 +1738,8 @@
         {
             "id": "w_elderlyjapanman",
             "content": {
-                "en": "Elderly Japanese men."
+                "en": "Elderly Japanese men.",
+                "de": "Alte japanische Männer."
             }
         },
         {
@@ -1729,12 +1752,14 @@
             "id": "w_emmawatson",
             "content": {
                 "en": "Emma Watson."
-            }
+            },
+            "flags": "ce"
         },
         {
             "id": "w_emotions",
             "content": {
-                "en": "Emotions."
+                "en": "Emotions.",
+                "de": "Emotionen."
             }
         },
         {
@@ -1746,7 +1771,8 @@
         {
             "id": "w_establishdominance",
             "content": {
-                "en": "Establishing dominance."
+                "en": "Establishing dominance.",
+                "de": "Dominanz behaupten."
             }
         },
         {
@@ -1782,13 +1808,15 @@
         {
             "id": "w_howvaginaswork",
             "content": {
-                "en": "Explaining how vaginas work."
+                "en": "Explaining how vaginas work.",
+                "de": "Erklären, wie Vaginen funktionieren."
             }
         },
         {
             "id": "w_explosions",
             "content": {
-                "en": "Explosions."
+                "en": "Explosions.",
+                "de": "Explosionen."
             }
         },
         {
@@ -1812,13 +1840,15 @@
         {
             "id": "w_faketits",
             "content": {
-                "en": "Fake tits."
+                "en": "Fake tits.",
+                "de": "Falsche Titten."
             }
         },
         {
             "id": "w_famine",
             "content": {
-                "en": "Famine."
+                "en": "Famine.",
+                "de": "Hungersnot."
             }
         },
         {
@@ -1878,7 +1908,8 @@
         {
             "id": "w_flightlessbirds",
             "content": {
-                "en": "Flightless birds."
+                "en": "Flightless birds.",
+                "de": "Flugunfähige Vögel."
             }
         },
         {
@@ -1896,7 +1927,8 @@
         {
             "id": "w_foreskin",
             "content": {
-                "en": "Foreskin."
+                "en": "Foreskin.",
+                "de": "Vorhaut."
             }
         },
         {
@@ -1926,14 +1958,17 @@
         {
             "id": "w_friction",
             "content": {
-                "en": "Friction."
+                "en": "Friction.",
+                "de": "Reibung."
             }
         },
         {
             "id": "w_sisterfuck",
             "content": {
-                "en": "Fucking my sister."
-            }
+                "en": "Fucking my sister.",
+                "de": "Meine Schwester ficken."
+            },
+            "flags": "s ic"
         },
         {
             "id": "w_fuckweathermanontv",
@@ -1968,7 +2003,8 @@
         {
             "id": "w_geese",
             "content": {
-                "en": "Geese."
+                "en": "Geese.",
+                "de": "Gänse."
             }
         },
         {
@@ -1987,7 +2023,8 @@
             "id": "w_germandungeonporn",
             "content": {
                 "en": "German dungeon porn."
-            }
+            },
+            "flags": "w x"
         },
         {
             "id": "w_vendmachinecrush",
@@ -2040,13 +2077,15 @@
         {
             "id": "w_ghosts",
             "content": {
-                "en": "Ghosts."
+                "en": "Ghosts.",
+                "de": "Geister."
             }
         },
         {
             "id": "w_girls",
             "content": {
-                "en": "Girls."
+                "en": "Girls.",
+                "de": "Mädchen."
             }
         },
         {
@@ -2076,8 +2115,10 @@
         {
             "id": "w_god",
             "content": {
-                "en": "God."
-            }
+                "en": "God.",
+                "de": "Gott."
+            },
+            "flags": "re"
         },
         {
             "id": "w_gogurt",
@@ -2094,7 +2135,8 @@
         {
             "id": "w_grandma",
             "content": {
-                "en": "Grandma."
+                "en": "Grandma.",
+                "de": "Oma."
             }
         },
         {
@@ -2112,7 +2154,8 @@
         {
             "id": "w_anuseyes",
             "content": {
-                "en": "Having anuses for eyes."
+                "en": "Having anuses for eyes.",
+                "de": "Ani als Augen haben."
             }
         },
         {
@@ -2124,8 +2167,10 @@
         {
             "id": "w_firsttimesex",
             "content": {
-                "en": "Having sex for the first time."
-            }
+                "en": "Having sex for the first time.",
+                "de": "Zum ersten Mal Sex haben."
+            },
+            "flags": "s"
         },
         {
             "id": "w_heartwarmorphans",
@@ -2161,18 +2206,21 @@
             "id": "w_fartalloverchild",
             "content": {
                 "en": "Holding down a child and farting all over him."
-            }
+            },
+            "flags": "ch dg g ch_ab"
         },
         {
             "id": "w_hope",
             "content": {
-                "en": "Hope."
+                "en": "Hope.",
+                "de": "Hoffnung."
             }
         },
         {
             "id": "w_horsemeat",
             "content": {
-                "en": "Horse meat."
+                "en": "Horse meat.",
+                "de": "Pferdefleisch."
             }
         },
         {
@@ -2190,14 +2238,16 @@
         {
             "id": "w_hotpeople",
             "content": {
-                "en": "Hot people."
+                "en": "Hot people.",
+                "de": "Heiße Leute."
             }
         },
         {
             "id": "w_amazingonshrooms",
             "content": {
                 "en": "How amazing it is to be on mushrooms."
-            }
+            },
+            "flags": "dr"
         },
         {
             "id": "w_baddancerecital",
@@ -2245,14 +2295,17 @@
         {
             "id": "w_incest",
             "content": {
-                "en": "Incest."
-            }
+                "en": "Incest.",
+                "de": "Inzest."
+            },
+            "flags": "ic"
         },
         {
             "id": "w_masonjaranus",
             "content": {
                 "en": "Inserting a Mason jar into my anus."
-            }
+            },
+            "flags": "w g s xf"
         },
         {
             "id": "w_invadepoland",
@@ -2282,13 +2335,15 @@
             "id": "w_jlaw",
             "content": {
                 "en": "Jennifer Lawrence."
-            }
+            },
+            "flags": "ce"
         },
         {
             "id": "w_jerkoffinkidtears",
             "content": {
                 "en": "Jerking off into a pool of children's tears."
-            }
+            },
+            "flags": "w g s ch dg"
         },
         {
             "id": "w_jewsgypsieshomos",
@@ -2306,7 +2361,8 @@
             "id": "w_judgejudy",
             "content": {
                 "en": "Judge Judy."
-            }
+            },
+            "flags": "ce"
         },
         {
             "id": "w_judgeeveryone",
@@ -2318,7 +2374,8 @@
             "id": "w_justinbieber",
             "content": {
                 "en": "Justin Bieber."
-            }
+            },
+            "flags": "ce"
         },
         {
             "id": "w_kamikazepilots",
@@ -2336,13 +2393,15 @@
             "id": "w_kisskillgrandma",
             "content": {
                 "en": "Kissing grandma on the forehead and turning off her life support."
-            }
+            },
+            "flags": "mu d"
         },
         {
             "id": "w_kkkkk",
             "content": {
                 "en": "Kourtney, Kim, Khloe, Kendall, and Kylie."
-            }
+            },
+            "flags": "ce"
         },
         {
             "id": "w_lactation",
@@ -2365,7 +2424,8 @@
         {
             "id": "w_layegg",
             "content": {
-                "en": "Laying an egg."
+                "en": "Laying an egg.",
+                "de": "Ein Ei legen."
             }
         },
         {
@@ -2415,7 +2475,8 @@
             "id": "w_tomcruisesexintent",
             "content": {
                 "en": "Looking in the mirror, applying lipstick, and whispering \"tonight, you will have sex with Tom Cruise.\""
-            }
+            },
+            "flags": "s ce"
         },
         {
             "id": "w_lumberjackfantasy",
@@ -2445,7 +2506,8 @@
             "id": "w_manmeat",
             "content": {
                 "en": "Man meat."
-            }
+            },
+            "flags": "gn gnm"
         },
         {
             "id": "w_mansplain",
@@ -2462,7 +2524,8 @@
         {
             "id": "w_masturbate",
             "content": {
-                "en": "Masturbating."
+                "en": "Masturbating.",
+                "de": "Masturbieren."
             }
         },
         {
@@ -2480,7 +2543,8 @@
         {
             "id": "w_memes",
             "content": {
-                "en": "Memes."
+                "en": "Memes.",
+                "de": "Meme."
             }
         },
         {
@@ -2492,7 +2556,8 @@
         {
             "id": "w_men",
             "content": {
-                "en": "Men."
+                "en": "Men.",
+                "de": "Männer."
             }
         },
         {
@@ -2524,7 +2589,7 @@
             "id": "w_morgenfreemanvoice",
             "content": {
                 "en": "Morgan Freeman's voice.",
-                "de-DE": "Die Stimme von Morgan Freeman."
+                "de": "Die Stimme von Morgan Freeman."
             }
         },
         {
@@ -2543,14 +2608,14 @@
             "id": "w_multiplestabwounds",
             "content": {
                 "en": "Multiple stab wounds.",
-                "de-DE": "Mehrere Stichwunden."
+                "de": "Mehrere Stichwunden."
             }
         },
         {
             "id": "w_murder",
             "content": {
                 "en": "Murder.",
-                "de-DE": "Mord."
+                "de": "Mord."
             }
         },
         {
@@ -2568,13 +2633,15 @@
         {
             "id": "w_myballsonface",
             "content": {
-                "en": "My balls on your face."
+                "en": "My balls on your face.",
+                "de": "Meine Eier an deinem Gesicht."
             }
         },
         {
             "id": "w_myblackass",
             "content": {
-                "en": "My black ass."
+                "en": "My black ass.",
+                "de": "Mein schwarzer Arsch."
             }
         },
         {
@@ -2599,25 +2666,30 @@
         {
             "id": "w_myexwife",
             "content": {
-                "en": "My ex-wife."
+                "en": "My ex-wife.",
+                "de": "Meine Exfrau."
             }
         },
         {
             "id": "w_myfatdaughter",
             "content": {
-                "en": "My fat daughter."
+                "en": "My fat daughter.",
+                "de": "Meine dicke Tochter."
             }
         },
         {
             "id": "w_mygenitals",
             "content": {
-                "en": "My genitals."
-            }
+                "en": "My genitals.",
+                "de": "Meine Genitalien."
+            },
+            "flags": "gn"
         },
         {
             "id": "w_mygoodbra",
             "content": {
-                "en": "My good bra."
+                "en": "My good bra.",
+                "de": "Mein guter BH."
             }
         },
         {
@@ -2641,13 +2713,15 @@
         {
             "id": "w_mysexlife",
             "content": {
-                "en": "My sex life."
+                "en": "My sex life.",
+                "de": "Mein Sexleben."
             }
         },
         {
             "id": "w_mysoul",
             "content": {
-                "en": "My soul."
+                "en": "My soul.",
+                "de": "Meine Seele."
             }
         },
         {
@@ -2665,7 +2739,8 @@
         {
             "id": "w_myvagina",
             "content": {
-                "en": "My vagina."
+                "en": "My vagina.",
+                "de": "Meine Vagina."
             }
         },
         {
@@ -2683,7 +2758,8 @@
         {
             "id": "w_nazis",
             "content": {
-                "en": "Nazis."
+                "en": "Nazis.",
+                "de": "Nazis."
             }
         },
         {
@@ -2695,7 +2771,8 @@
         {
             "id": "w_necrophilia",
             "content": {
-                "en": "Necrophilia."
+                "en": "Necrophilia.",
+                "de": "Nekrophilie."
             }
         },
         {
@@ -2713,7 +2790,8 @@
         {
             "id": "w_nippleblades",
             "content": {
-                "en": "Nipple blades."
+                "en": "Nipple blades.",
+                "de": "Warzenklingen."
             }
         },
         {
@@ -2737,7 +2815,8 @@
         {
             "id": "w_nowearpants",
             "content": {
-                "en": "Not wearing pants."
+                "en": "Not wearing pants.",
+                "de": "Keine Hose tragen."
             }
         },
         {
@@ -2835,7 +2914,8 @@
         {
             "id": "w_boobpics",
             "content": {
-                "en": "Pictures of boobs."
+                "en": "Pictures of boobs.",
+                "de": "Bilder von Titten."
             }
         },
         {
@@ -2946,13 +3026,15 @@
         {
             "id": "w_puppies",
             "content": {
-                "en": "Puppies!"
+                "en": "Puppies!",
+                "de": "Welpen!"
             }
         },
         {
             "id": "w_queef",
             "content": {
-                "en": "Queefing."
+                "en": "Queefing.",
+                "de": ""
             }
         },
         {
@@ -2964,7 +3046,8 @@
         {
             "id": "w_racism",
             "content": {
-                "en": "Racism."
+                "en": "Racism.",
+                "de": "Rassismus."
             }
         },
         {
@@ -2995,7 +3078,8 @@
         {
             "id": "w_republicans",
             "content": {
-                "en": "Republicans."
+                "en": "Republicans.",
+                "de": "Republikaner."
             }
         },
         {
@@ -3026,13 +3110,15 @@
         {
             "id": "w_sayily",
             "content": {
-                "en": "Saying \"I love you.\""
+                "en": "Saying \"I love you.\"",
+                "de": "\"Ich liebe dich\" sagen."
             }
         },
         {
             "id": "w_science",
             "content": {
-                "en": "Science."
+                "en": "Science.",
+                "de": "Wissenschaft."
             }
         },
         {
@@ -3044,13 +3130,15 @@
         {
             "id": "w_seeomanaked",
             "content": {
-                "en": "Seeing Grandma naked."
+                "en": "Seeing Grandma naked.",
+                "de": "Oma nackt sehen."
             }
         },
         {
             "id": "w_seedadcry",
             "content": {
-                "en": "Seeing my father cry."
+                "en": "Seeing my father cry.",
+                "de": "Meinen Vater weinen sehen."
             }
         },
         {
@@ -3153,7 +3241,8 @@
         {
             "id": "w_silence",
             "content": {
-                "en": "Silence."
+                "en": "Silence.",
+                "de": "Stille."
             }
         },
         {
@@ -3203,7 +3292,8 @@
         {
             "id": "w_someguy",
             "content": {
-                "en": "Some guy."
+                "en": "Some guy.",
+                "de": "Irgendein Typ."
             }
         },
         {
@@ -3227,7 +3317,8 @@
         {
             "id": "w_spaghettiagain",
             "content": {
-                "en": "Spaghetti? Again?"
+                "en": "Spaghetti? Again?",
+                "de": "*Wieder* Spaghetti?"
             }
         },
         {
@@ -3425,13 +3516,15 @@
         {
             "id": "w_theforce",
             "content": {
-                "en": "The Force."
+                "en": "The Force.",
+                "de": "Die Macht."
             }
         },
         {
             "id": "w_thegays",
             "content": {
-                "en": "The gays."
+                "en": "The gays.",
+                "de": "Die Schwulen."
             }
         },
         {
@@ -3455,13 +3548,15 @@
         {
             "id": "w_childheart",
             "content": {
-                "en": "The heart of a child."
+                "en": "The heart of a child.",
+                "de": "Das Herz eines Kindes."
             }
         },
         {
             "id": "w_holybible",
             "content": {
-                "en": "The Holy Bible."
+                "en": "The Holy Bible.",
+                "de": "Das Heilige Schrift."
             }
         },
         {
@@ -3497,8 +3592,10 @@
         {
             "id": "w_koolaidman",
             "content": {
-                "en": "The Kool-Aid Man."
-            }
+                "en": "The Kool-Aid Man.",
+                "de": "Der Kool-Aid-Mann."
+            },
+            "flags": "fc"
         },
         {
             "id": "w_livetheatremagic",
@@ -3527,13 +3624,15 @@
         {
             "id": "w_past",
             "content": {
-                "en": "The past."
+                "en": "The past.",
+                "de": "Die Vergangenheit."
             }
         },
         {
             "id": "w_patriarchy",
             "content": {
-                "en": "The Patriarchy."
+                "en": "The Patriarchy.",
+                "de": "Das Patriarchat."
             }
         },
         {
@@ -3551,13 +3650,15 @@
         {
             "id": "w_pope",
             "content": {
-                "en": "The Pope."
+                "en": "The Pope.",
+                "de": "Der Papst."
             }
         },
         {
             "id": "w_rapture",
             "content": {
-                "en": "The Rapture."
+                "en": "The Rapture.",
+                "de": "Die Entrückung."
             }
         },
         {
@@ -3575,7 +3676,8 @@
         {
             "id": "w_therussians",
             "content": {
-                "en": "The Russians."
+                "en": "The Russians.",
+                "de": "Die Russen."
             }
         },
         {
@@ -3587,7 +3689,8 @@
         {
             "id": "w_south",
             "content": {
-                "en": "The South."
+                "en": "The South.",
+                "de": "Der Süden."
             }
         },
         {
@@ -3599,7 +3702,8 @@
         {
             "id": "w_trailoftears",
             "content": {
-                "en": "The Trail of Tears."
+                "en": "The Trail of Tears.",
+                "de": "Der Pfad der Tränen."
             }
         },
         {
@@ -3611,7 +3715,8 @@
         {
             "id": "w_undergroundrr",
             "content": {
-                "en": "The Underground Railroad."
+                "en": "The Underground Railroad.",
+                "de": "Die Underground Railroad."
             }
         },
         {
@@ -3629,7 +3734,8 @@
         {
             "id": "w_wifipassword",
             "content": {
-                "en": "The wifi password."
+                "en": "The wifi password.",
+                "de": "Das WLAN-Passwort."
             }
         },
         {
@@ -3653,7 +3759,8 @@
         {
             "id": "w_threedickssametime",
             "content": {
-                "en": "Three dicks at the same time."
+                "en": "Three dicks at the same time.",
+                "de": "Drei Schwänze zur gleichen Zeit."
             },
             "flags": "xf s gn gnm"
         },
@@ -3672,7 +3779,8 @@
         {
             "id": "w_pugpenistouch",
             "content": {
-                "en": "Touching a pug right on his penis."
+                "en": "Touching a pug right on his penis.",
+                "de": "Einen Mops direkt am Penis berühren."
             },
             "flags": "w g s an"
         },
@@ -3794,7 +3902,8 @@
         {
             "id": "w_worldpeace",
             "content": {
-                "en": "World peace."
+                "en": "World peace.",
+                "de": "Weltfrieden."
             }
         },
         {
@@ -3806,13 +3915,15 @@
         {
             "id": "w_yeast",
             "content": {
-                "en": "Yeast."
+                "en": "Yeast.",
+                "de": "Hefe."
             }
         },
         {
             "id": "w_yourweirdbrother",
             "content": {
-                "en": "Your weird brother."
+                "en": "Your weird brother.",
+                "de": "Dein seltsamer Bruder."
             }
         }
     ]

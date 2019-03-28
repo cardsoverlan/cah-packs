@@ -1,7 +1,8 @@
 {
     "id": "cah_blue_box",
     "name": "CAH: Blue Box",
-    "accent": "blue",
+    "accent_background": "#36a",
+    "accent_color": "white",
     "author": "Cards Against Humanity",
     "license": "Creative Commons BY-NC-SA 2.0",
     "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
