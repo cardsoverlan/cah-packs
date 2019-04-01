@@ -1,0 +1,197 @@
+{
+    "id": "cah_www",
+    "name": "CAH: World Wide Web Pack",
+    "accent_color": "#FBE03A",
+    "accent_background": "#0898DA",
+    "cards": [
+        {
+            "id": "b_gogogadget",
+            "content": {
+                "en": "Don't worry, Penny! Go Go Gadget ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_ineedyoulikexneeds",
+            "content": {
+                "en": "I need you like ______ needs ______."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_stayintonight",
+            "content": {
+                "en": "I'm just gonna stay in tonight. You know, Netflix and ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_nothingsaysily",
+            "content": {
+                "en": "Nothing says \"I love you\" like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_doge",
+            "content": {
+                "en": "Such ______. Very ______. Wow."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_basicallytinder",
+            "content": {
+                "en": "This app is basically Tinder, but for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_triggerwarning",
+            "content": {
+                "en": "TRIGGER WARNING: ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_genitalnickname",
+            "content": {
+                "en": "What did I nickname my genitals?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_darkwebbuy",
+            "content": {
+                "en": "You guys, you can buy ______ on the dark web."
+            },
+            "pick": 1
+        },
+        {
+            "id": "w_cantunderstandperspective",
+            "content": {
+                "en": "A complete inability to understand anyone else's perspective."
+            }
+        },
+        {
+            "id": "w_nudebeachsexytime",
+            "content": {
+                "en": "A fun, sexy time at the nude beach."
+            }
+        },
+        {
+            "id": "w_craigslistman",
+            "content": {
+                "en": "A man from Craigslist."
+            }
+        },
+        {
+            "id": "w_tacobellanalnight",
+            "content": {
+                "en": "A night of Taco Bell and anal sex."
+            }
+        },
+        {
+            "id": "w_respectgenderracetalk",
+            "content": {
+                "en": "A respectful discussion of race and gender on the Internet."
+            }
+        },
+        {
+            "id": "w_catmassage",
+            "content": {
+                "en": "Cat massage."
+            }
+        },
+        {
+            "id": "w_cheneylasthorcrux",
+            "content": {
+                "en": "Destroying Dick Cheney's last horcrux."
+            }
+        },
+        {
+            "id": "w_gotspoilers",
+            "content": {
+                "en": "Game of Thrones spoilers."
+            }
+        },
+        {
+            "id": "w_codgettbagged",
+            "content": {
+                "en": "Getting teabagged by a fifth grader in Call of Duty."
+            }
+        },
+        {
+            "id": "w_goatshumanscream",
+            "content": {
+                "en": "Goats screaming like people."
+            }
+        },
+        {
+            "id": "w_googling",
+            "content": {
+                "en": "Googling."
+            }
+        },
+        {
+            "id": "w_pornanalparal",
+            "content": {
+                "en": "Internet porn analysis paralysis."
+            }
+        },
+        {
+            "id": "w_tindermommatch",
+            "content": {
+                "en": "Matching with Mom on Tinder."
+            }
+        },
+        {
+            "id": "w_mybrowserhist",
+            "content": {
+                "en": "My browser history."
+            }
+        },
+        {
+            "id": "w_privwhitepenis",
+            "content": {
+                "en": "My privileged white penis."
+            }
+        },
+        {
+            "id": "w_blackpretend",
+            "content": {
+                "en": "Pretending to be black."
+            }
+        },
+        {
+            "id": "w_smashmouth",
+            "content": {
+                "en": "Smash Mouth."
+            }
+        },
+        {
+            "id": "w_runningshit",
+            "content": {
+                "en": "Taking a shit while running at full speed."
+            }
+        },
+        {
+            "id": "w_hotthingoninternet",
+            "content": {
+                "en": "That thing on the Internet everyone's talking about."
+            }
+        },
+        {
+            "id": "w_cumbox",
+            "content": {
+                "en": "Three years of semen in a shoebox."
+            }
+        },
+        {
+            "id": "w_ytcomments",
+            "content": {
+                "en": "Youtube comments."
+            }
+        }
+    ]
+}
