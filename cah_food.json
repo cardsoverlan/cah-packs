@@ -1,0 +1,194 @@
+{
+    "id": "cah_food",
+    "name": "CAH: Food Pack",
+    "accent_color": "#fff",
+    "accent_background": "url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABELDA8MChEPDg8TEhEUGSobGRcXGTMkJh4qPDU/Pjs1OjlDS2BRQ0daSDk6U3FUWmNma2xrQFB2fnRofWBpa2f/2wBDARITExkWGTEbGzFnRTpFZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2f/wAARCABkASwDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAwQAAgUBBv/EADcQAAEEAQQABgAEBQIGAwAAAAEAAgMRIQQSMUEFEyJRYXEygZGhFCOxwdEVQgYkMzRS8GKC4f/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAIBEBAQEBAAMBAAIDAAAAAAAAAAERAhIhMUEDURMycf/aAAwDAQACEQMRAD8A8zCDJM0e5XpIHhkYA9l53SbhqGkNs+y03TFgr+q5+3dxTz5wl5NT1aSM5J5V4o3yuqq+1n4tNEfPY5S75yT2tQaVjotpABIAdjn5+ET/AE9rImyFo2usC/hHqFtIaY+TsJe07xdA2R9rSj1NUQSD8Jd2maABQoG6ApV1rofOJ08cjA4imuIIbjI/VFy/BtnqnHagEZPygTzAirUjhMsDcbXA5rsLr/D3PZbZQHD37UyZVUNupMrMuAkaQ2g2hVc2O/8AK47UE4APpFlLTRT6WVzpAC1xvc3hdbqGu5pVUwRkssrtrASSmH6IyRbTJTxn3H0iQs8toNerklED253WMde6XxRVmkMRaS0H5HaaaW1gLheKzdIbX5sZ9wl9GYDrGkPtln4CLDHIR6vT9orWlruKd3aldoDgjZfqJPvSu9kJb6WD/wCwyqWum+QKRoVZpoy/cGAH3C5NB5Js+phGCEdh2ReYSKuiLSuq1LXAhuB7Wj2ReUDaVXTz7Wbb4Kq99jlLFrw0yNBLAQHH2Juv6FVJpa0X6rceb+0F8jnktaLNHhLxMkeRQP0nW6Rp2l4AoVQ7Hz7+yMk+ntpfSyOfJtPC0GBrPY57S72hhFNoXWEY04AtwAO0qcNwMEzH/wAxrSxu7JAHPCpv22x217RiuUXQ+WyIFznb9zbBYNpBNZPPBP6JbVMbFqHtiO6KzsPxaqzJqJd6wtKwwyel9MefxH/atDS6kOgZzQ/EfZLMO9rg5m4EcE0EMtEQ3x21jsFt/hS+i+j0jm7N5PJqkGOQOdxgcpds287dzSAKrvNG0zHWAEjgcsb5d1jN/QQ4NCIdzraCTwn9keQ5/qqhRFX/AI/yh+Y2Nh2kFzrb0QB/lOD6H5VWRke9KF5FAUAPi0WKWINk3s3OLabng+6G+S3E03OUYNrp07GGgGhw7CR8RbHOS98f84/7mencfc/KPPONxp1i8FDgeJTZA9JwiWi8ldF4a6w+fFcNWlFGwyUGiyMWo5+yi4HIsJWSW7spW6chsanawtLGHN5GWlR2pL20Q2ucClnebnK754CXs/Rx7wWjFV88oewOmtnqA7I5ScmoxhO+EyCVpb3aMoNRA7eFc4CK1jQ/aTt+0OYbCQaUnpaanNP90hpWPimkALRG6rG0G/gHrlOTEgILGFo3n8Lro/Svmp6hjdQA+EF0r2imu/MLu4FCeQlYcqOmO3Jyu6UkSHeCARYvtLPdRUbqiC0mqAoC/kn+6qQrWoJAT6rrs9qSajc8mmi+gKCRGpB7VXajKVgOF1EE8Kj5COCkzqbtBfqDXKXiNMz6gHCVEtv4v4Sz57NBP+E6UajeXNBdy2z7dfNrTxz6nV9K0hp3O25PAyQR7+yZkjiwGtaT1QTE8LIyQ0gj3CSmG2qsUp0/EeGIRNNj1Iji26PCWZLjlXEcsrba0kKf1YepkDnjaAPrpWjkwLOVU6Wdr7dHfxfKqxrnTbXBsZyfVgDFqvqdNtmst3eoAVRJo5ukdj4nRFr37RusAMuj/WqA/wDQs1snf7IjZBX2l8GSmQRwRSr6Wg+zukLzL7/NXa7c0tPBSlFjOkkOl1bmnI/smG+INrlWlginkYZOuwav4T0MMOxoETKH/wAVVwozv9QJK6NUCLcVpS6HTzNNxNbfbRVJGfw+KMMjLmtJJO9529cfsiZRbjsesjcWsYLJ9uU29wlducBfHthI6WIRgEjjjFHPv8pvcPdFuHPbGk1NFG0MwMbr5JVIPDnve10rAWdgu2j9VR8MmmuWmtYSAWg8K/GYjyunHyhLyTWlnTX2hmX5SnJ6M6TK4Hk/SC02U5BpHTNO3DgLAIwU8kLSzn4T/gUn8yX4pB1Ph0rcsadvQPKDo5n6LUeppp2CEerPQ3K9MJ9vNXd2UGWa+Tf5pA6wEWCDaDJqr7WWVp6MarU2c0l4p87bNWlJJHPOLKvEx8Ya91U7NDkfauc+k3o9vwhyvFcqr5RtA4KXlkFGilha5JJnlVAJH2hB3mSgcrWj0rfKGM+6v4NZri5jQqOmNLUOli2OEpe2x6TtsX2s2WDaU5haD5xCE+QntXkZQQDytJIz6tEjyVtaGTZGB1d0sSM0VoQTENU9w+K2HSgspKPJcHGwA3onJ6QBOSV1srtxAODyPdYSNtPaaFrQC6iec9JwELPZNi7RBPQSNpbWNaC57TbboFBkgE0T3VhuCexaUGpPF8rv8RTT8ikfpWM+Rxilcw9LrJDeEvr5v511WEFs9drTx2J1pCQg0cK/mbGXuwOVnCcnhR7nyekkt+EvEXo0ycPc1pdQ3Akjpa8BG0f3XnWRvifuP4fda+kntoFo6mDmteNo8sudu4Jod0ltSzdGT/45UZqCG0HGqNjm/wAvyVTL/Ld6q+PdR/w/f6XFbrP50QqF1FLwzWa+cIvmWjD02doAo2ewltZGx8J3UiSODQUlqJzINqORWS8FriFSyThaEcTtz7hbJubt9V+n5FdpqDRSS6yKSchwDR0OBgArfykjHLar4b4W5zRJKKB4C24oAwU0V9K7KquEVjC72+zgBYdW2tZJC0jQRlZPiMLXMdx8e61JX1ys3VHe0tGSUc/TvuMgSzSy+p7pHGhbjZwKH7LQ0ugfJmQYI4XPDtMBI4vGb4I4WuxzYwfSDYoX0tOuk8xItCBbnBoJF3QAP6Imo08BFNFtrkqkk29xNBou6HAQn6poBz+Sz1XiyvFR5Uhfd2crMdKXcJ7xScTY+UDSaRsotziOcAZusfut+J69se77V0P/AHLbW/GRQ7WdrNLFpdSf4fcY8EbjZGBf72mdPL6Qo7+r4afntdDtexhqhW3BA/v89pLXMbMS5rA0DhreB8D81YPwqSG2qPKq8YzZdOTdLNmjMbyCt11VhZuuAcLWvHTPvn0SaaKdicNoSQWnpfCtU9ocWhoIv1HP6K+7EcaGTRVo5PVymn+ETtbhzHH2SztBq43ZjsfBtZ7K29iNkrCt5hAvrhBc1zcOBBQ3EhGHpjz6K6JsZSZeuOloYR4lavPc8tDlN6fwp0jLvq6Smkfcllb8E+1g2kcdi0dXPSZNZjvDXMcRjCuzROAc8gloHII5TzpaaQEB84HFe6nyFgOoYG6cZz7DpKafU7Tyr6mb0nNWlYtNI5oc0g2TjtXmz2UuNVmqwqanWBsZzlJ+TOxtlpGEk97zJ67sdKZxFXtoQPzZKPvKQjkwEcSY5ReRp6eT2XNPpjM5ptpBzQNkffsk3zbjytjw5n8oOoC1HyKvsUwNij46Q4Dyfc4T72Xpy4uzxdjH2srzBFI4E/SRyxoteWZoWqSagkfiNe1pM6i/ZUMj5PwNJ+gg8Xnn2tOcrOfPcg4OeCiSwamW6jP54S38JM2YecHRt53bS4D9FfMLo6120lzQG5JocI8M3muDGmyekmzbI6mvtt1dUfuk3pdMdNrX7nNeAAWuYcEFK8lL+H4dIC23G/zXJNFBW0sb8qwn2uFFDfMdxs2T2VKic/g0EjS5pcw1inWEPS6dkML/ADGSOeCNjmVtrvd3+icdqS1+9hLM4o8FKPcHZ7GcqueqjrnQdSWu6+KJSsM+121x+kcyelwPZWdqa3YVyancajZgRyrGbCyI9UWinfqi/wASCOUr/HVTuU5JLQoHlBi041bntMjGbWlw3Ord8D5VYmundTQVpRwMZFZoPAoUEf6i+ynhmgZ/GguyGgmiO1uggfP0s3TPa2Q1ynPMNXmuLUdXVcyQV3ORS4Yjt3Eekmr6VGz3M0uO4AcJyCZjeW7o7yN1EpSQ+rhF+lbIMtBWZq/D3MO5lkd/C352tD7jO6MnBqvyyhFhcSAN1XdZwntlL1Y8hI7a4g9IL5Frf8QaMxbZWhufxUfdA8L8IdqqlntsR4Hbv/xdE6km1zdTq3IT08h3UASR7C1os1DmtF2PsUt7SaaKBu2NrYx8BFmjDxte0PHsRdrLrqVtzzY887VEhCme9rL2uNjoLci8NgDvS0XfBRzAGtGEpZDs15Noc+YNeD9L0OkZbbc7LuyqS+Hxue6SNoa7qsAosEoYGGhnkX0CjrrfhTnDwga8Oc1gAHI6CU1eihnj2vYPg9gph2oLgAXYDaDQcBVfOTe4B1g8/wBVO/0rP7eW1OnfptR5WXWfSR/uXBuFgggg0RS0tRG2XVsLs1Z5+k2zSsDRTLWnnMZ+NY7tPPGN8kTmt7J6W/oXtZC0H290R7QQRQSgaY3FgNNybOa/JRb5NMw1LOeieOVkayUl5Ob906yOTU6fzGvhaLoh8zWkfqs1zmva8uftIbbRV7j7fCc5peU/HdJvnmDBZHJ+lvabThw2NLWYu3Ggsvwthie7eC1xrBFFarTRwGk8Anr5S6zVT4mn/wCo3cCW3mheFJQxziW2Gk4vlN6R8MLml97hdOaM2R730k84CmzJ6EttLT6WOWiWgO/824Ko2N2mjN2c1bjlMSOA5S+re6QHs0KRL+CwI6i88Kj9TbuUoZfdU8w2rnJaadOCPpDdLZwl3PJwjN08m6scA2DaeYWqRRPmlDW99omv8NdHHvZbq/ECm9NGIgPdMFxkdkg3hLzy+h46825jPKZtD99ncSRt6qv3/ZW0ulfPKGMAJ5yaWxJA3Y5gAo5wq+Fs8uSUfQyr/wAnpE/j9mtFoBCz1HPwmf4dhHCu14u3Nx1Ss0tJOa5q/wCixu1t8LDSRtNtYPulxzXs9JwywXEDITkZj3EkW6sN6/P/AAuvaJIy9oAArdZ/dOFrHll2PbTgQeCHA3/78phkrngc4XZ9I2Q2AA7pKTap8DvLeKPR6Keb8G4dElKOm+VmHWbjn9lR2q+UvGjY0JWfxbmiT1M5Nnmuk20bEpo78sE95TbTj+6VODRuaPxVnAJv0/OFRszg+wSHfBQJHu3DaGkdrgfVkmqBSGL/AMR5clnN9FSXUEspuAegkNVMGuAJpDZPweQSnhNZhBcAeEhMRFqnm8E/qislpt2szX6h02oIbZDRV/KcmlafGpHuhza0NBykZGTRu2ObRHV2kXvc51O/RXP403vGtpJDLPuHB9P91vQhvksprrrNE5/Zed8McAtcT4/Ht+Er6ozTMoDXGuiQk9V6XMIUUURpQJXf8y00MAGq7XdcN7A52SCQPpRRaM/0LS+l+FoMcaH2oos+mnItnahvcQMKKLNQExwFG5A/NRRXz9TWTL65nE9u6VSwbA7u6UUXRGY2kY0hxIBJcGZ6B5TuiO5jb6AHFYUUU9/Bz9FkFDHaXODYKiixarE+gfKHCSyZ1HkAqKKp8KndxIAKsCaUUSNZjnCQUSPpFZI6xxyFFEJrjzbjYHKzvF2NfonPI9TMg/mooq5+i/GEHFdBshRRbVk9Bp8R4RwaYCOebUUWFaqkm0Fyiin9OsvXknVUTgBdh5aOrUUWv4gTXSOgww0poWjywazaiiJ8TTYjDnEW5tnadpqwsTUipSeyoor5TRdG8hyd81/uooo7+tOfj//Z)",
+    "cards": [
+        {
+            "id": "b_babeburbsmell",
+            "content": {
+                "en": "Aw babe, your burbs smell like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_rachelraynewshow",
+            "content": {
+                "en": "Don’t miss Rachel Ray’s hit new show, Cooking with ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_waitertakesoupback",
+            "content": {
+                "en": "Excuse me, waiter. Could you take this back? This soup tastes like ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_bobbyflay",
+            "content": {
+                "en": "I’m Bobby Flay, and if you can’t stand ______. get out of the kitchen!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_digiorno",
+            "content": {
+                "en": "It’s not delivery. It’s ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_netflixjirodreams",
+            "content": {
+                "en": "Now on Netflix: <i>Jiro Dreams Of ______</i>."
+            },
+            "pick": 1
+        },
+        {
+            "id": "w_hardboileggbelly",
+            "content": {
+                "en": "A belly full of hard-boiled eggs."
+            }
+        },
+        {
+            "id": "w_veganparty",
+            "content": {
+                "en": "A joyless vegan party."
+            }
+        },
+        {
+            "id": "w_soberchilicheesefries",
+            "content": {
+                "en": "A sobering quantity of chili cheese fries."
+            }
+        },
+        {
+            "id": "w_cheesecaketableforone",
+            "content": {
+                "en": "A table for one at The Cheesecake Factory."
+            }
+        },
+        {
+            "id": "w_cheframseydominate",
+            "content": {
+                "en": "Being emotionally and physically dominated by Gordon Ramsay."
+            }
+        },
+        {
+            "id": "w_gazellevampirism",
+            "content": {
+                "en": "Clamping down on a gazelle’s jugular and tasting its warm life waters."
+            }
+        },
+        {
+            "id": "w_oldcountrysuicide",
+            "content": {
+                "en": "Committing suicide at the Old Country Buffet."
+            }
+        },
+        {
+            "id": "w_naughtydadchoco",
+            "content": {
+                "en": "Father’s forbidden chocolates."
+            }
+        },
+        {
+            "id": "w_happyvegetarianism",
+            "content": {
+                "en": "Going vegetarian and feeling so great all the time."
+            }
+        },
+        {
+            "id": "w_cumtwinkies",
+            "content": {
+                "en": "Jizz Twinkies."
+            }
+        },
+        {
+            "id": "w_kalefarts",
+            "content": {
+                "en": "Kale farts."
+            }
+        },
+        {
+            "id": "w_kevinbaconbits",
+            "content": {
+                "en": "Kevin Bacon Bits."
+            }
+        },
+        {
+            "id": "w_omafingercakelick",
+            "content": {
+                "en": "Licking the cake batter off of grandma’s fingers."
+            }
+        },
+        {
+            "id": "w_butterconfusion",
+            "content": {
+                "en": "Not knowing what to believe anymore about butter."
+            }
+        },
+        {
+            "id": "w_oreodinner",
+            "content": {
+                "en": "Oreos for dinner."
+            }
+        },
+        {
+            "id": "w_realcheeseflavor",
+            "content": {
+                "en": "Real cheese flavor."
+            }
+        },
+        {
+            "id": "w_soupoverpussy",
+            "content": {
+                "en": "Soup that’s better than pussy."
+            }
+        },
+        {
+            "id": "w_dailykrilleat",
+            "content": {
+                "en": "Sucking down thousands of pounds of krill every day."
+            }
+        },
+        {
+            "id": "w_fancywineswish",
+            "content": {
+                "en": "Swishing the wine around and sniffing it like a big fancy man."
+            }
+        },
+        {
+            "id": "w_dialaslice",
+            "content": {
+                "en": "The Dial-A-Slice Apple Divider from Williams-Sonoma."
+            }
+        },
+        {
+            "id": "w_hellmanmayocorp",
+            "content": {
+                "en": "The Hellman’s Mayonnaise Corporation."
+            }
+        },
+        {
+            "id": "w_tendaypussydog",
+            "content": {
+                "en": "The hot dog I put in my vagina ten days ago."
+            }
+        },
+        {
+            "id": "w_carrotscreams",
+            "content": {
+                "en": "The inaudible screams of carrots."
+            }
+        },
+        {
+            "id": "w_dickchocolatedilemma",
+            "content": {
+                "en": "What to do with all of this chocolate on my penis."
+            }
+        }
+    ]
+}

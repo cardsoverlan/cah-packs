@@ -3,6 +3,9 @@
     "name": "CAH: World Wide Web Pack",
     "accent_color": "#FBE03A",
     "accent_background": "#0898DA",
+    "author": "Cards Against Humanity",
+    "license": "Creative Commons BY-NC-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
     "cards": [
         {
             "id": "b_gogogadget",
