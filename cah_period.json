@@ -1,0 +1,197 @@
+{
+    "id": "cah_period",
+    "name": "CAH: Period Pack",
+    "accent_color": "#EB1C23",
+    "accent_background": "#F6A7C3",
+    "author": "Cards Against Humanity",
+    "license": "Creative Commons BY-NC-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "cards": [
+        {
+            "id": "b_canwomanhaveitall",
+            "content": {
+                "en": "Can a woman really have it all? A career and ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_mybodymychoice",
+            "content": {
+                "en": "My body, my voice! ______, my choice!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_myvaginaismad",
+            "content": {
+                "en": "My vagina's angry. My vagina's furious and needs to talk. It needs to talk about ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_newfrombarbie",
+            "content": {
+                "en": "New fom Mattel, it's ______ Barbie!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_tampaxslogan",
+            "content": {
+                "en": "Tampax: Don’t let your period ruin ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_getsmewet",
+            "content": {
+                "en": "What gets me wet?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "w_womentalkbirthcontrol",
+            "content": {
+                "en": "A diverse group of female friends casually discussing the side effects of birth control."
+            }
+        },
+        {
+            "id": "w_womanpresident",
+            "content": {
+                "en": "A woman president."
+            }
+        },
+        {
+            "id": "w_alwaysinfinitywithwings",
+            "content": {
+                "en": "Always© Infinity Extra Heavy Overnight Pads with Wings."
+            }
+        },
+        {
+            "id": "w_emodrainfriendship",
+            "content": {
+                "en": "An emotionally draining friendship."
+            }
+        },
+        {
+            "id": "w_carryfetustoterm",
+            "content": {
+                "en": "Carrying a fetus to term."
+            }
+        },
+        {
+            "id": "w_vagwhiff",
+            "content": {
+                "en": "Catching a whiff of my vag."
+            }
+        },
+        {
+            "id": "w_whitelinendance",
+            "content": {
+                "en": "Dancing carefree in white linen pants."
+            }
+        },
+        {
+            "id": "w_destroyunderwear",
+            "content": {
+                "en": "Destroying a pair of underwear."
+            }
+        },
+        {
+            "id": "w_beyoncedivacupdrink",
+            "content": {
+                "en": "Drinking Beyoncé's DivaCup and becoming immortal."
+            }
+        },
+        {
+            "id": "w_drivedaughtertoabort",
+            "content": {
+                "en": "Driving my daughter to her abortion."
+            }
+        },
+        {
+            "id": "w_3sleeveschipsahoy",
+            "content": {
+                "en": "Eating three sleeves of Chips Ahoy!"
+            }
+        },
+        {
+            "id": "w_bloatyandcrampy",
+            "content": {
+                "en": "Feeling bloaty and crampy."
+            }
+        },
+        {
+            "id": "w_feelinglotsfeelings",
+            "content": {
+                "en": "Feeling lots of feelings."
+            }
+        },
+        {
+            "id": "w_fullbush",
+            "content": {
+                "en": "Full bush."
+            }
+        },
+        {
+            "id": "w_imminentblooddick",
+            "content": {
+                "en": "How bloody that dick's about to be."
+            }
+        },
+        {
+            "id": "w_sonicaremasturbate",
+            "content": {
+                "en": "Masturbating with a Sonicare."
+            }
+        },
+        {
+            "id": "w_periodglobs",
+            "content": {
+                "en": "Period globs."
+            }
+        },
+        {
+            "id": "w_tvpussyplay",
+            "content": {
+                "en": "Playing with my pussy while I watch TV."
+            }
+        },
+        {
+            "id": "w_postpardumdepress",
+            "content": {
+                "en": "Post-partum depression."
+            }
+        },
+        {
+            "id": "w_neverendingtampon",
+            "content": {
+                "en": "Pulling out a never-ending tampon."
+            }
+        },
+        {
+            "id": "w_pussylipvariety",
+            "content": {
+                "en": "Pussy lips of all shapes and sizes."
+            }
+        },
+        {
+            "id": "w_trumpmaxipadwring",
+            "content": {
+                "en": "Wringing out a sopping wet maxi pad into Donald Trump's mouth."
+            }
+        },
+        {
+            "id": "w_vaginahole",
+            "content": {
+                "en": "The vagina hole."
+            }
+        },
+        {
+            "id": "w_uncrustablemaxipad",
+            "content": {
+                "en": "Using a Smucker's Uncrustable™ as a maxi pad."
+            }
+        }
+    ]
+}

@@ -46,7 +46,7 @@
         {
             "id": "b_goldfinger",
             "content": {
-                "en": "<i>Goldfinger!</i>\nHe's the man,\nthe man with ________."
+                "en": "*Goldfinger!*\nHe's the man,\nthe man with ________."
             },
             "pick": 1
         },
@@ -250,7 +250,7 @@
         {
             "id": "b_notellonlyexperience",
             "content": {
-                "en": "Unfortunately, no one can be <i>told</i> what ______ is. You have to experience it for yourself."
+                "en": "Unfortunately, no one can be *told* what ______ is. You have to experience it for yourself."
             },
             "pick": 1
         },
@@ -1293,7 +1293,7 @@
         {
             "id": "w_mywifeboratvoice",
             "content": {
-                "en": "My wife.\n<i>(in Borat voice)</i>"
+                "en": "My wife.\n*(in Borat voice)*"
             }
         },
         {
