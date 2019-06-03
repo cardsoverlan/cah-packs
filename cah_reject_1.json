@@ -1,0 +1,206 @@
+{
+    "id": "cah_reject_1",
+    "name": "CAH: Reject Pack",
+    "accent_color": "#ffffff",
+    "accent_background": "#000000",
+    "accent_text_decoration": "strikethrough",
+    "author": "Cards Against Humanity",
+    "license": "Creative Commons BY-NC-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "cards": [
+        {
+            "id": "b_mythbusters",
+            "content": {
+                "en": "Today on <i>Mythbusters</i>, we find out how long ________ can withstand ________."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_youngscientists",
+            "content": {
+                "en": "Hey there, Young Scientists! Put on your labcoats and strap on your safety goggles, because today we're learning about ________!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_robustcorrelation",
+            "content": {
+                "en": "In line with our predictions, we find a robust correlation between ________ and ________ (p < .05)."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_synthesizebreakthrough",
+            "content": {
+                "en": "In what's being hailed as a major breakthrough, scientists have synthesized ________ in the lab."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_naturestudy",
+            "content": {
+                "en": "A study published in <i>Nature</i> this week found that ________ is good for you in small doses."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_lhcstudy",
+            "content": {
+                "en": "In an attempt to recreate conditions just after the Big Band, physccists at the LHC are observing collisions between ________ and ________."
+            },
+            "pick": 2
+        },
+        {
+            "id": "b_whatkilleddinosaurs",
+            "content": {
+                "en": "What really killed the dinosaurs?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "w_narrowdomain",
+            "content": {
+                "en": "Being knowledgeable in a narrow domain that nobody understands or cares about."
+            }
+        },
+        {
+            "id": "w_uranus",
+            "content": {
+                "en": "Uranus."
+            }
+        },
+        {
+            "id": "w_nippleoxyrelease",
+            "content": {
+                "en": "Oxytocin release via manual stimulation of the nipples."
+            },
+            "flags": "w"
+        },
+        {
+            "id": "w_infinity",
+            "content": {
+                "en": "Infinity.",
+                "de": "Unendlichkeit."
+            }
+        },
+        {
+            "id": "w_briefglobalwarmingworry",
+            "content": {
+                "en": "Getting really worried about global warming for a few seconds."
+            }
+        },
+        {
+            "id": "w_labyrinthvag",
+            "content": {
+                "en": "Evolving a labyrinthine vagina."
+            },
+            "flags": "w gn gnf"
+        },
+        {
+            "id": "w_notenoughserotonin",
+            "content": {
+                "en": "Not enough serotonin."
+            }
+        },
+        {
+            "id": "w_electroejacmonkey",
+            "content": {
+                "en": "Electroejaculating a capuchin monkey."
+            },
+            "flags": "s an"
+        },
+        {
+            "id": "w_quantumandrelativity",
+            "content": {
+                "en": "Reconciling quantum theory with general relativity."
+            }
+        },
+        {
+            "id": "w_supermassiveblackhole",
+            "content": {
+                "en": "A supermassive black hole."
+            }
+        },
+        {
+            "id": "w_slowevaporate",
+            "content": {
+                "en": "Slowly evaporating."
+            }
+        },
+        {
+            "id": "w_seaturtlemajesty",
+            "content": {
+                "en": "The quiet majesty of the sea turtle."
+            },
+            "flags": "an"
+        },
+        {
+            "id": "w_waisthipratio",
+            "content": {
+                "en": "A 0.7 waist-to-hip ratio."
+            }
+        },
+        {
+            "id": "w_rockfacts",
+            "content": {
+                "en": "Fun and interesting facts about rocks."
+            }
+        },
+        {
+            "id": "w_photosynth",
+            "content": {
+                "en": "Photosynthesis."
+            }
+        },
+        {
+            "id": "w_secondarysexchar",
+            "content": {
+                "en": "Developing secondary sex characteristics."
+            },
+            "flags": "s"
+        },
+        {
+            "id": "w_turingtestfail",
+            "content": {
+                "en": "Failing the Turing test."
+            }
+        },
+        {
+            "id": "w_reproducesuccess",
+            "content": {
+                "en": "Achieving reproductive success."
+            }
+        },
+        {
+            "id": "w_explosivedecompress",
+            "content": {
+                "en": "Explosive decompression."
+            }
+        },
+        {
+            "id": "w_driveintotornado",
+            "content": {
+                "en": "Driving into a tornado to learn about tornadoes."
+            }
+        },
+        {
+            "id": "w_yearsofevolution",
+            "content": {
+                "en": "3.7 billion years of evolution."
+            }
+        },
+        {
+            "id": "w_sunengulfearth",
+            "content": {
+                "en": "The Sun engulfing the Earth."
+            }
+        },
+        {
+            "id": "w_davidwatchusmate",
+            "content": {
+                "en": "David Attenborough watching us mate."
+            },
+            "flags": "w s"
+        }
+    ]
+}

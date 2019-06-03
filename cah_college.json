@@ -1,0 +1,204 @@
+{
+    "id": "cah_college",
+    "name": "CAH: College Pack",
+    "accent_background": "#E2050B",
+    "accent_color": "#f2f2fa",
+    "author": "Cards Against Humanity",
+    "license": "Creative Commons BY-NC-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+    "cards": [
+        {
+            "id": "b_classcancelled",
+            "content": {
+                "en": "All classes today are cancelled due to ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_numberoneschoolfor",
+            "content": {
+                "en": "Did you know? Our college was recently named the #1 school for ______!"
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_fempersppaper",
+            "content": {
+                "en": "In this paper, I will explore ______ from a feminist perspective."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_lastnighthazymemory",
+            "content": {
+                "en": "My memory of last night is pretty hazy. I remember ______ and that's pretty much it."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_deltaphimaterial",
+            "content": {
+                "en": "Pledges! Time to prove you're Delta Phi material. Chug this beer, take off your shirts, and get ready for ______."
+            },
+            "pick": 1
+        },
+        {
+            "id": "b_paidresearchvolunteers",
+            "content": {
+                "en": "The Department of Psychology is looking for paid research volunteers. Are you 18-25 and suffering from ______?"
+            },
+            "pick": 1
+        },
+        {
+            "id": "w_commdegree",
+            "content": {
+                "en": "A bachelor's degeree in communications."
+            }
+        },
+        {
+            "id": "w_interestingbluehairgirl",
+            "content": {
+                "en": "A girl who is so interesting that she has blue hair."
+            }
+        },
+        {
+            "id": "w_yaleman",
+            "content": {
+                "en": "A Yale man."
+            }
+        },
+        {
+            "id": "w_inclusionmeeting",
+            "content": {
+                "en": "An emergency all-floor meeting on inclusion."
+            }
+        },
+        {
+            "id": "w_homesickmomcall",
+            "content": {
+                "en": "Calling mom because it's just really hard and I miss her and I don't know anyone here."
+            }
+        },
+        {
+            "id": "w_poetryfallinlove",
+            "content": {
+                "en": "Falling in love with poetry."
+            }
+        },
+        {
+            "id": "w_fivemoronlease",
+            "content": {
+                "en": "Five morons signing a lease together."
+            }
+        },
+        {
+            "id": "w_acapellabeatboxfuck",
+            "content": {
+                "en": "Fucking the beat boxer from the a cappella group."
+            },
+            "flags": "s"
+        },
+        {
+            "id": "w_becomecollegesexperson",
+            "content": {
+                "en": "Going to college and becoming a new person, who has sex."
+            },
+            "flags": "s"
+        },
+        {
+            "id": "w_googlepussyeat",
+            "content": {
+                "en": "Googling how to eat pussy."
+            },
+            "flags": "s"
+        },
+        {
+            "id": "w_howmanyasians",
+            "content": {
+                "en": "How many Asians there are."
+            }
+        },
+        {
+            "id": "w_highschoolboyfriend",
+            "content": {
+                "en": "My high school boyfriend."
+            }
+        },
+        {
+            "id": "w_perfwokeness",
+            "content": {
+                "en": "Performative wokeness."
+            }
+        },
+        {
+            "id": "w_pretenddidreading",
+            "content": {
+                "en": "Pretending to have done the reading."
+            }
+        },
+        {
+            "id": "w_onepointfivegpa",
+            "content": {
+                "en": "Rocking a 1.5 GPA."
+            }
+        },
+        {
+            "id": "w_20minflaccidsuck",
+            "content": {
+                "en": "Sucking a flaccid penis for 20 minutes."
+            },
+            "flags": "s gn gnm"
+        },
+        {
+            "id": "w_roommatefapsound",
+            "content": {
+                "en": "The sound of my roommate masturbating."
+            },
+            "flags": "s"
+        },
+        {
+            "id": "w_throwup",
+            "content": {
+                "en": "Throw up."
+            },
+            "flags": "g"
+        },
+        {
+            "id": "w_basicbitchstarterpack",
+            "content": {
+                "en": "Uggs, leggings, and a North Face."
+            }
+        },
+        {
+            "id": "w_underagedrink",
+            "content": {
+                "en": "Underage drinking."
+            }
+        },
+        {
+            "id": "w_valueleaderexp",
+            "content": {
+                "en": "Valuable leadership experience."
+            }
+        },
+        {
+            "id": "w_partystreetsearch",
+            "content": {
+                "en": "Wandering the streets in search of a party."
+            }
+        },
+        {
+            "id": "w_whoshitintheshower",
+            "content": {
+                "en": "Whichever one of you took a shit in the shower."
+            },
+            "flags": "fe g l"
+        },
+        {
+            "id": "w_youngrepublicans",
+            "content": {
+                "en": "Young Republicans."
+            }
+        }
+    ]
+}
