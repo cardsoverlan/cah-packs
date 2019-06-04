@@ -13,7 +13,7 @@
             "content": {
                 "en": "Today on <i>Mythbusters</i>, we find out how long ________ can withstand ________."
             },
-            "pick": 1
+            "pick": 2
         },
         {
             "id": "b_youngscientists",
@@ -27,7 +27,7 @@
             "content": {
                 "en": "In line with our predictions, we find a robust correlation between ________ and ________ (p < .05)."
             },
-            "pick": 1
+            "pick": 2
         },
         {
             "id": "b_synthesizebreakthrough",
